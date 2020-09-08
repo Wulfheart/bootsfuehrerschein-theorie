@@ -17,7 +17,7 @@ class CreateTasksTable extends Migration
 
         Schema::create('tasks', function (Blueprint $table) {
             $table->id();
-            $table->string('question');
+            $table->text('question');
             $table->foreignId('license_id')->constrained()->cascadeOnDelete();
             $table->timestamps();
         });

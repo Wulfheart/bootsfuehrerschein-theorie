@@ -18,7 +18,7 @@ class CreateResponsesTable extends Migration
         Schema::create('responses', function (Blueprint $table) {
             $table->id();
             $table->foreignId('task_id')->constrained()->cascadeOnDelete();
-            $table->string('text');
+            $table->text('text');
             $table->boolean('correct');
             $table->timestamps();
         });
