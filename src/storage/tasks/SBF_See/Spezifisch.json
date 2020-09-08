@@ -1,0 +1,5062 @@
+[
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Auf der Hohen See und auf den mit dieser zusammenhängenden, von Seeschiffen befahrbaren Gewässern."
+        },
+        {
+          "correct": false,
+          "text": "Auf der Hohen See und den deutschen Seeschifffahrtsstraßen, die von Seeschiffen befahren werden."
+        },
+        {
+          "correct": false,
+          "text": "Auf den Seeschifffahrtsstraßen und den küstennahen deutschen Seegewässern, die von Seeschiffen befahren werden."
+        },
+        {
+          "correct": false,
+          "text": "Auf der Hohen See und den von Seeschiffen befahrbaren Randmeeren, mit Ausnahme der Verkehrstrennungsgebiete."
+        }
+      ],
+      "question": "Wo gelten die Kollisionsverhütungsregeln (KVR)?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Die Vorschrift der Seeschifffahrtsstraßen-Ordnung."
+        },
+        {
+          "correct": false,
+          "text": "Die Vorschrift der Kollisionsverhütungsregeln (KVR)."
+        },
+        {
+          "correct": false,
+          "text": "Die Grundregeln für das Verhalten im Verkehr."
+        },
+        {
+          "correct": false,
+          "text": "Die Vorschrift der Schifffahrtsordnung Emsmündung."
+        }
+      ],
+      "question": "Was gilt, wenn eine Bestimmung der Seeschifffahrtsstraßen-Ordnung (SeeSchStrO) mit den Kollisionsverhütungsregeln (KVR) im Widerspruch steht?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Sportboote ohne Antriebsmaschine oder solche mit einer größten nicht überschreitbaren Nutzleistung von 11,03 Kilowatt (15 PS) oder weniger."
+        },
+        {
+          "correct": false,
+          "text": "Sportboote unter Segel mit einer Rumpflänge unter 15 m und solche deren Antriebsmaschine nicht benutzt wird."
+        },
+        {
+          "correct": false,
+          "text": "Sportboote mit Antriebsmaschine mit einer größeren Nutzleistung als 11,03 Kilowatt (15 PS)."
+        },
+        {
+          "correct": false,
+          "text": "Sportboote, die entweder vor Anker liegen oder an Land festgemacht sind oder auf Grund sitzen."
+        }
+      ],
+      "question": "Welche Sportboote sind von der Fahrerlaubnispflicht auf den Seeschifffahrtsstraßen ausgenommen?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Der Fahrzeugführer oder sein Stellvertreter."
+        },
+        {
+          "correct": false,
+          "text": "Der Fahrzeugführer und sein Stellvertreter."
+        },
+        {
+          "correct": false,
+          "text": "Der Fahrzeugführer und jeder sonst Verantwortliche."
+        },
+        {
+          "correct": false,
+          "text": "Der Fahrzeugführer oder jeder sonst Verantwortliche."
+        }
+      ],
+      "question": "Wer ist für die Befolgung der Verkehrsvorschriften verantwortlich?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Die Verpflichtung zur Beachtung von Vorsichtsmaßregeln über die Verkehrsvorschriften hinaus, die Seemannsbrauch oder besondere Umstände des Falles erfordern."
+        },
+        {
+          "correct": false,
+          "text": "Die Verpflichtung zur Beachtung der Seeschifffahrtsstraßen-Ordnung (SeeSchStrO), der Kollisionsverhütungsregeln (KVR), der Grundregeln für das Verhalten im Verkehr und der Ausweichregeln mit dem Manöver des letzten Augenblicks."
+        },
+        {
+          "correct": false,
+          "text": "Die Verpflichtung zur Beachtung der Vorsichtsmaßregeln und Sicherheitsregeln der Verkehrsvorschriften und der Grundregeln für das Verhalten im Verkehr."
+        },
+        {
+          "correct": false,
+          "text": "Die Verpflichtung zur Beachtung von Vorsichtsmaßregeln der Kollisionsverhütungsregeln (KVR), der Grundregeln für das Verhalten im Verkehr und der Ausweichregeln mit dem Manöver des letzten Augenblicks."
+        }
+      ],
+      "question": "Was bedeutet \"seemännische Sorgfaltspflicht\"?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Der Fahrzeugführer hat die Besatzungsmitglieder und Gäste über die Sicherheitsvorkehrungen an Bord zu unterrichten, in die Handhabung der Rettungs- und Feuerlöschmittel einzuweisen und auf geeignete Maßnahmen gegen das Überbordfallen hinzuweisen."
+        },
+        {
+          "correct": false,
+          "text": "Der Fahrzeugführer muss die Besatzungsmitglieder und Gäste anweisen, dass sie sich über die Sicherheitsvorkehrungen an Bord informieren, sich die Gebrauchsanweisungen der Rettungs- und Feuerlöschmittel ansehen und auf geeignete Maßnahmen gegen das Überbordfallen achten."
+        },
+        {
+          "correct": false,
+          "text": "Der Fahrzeugführer hat die verantwortlichen Besatzungsmitglieder über die Sicherheitsvorkehrungen an Bord zu unterrichten, in die Handhabung der Rettungs- und Feuerlöschmittel einzuweisen und auf geeignete Maßnahmen gegen das Überbordfallen hinzuweisen."
+        },
+        {
+          "correct": false,
+          "text": "Der Fahrzeugführer hat die Gäste an Bord über die Sicherheitsvorkehrungen an Bord zu unterrichten, in die Handhabung der Rettungs- und Feuerlöschmittel einzuweisen und auf geeignete Maßnahmen gegen das Überbordfallen hinzuweisen."
+        }
+      ],
+      "question": "Welche Sicherheitsmaßnahmen hat der Fahrzeugführer im Rahmen seiner seemännischen Sorgfaltspflicht vor Fahrtantritt zum Schutze und für die Sicherheit der Personen an Bord zu treffen?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Ausweichmanöver des Kurshalters."
+        },
+        {
+          "correct": false,
+          "text": "Ausweichmanöver des Ausweichpflichtigen."
+        },
+        {
+          "correct": false,
+          "text": "Ausweichmanöver des Kurshalters und des Ausweichpflichtigen."
+        },
+        {
+          "correct": false,
+          "text": "Ausweichmanöver des Kurshalters oder des Ausweichpflichtigen."
+        }
+      ],
+      "question": "Was bedeutet das \"Manöver des letzten Augenblicks\"?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Es muss durchgeführt werden, wenn ein Zusammenstoß durch Manöver des Ausweichpflichtigen allein nicht mehr vermieden werden kann."
+        },
+        {
+          "correct": false,
+          "text": "Es muss durchgeführt werden, wenn ein Zusammenstoß durch Manöver des Kurshalters allein nicht mehr vermieden werden kann."
+        },
+        {
+          "correct": false,
+          "text": "Es muss im letzten Augenblick von jedem durchgeführt werden, wenn ein Zusammenstoß sonst nicht mehr vermieden werden kann."
+        },
+        {
+          "correct": false,
+          "text": "Es muss kurz vor der Kollision durchgeführt werden, wenn sonst ein Zusammenstoß durch Manöver des Kurshalters allein nicht mehr vermieden werden kann."
+        }
+      ],
+      "question": "Wann ist das \"Manöver des letzten Augenblicks\" durchzuführen?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Wenn es sich einem anderen Fahrzeug aus einer Richtung von mehr als 22,5° achterlicher als querab (Bereich des Hecklichtes) nähert."
+        },
+        {
+          "correct": false,
+          "text": "Wenn es sich einem anderen Fahrzeug aus einer Richtung von mehr als 112,5° achterlicher als querab (Bereich der Seitenlichter) nähert."
+        },
+        {
+          "correct": false,
+          "text": "Wenn es sich einem anderen Fahrzeug gegenüber in einer Richtung von mehr als 22,5° achterlicher als querab (Bereich des Hecklichtes) befindet."
+        },
+        {
+          "correct": false,
+          "text": "Wenn es an einem anderen Fahrzeug aus einer achterlichen Richtung von mehr als 22,5° querab kommend (Bereich des Topplichtes) vorbeifährt."
+        }
+      ],
+      "question": "Wann gilt ein Fahrzeug als überholendes Fahrzeug?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Wenn es wegen außergewöhnlicher Umstände, z. B. Ausfall der Ruder- oder Maschinenanlage, nicht so wie vorgeschrieben manövrieren und daher einem anderen Fahrzeug nicht ausweichen kann."
+        },
+        {
+          "correct": false,
+          "text": "Wenn es wegen der Art seines Einsatzes behindert ist und deshalb nicht so wie vorgeschrieben manövrieren und daher einem anderen Fahrzeug nicht ausweichen kann."
+        },
+        {
+          "correct": false,
+          "text": "Wenn es wegen seines Tiefgangs im Verhältnis zu der vorhandenen Tiefe und Breite des befahrbaren Gewässers erheblich behindert ist, von seinem zu verfolgenden Kurs abzuweichen."
+        },
+        {
+          "correct": false,
+          "text": "Wenn es mit Netzen, Leinen, Schleppnetzen oder anderen Fanggeräten fischt, welche die Manövrierfähigkeit einschränken."
+        }
+      ],
+      "question": "Wann ist ein Fahrzeug manövrierunfähig?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Wenn es wegen der Art seines Einsatzes behindert ist und deshalb nicht so wie vorgeschrieben manövrieren und daher einem anderen Fahrzeug nicht ausweichen kann."
+        },
+        {
+          "correct": false,
+          "text": "Wenn es wegen außergewöhnlicher Umstände, z. B. Ausfall der Ruder- oder Maschinenanlage, nicht so wie vorgeschrieben manövrieren und daher einem anderen Fahrzeug nicht ausweichen kann."
+        },
+        {
+          "correct": false,
+          "text": "Wenn es wegen seines Tiefgangs im Verhältnis zu der vorhandenen Tiefe und Breite des befahrbaren Gewässers erheblich behindert ist, von seinem zu verfolgenden Kurs abzuweichen."
+        },
+        {
+          "correct": false,
+          "text": "Wenn es mit Netzen, Leinen, Schleppnetzen oder anderen Fanggeräten fischt, welche die Manövrierfähigkeit einschränken."
+        }
+      ],
+      "question": "Wann ist ein Fahrzeug manövrierbehindert?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Es muss mit sicherer, den verminderten Sichtverhältnissen angepasster Geschwindigkeit gefahren werden, es müssen Schallsignale gegeben werden, es müssen Positionslichter eingeschaltet werden und es muss gehörig Ausguck gegangen werden."
+        },
+        {
+          "correct": false,
+          "text": "Es muss mit sicherer, den verminderten Sichtverhältnissen angepasster Geschwindigkeit gefahren werden, es müssen Schallsignale gegeben werden, das Radargerät muss eingeschaltet werden und es muss Ausguck gegangen werden."
+        },
+        {
+          "correct": false,
+          "text": "Es muss mit sicherer, den verminderten Sichtverhältnissen angepasster Geschwindigkeit gefahren werden, es müssen Schallsinale gegeben werden, es müssen Positionslichter eingeschaltet werden und es muss der Radarreflektor eingesetzt werden."
+        },
+        {
+          "correct": false,
+          "text": "Es muss mit verminderter Geschwindigkeit gefahren werden, es müssen Schallsignale gegeben werden, es müssen Positionslichter eingeschaltet werden und es muss das AIS (Automatic Identifikation System) eingeschaltet werden."
+        }
+      ],
+      "question": "Welche besonderen Maßnahmen sind bei verminderter Sicht zu treffen?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Die Kollisionsverhütungsregeln (KVR), die Seeschifffahrtsstraßen-Ordnung (SeeSchStrO) und die Schifffahrtsordnung Emsmündung (EmsSchO)."
+        },
+        {
+          "correct": false,
+          "text": "Die Kollisionsverhütungsregeln (KVR), die Seeschifffahrtsstraßen-Ordnung (SeeSchStrO) und die Sportbootführerscheinverordnung."
+        },
+        {
+          "correct": false,
+          "text": "Die Kollisionsverhütungsregeln (KVR), die Seeschifffahrtsstraßen-Ordnung (SeeSchStrO) und die Schiffssicherheitsverordnung."
+        },
+        {
+          "correct": false,
+          "text": "Die Kollisionsverhütungsregeln (KVR), die Seeschifffahrtsstraßen-Ordnung (SeeSchStrO) und die Verordnung zur Sicherung der Seefahrt."
+        }
+      ],
+      "question": "Welche Vorschriften regeln die Ausrüstung, Anordnung und Anbringung der Positionslaternen, Sichtzeichen und Schallsignalanlagen auf Fahrzeugen?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Solche, deren Baumuster vom Bundesamt für Seeschifffahrt und Hydrographie (BSH) zur Verwendung zugelassen sind oder eine als gleichwertig anerkannte Zulassung eines EU-Staates besitzen."
+        },
+        {
+          "correct": false,
+          "text": "Solche, die die vorgeschriebene Mindesttragweite von drei Seemeilen, die Größe und Farbgebung bzw. Lautstärke erreichen und mit einer Bescheinigung einer Klassifikationsgesellschaft versehen sind."
+        },
+        {
+          "correct": false,
+          "text": "Solche, die gemäß der Kollisionsverhütungsregeln (KVR), der Seeschifffahrtsstraßen-Ordnung (SeeSchStrO) und der Schifffahrtsordnung Emsmündung (EmsSchO) vorgeschrieben sind und ein CE-Zeichen haben."
+        },
+        {
+          "correct": false,
+          "text": "Solche, die vom Technischen Überwachungsverein (TÜV) geprüft und mit dem Zeichen für geprüfte Sicherheit (GS) versehen sind."
+        }
+      ],
+      "question": "Welche Positionslaternen und Schallsignalanlagen dürfen auf Sportbooten unter deutscher Flagge verwendet werden?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Es sind bekannt gemachte Schifffahrtswege, die durch Trennlinien oder Trennzonen in Einbahnwege geteilt sind."
+        },
+        {
+          "correct": false,
+          "text": "Es sind bekannt gemachte Fahrwasser, die durch Trennlinien oder Trennzonen in Einbahnwege geteilt sind."
+        },
+        {
+          "correct": false,
+          "text": "Es sind bekannt gemachte Seeschifffahrtsstraßen, die durch Trennlinien oder Trennzonen in Einbahnwege geteilt sind."
+        },
+        {
+          "correct": false,
+          "text": "Es sind bekannt gemachte Bundeswasserstraßen, die durch Trennlinien oder Trennzonen in Einbahnwege geteilt sind."
+        }
+      ],
+      "question": "Was sind \"Verkehrstrennungsgebiete\"?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Sie dürfen jeweils nur in der allgemeinen Verkehrsrichtung rechts der Trennlinie oder Trennzone befahren werden."
+        },
+        {
+          "correct": false,
+          "text": "Sie dürfen jeweils nur in Fahrtrichtung links der Trennlinie oder Trennzone befahren werden."
+        },
+        {
+          "correct": false,
+          "text": "Sie dürfen innerhalb der äußeren Trennlinien nur in einer Fahrtrichtung befahren werden."
+        },
+        {
+          "correct": false,
+          "text": "Sie dürfen nur vom Anfang bis zum Ende und jeweils nur in Fahrtrichtung rechts der Trennzone befahren werden."
+        }
+      ],
+      "question": "Wie sind Verkehrstrennungsgebiete zu befahren?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Wenn jedes Fahrzeug vom anderen optisch wahrgenommen werden kann."
+        },
+        {
+          "correct": false,
+          "text": "Wenn jeder Fahrzeugführer vom anderen optisch wahrgenommen werden kann."
+        },
+        {
+          "correct": false,
+          "text": "Wenn beide Fahrzeuge optisch wahrgenommen werden können."
+        },
+        {
+          "correct": false,
+          "text": "Wenn jedes Fahrzeug auch bei unsichtigem Wetter optisch wahrgenommen werden kann."
+        }
+      ],
+      "question": "Was bedeutet \"in Sicht befindlich\"?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Die Geschwindigkeit muss der Verkehrslage, den Sicht- und Witterungsverhältnissen angepasst sein und es muss jederzeit aufgestoppt werden können."
+        },
+        {
+          "correct": false,
+          "text": "Die Geschwindigkeit muss der Verkehrslage, den Sicht- und Witterungsverhältnissen angepasst sein und der Verkehr darf nicht behindert werden."
+        },
+        {
+          "correct": false,
+          "text": "Die Geschwindigkeit muss der Verkehrslage, den Sicht- und Witterungsverhältnissen und dem Treibstoffverbrauch angepasst sein."
+        },
+        {
+          "correct": false,
+          "text": "Die Geschwindigkeit muss der Verkehrslage, dem Verkehrsaufkommen, den Seegangs- und Windverhältnissen angepasst sein, so dass kein Sog und Wellenschlag entsteht."
+        }
+      ],
+      "question": "Was bedeutet sichere Geschwindigkeit?"
+    },
+    {
+      "images": [
+        {
+          "src": "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-See/Spezifische-Fragen-See/Lichter-Frage-91-gif.gif?__blob=normal&v=1",
+          "title": "Maschinenfahrzeug in Fahrt von weniger als 50 m Länge"
+        }
+      ],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Maschinenfahrzeug in Fahrt von weniger als 50 m Länge."
+        },
+        {
+          "correct": false,
+          "text": "Maschinenfahrzeug in Fahrt von 50 und mehr Meter Länge."
+        },
+        {
+          "correct": false,
+          "text": "Ein manövrierunfähiges Fahrzeug in Fahrt."
+        },
+        {
+          "correct": false,
+          "text": "Ein manövrierbehindertes Fahrzeug mit Fahrt durchs Wasser von 50 und mehr Meter Länge."
+        }
+      ],
+      "question": "Welches Fahrzeug führt diese Lichter?"
+    },
+    {
+      "images": [
+        {
+          "src": "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-See/Spezifische-Fragen-See/Lichter-Frage-92-gif.gif?__blob=normal&v=1",
+          "title": "Maschinenfahrzeug in Fahrt von 50 und mehr Meter Länge"
+        }
+      ],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Maschinenfahrzeug in Fahrt von 50 und mehr Meter Länge."
+        },
+        {
+          "correct": false,
+          "text": "Maschinenfahrzeug in Fahrt von weniger als 50 m Länge."
+        },
+        {
+          "correct": false,
+          "text": "Ein manövrierunfähiges Fahrzeug in Fahrt."
+        },
+        {
+          "correct": false,
+          "text": "Ein manövrierbehindertes Fahrzeug mit Fahrt durchs Wasser von 50 und mehr Meter Länge."
+        }
+      ],
+      "question": "Welches Fahrzeug muss diese Lichter führen?"
+    },
+    {
+      "images": [
+        {
+          "src": "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-See/Spezifische-Fragen-See/Lichter-Frage-93-gif.gif?__blob=normal&v=1",
+          "title": "Manövrierbehinderter Schleppverband in Fahrt von 200 m Länge oder weniger"
+        }
+      ],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Manövrierbehinderter Schleppverband in Fahrt von 200 m Länge oder weniger."
+        },
+        {
+          "correct": false,
+          "text": "Manövrierbehinderter Schleppverband in Fahrt von mehr als 200 m Länge."
+        },
+        {
+          "correct": false,
+          "text": "Manövrierbehinderter Schleppverband in Fahrt von 200 m Länge oder weniger, ohne Fahrt durchs Wasser."
+        },
+        {
+          "correct": false,
+          "text": "Ein manövrierbehindertes Fahrzeug mit Fahrt durchs Wasser von 50 und mehr Meter Länge."
+        }
+      ],
+      "question": "Welches Fahrzeug führt diese Lichter?"
+    },
+    {
+      "images": [
+        {
+          "src": "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-See/Spezifische-Fragen-See/Lichter-Frage-94-gif.gif?__blob=normal&v=1",
+          "title": "Manövrierbehinderter Schleppverband in Fahrt von mehr als 200 m Länge"
+        }
+      ],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Manövrierbehinderter Schleppverband in Fahrt von mehr als 200 m Länge."
+        },
+        {
+          "correct": false,
+          "text": "Manövrierbehinderter Schleppverband in Fahrt von 200 m Länge oder weniger."
+        },
+        {
+          "correct": false,
+          "text": "Manövrierbehinderter Schleppverband in Fahrt von mehr als 200 m Länge, ohne Fahrt durch das Wasser."
+        },
+        {
+          "correct": false,
+          "text": "Ein manövrierbehindertes Fahrzeug, das baggert oder Unterwasserarbeiten ausführt und dabei die Schifffahrt behindert."
+        }
+      ],
+      "question": "Welches Fahrzeug führt diese Lichter?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Seitenlichter rot und grün und ein weißes Hecklicht."
+        },
+        {
+          "correct": false,
+          "text": "Seitenlichter rot und grün und ein weißes Rundumlicht."
+        },
+        {
+          "correct": false,
+          "text": "Seitenlichter rot und grün und zwei rote Rundumlichter senkrecht übereinander."
+        },
+        {
+          "correct": false,
+          "text": "Seitenlichter rot und grün und ein rotes Rundumlicht senkrecht über einem weißen Rundumlicht."
+        }
+      ],
+      "question": "Welche Lichter führen geschleppte Fahrzeuge?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Schleppverband von mehr als 200 m Länge."
+        },
+        {
+          "correct": false,
+          "text": "Schleppverband von mehr als 100 m Länge."
+        },
+        {
+          "correct": false,
+          "text": "Schleppverband von mehr als 50 m Länge."
+        },
+        {
+          "correct": false,
+          "text": "Schleppverband von weniger als 50 m Länge."
+        }
+      ],
+      "question": "Was bedeutet es, wenn jedes Fahrzeug eines Schleppverbandes einen schwarzen Rhombus führt?"
+    },
+    {
+      "images": [
+        {
+          "src": "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-See/Spezifische-Fragen-See/Lichter-Frage-97-gif.gif?__blob=normal&v=1",
+          "title": "Ein manövrierunfähiges Fahrzeug in Fahrt"
+        }
+      ],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Ein manövrierunfähiges Fahrzeug in Fahrt."
+        },
+        {
+          "correct": false,
+          "text": "Ein manövrierbehindertes Fahrzeug in Fahrt."
+        },
+        {
+          "correct": false,
+          "text": "Ein tiefgangbehindertes Fahrzeug in Fahrt."
+        },
+        {
+          "correct": false,
+          "text": "Ein Grundsitzer von 50 und mehr Meter Länge."
+        }
+      ],
+      "question": "Welches Fahrzeug führt diese Lichter?"
+    },
+    {
+      "images": [
+        {
+          "src": "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-See/Spezifische-Fragen-See/Lichter-Frage-98-gif.gif?__blob=normal&v=1",
+          "title": "Ein manövrierunfähiges Fahrzeug mit Fahrt durch das Wasser"
+        }
+      ],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Ein manövrierunfähiges Fahrzeug mit Fahrt durch das Wasser."
+        },
+        {
+          "correct": false,
+          "text": "Ein manövrierbehindertes Fahrzeug mit Fahrt durch das Wasser von 50 und mehr Meter Länge."
+        },
+        {
+          "correct": false,
+          "text": "Ein manövrierbehindertes Fahrzeug mit Fahrt durch das Wasser."
+        },
+        {
+          "correct": false,
+          "text": "Ein fischender Trawler (Fischereifahrzeug) mit Fahrt durch das Wasser von 50 und mehr Meter Länge."
+        }
+      ],
+      "question": "Welches Fahrzeug führt diese Lichter?"
+    },
+    {
+      "images": [
+        {
+          "src": "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-See/Spezifische-Fragen-See/Signalkoerper-Frage-99-gif.gif?__blob=normal&v=1",
+          "title": "Ein manövrierunfähiges Fahrzeug"
+        }
+      ],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Ein manövrierunfähiges Fahrzeug."
+        },
+        {
+          "correct": false,
+          "text": "Ein manövrierbehindertes Fahrzeug in Fahrt."
+        },
+        {
+          "correct": false,
+          "text": "Ein fischendes Fahrzeug in Fahrt."
+        },
+        {
+          "correct": false,
+          "text": "Ein Grundsitzer von 50 und mehr Meter Länge."
+        }
+      ],
+      "question": "Welches Fahrzeug führt diese Signalkörper?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Zwei rote Rundumlichter senkrecht übereinander."
+        },
+        {
+          "correct": false,
+          "text": "Zwei rote Rundumlichter senkrecht übereinander und zusätzlich die Seitenlichter und das Hecklicht."
+        },
+        {
+          "correct": false,
+          "text": "Drei rote Rundumlichter senkrecht übereinander."
+        },
+        {
+          "correct": false,
+          "text": "Drei rote Rundumlichter senkrecht übereinander und zusätzlich die Seitenlichter und das Hecklicht."
+        }
+      ],
+      "question": "Welche Lichter führen manövrierunfähige Fahrzeuge von 12 und mehr Meter Länge in Fahrt, ohne Fahrt durch das Wasser?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Zwei rote Rundumlichter senkrecht übereinander und zusätzlich die Seitenlichter und das Hecklicht."
+        },
+        {
+          "correct": false,
+          "text": "Zwei rote Rundumlichter senkrecht übereinander."
+        },
+        {
+          "correct": false,
+          "text": "Drei rote Rundumlichter senkrecht übereinander."
+        },
+        {
+          "correct": false,
+          "text": "Drei rote Rundumlichter senkrecht übereinander und zusätzlich die Seitenlichter und das Hecklicht."
+        }
+      ],
+      "question": "Welche Lichter führen manövrierunfähige Fahrzeuge von 12 und mehr Meter Länge in Fahrt mit Fahrt durch das Wasser?"
+    },
+    {
+      "images": [
+        {
+          "src": "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-See/Spezifische-Fragen-See/Lichter-Frage-102-gif.gif?__blob=normal&v=1",
+          "title": "Ein manövrierbehindertes Fahrzeug in Fahrt"
+        }
+      ],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Ein manövrierbehindertes Fahrzeug in Fahrt."
+        },
+        {
+          "correct": false,
+          "text": "Ein manövrierunfähiges Fahrzeug in Fahrt."
+        },
+        {
+          "correct": false,
+          "text": "Ein fischendes Fahrzeug in Fahrt."
+        },
+        {
+          "correct": false,
+          "text": "Ein Grundsitzer von weniger als 50 m Länge."
+        }
+      ],
+      "question": "Welches Fahrzeug führt diese Lichter?"
+    },
+    {
+      "images": [
+        {
+          "src": "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-See/Spezifische-Fragen-See/Lichter-Frage-103-gif.gif?__blob=normal&v=1",
+          "title": "Ein manövrierbehindertes Fahrzeug mit Fahrt durch das Wasser von 50 und mehr Meter Länge"
+        }
+      ],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Ein manövrierbehindertes Fahrzeug mit Fahrt durch das Wasser von 50 und mehr Meter Länge."
+        },
+        {
+          "correct": false,
+          "text": "Ein manövrierunfähiges Fahrzeug mit Fahrt durch das Wasser von 50 und mehr Meter Länge."
+        },
+        {
+          "correct": false,
+          "text": "Ein manövrierbehindertes Fahrzeug ohne Fahrt durch das Wasser von 50 und mehr Meter Länge."
+        },
+        {
+          "correct": false,
+          "text": "Ein fischender Trawler (Fischereifahrzeug) mit Fahrt durch das Wasser von 50 und mehr Meter Länge."
+        }
+      ],
+      "question": "Welches Fahrzeug muss diese Lichter führen?"
+    },
+    {
+      "images": [
+        {
+          "src": "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-See/Spezifische-Fragen-See/Signalkoerper-Frage-104-gif.gif?__blob=normal&v=1",
+          "title": "Ein manövrierbehindertes Fahrzeug"
+        }
+      ],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Ein manövrierbehindertes Fahrzeug."
+        },
+        {
+          "correct": false,
+          "text": "Ein manövrierunfähiges Fahrzeug in Fahrt."
+        },
+        {
+          "correct": false,
+          "text": "Ein fischendes Fahrzeug in Fahrt."
+        },
+        {
+          "correct": false,
+          "text": "Ein Grundsitzer von weniger als 50 m Länge."
+        }
+      ],
+      "question": "Welches Fahrzeug führt diese Signalkörper?"
+    },
+    {
+      "images": [
+        {
+          "src": "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-See/Spezifische-Fragen-See/Lichter-Frage-105-gif.gif?__blob=normal&v=1",
+          "title": "Ein Grundsitzer von weniger als 50 m Länge"
+        }
+      ],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Ein Grundsitzer von weniger als 50 m Länge."
+        },
+        {
+          "correct": false,
+          "text": "Ein manövrierbehindertes Fahrzeug."
+        },
+        {
+          "correct": false,
+          "text": "Ein manövrierunfähiges Fahrzeug in Fahrt."
+        },
+        {
+          "correct": false,
+          "text": "Ein Grundsitzer von 50 m und mehr Meter Länge."
+        }
+      ],
+      "question": "Welches Fahrzeug führt diese Lichter?"
+    },
+    {
+      "images": [
+        {
+          "src": "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-See/Spezifische-Fragen-See/Signalkoerper-Frage-106-gif.gif?__blob=normal&v=1",
+          "title": "Ein Grundsitzer"
+        }
+      ],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Ein Grundsitzer."
+        },
+        {
+          "correct": false,
+          "text": "Ein manövrierunfähiges Fahrzeug."
+        },
+        {
+          "correct": false,
+          "text": "Ein manövrierbehindertes Fahrzeug."
+        },
+        {
+          "correct": false,
+          "text": "Ein fischendes Fahrzeug."
+        }
+      ],
+      "question": "Welches Fahrzeug führt diese Signalkörper?"
+    },
+    {
+      "images": [
+        {
+          "src": "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-See/Spezifische-Fragen-See/Lichter-Frage-107-gif.gif?__blob=normal&v=1",
+          "title": "Ein Grundsitzer von 50 und mehr Meter Länge"
+        }
+      ],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Ein Grundsitzer von 50 und mehr Meter Länge."
+        },
+        {
+          "correct": false,
+          "text": "Ein manövrierbehindertes Fahrzeug."
+        },
+        {
+          "correct": false,
+          "text": "Ein manövrierunfähiges Fahrzeug in Fahrt."
+        },
+        {
+          "correct": false,
+          "text": "Ein Grundsitzer von weniger als 50 m Länge."
+        }
+      ],
+      "question": "Welches Fahrzeug führt diese Lichter?"
+    },
+    {
+      "images": [
+        {
+          "src": "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-See/Spezifische-Fragen-See/Lichter-Frage-108-gif.gif?__blob=normal&v=1",
+          "title": "Ein tiefgangbehindertes Fahrzeug von 50 und mehr Meter Länge in Fahrt"
+        }
+      ],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Ein tiefgangbehindertes Fahrzeug von 50 und mehr Meter Länge in Fahrt."
+        },
+        {
+          "correct": false,
+          "text": "Ein manövrierbehindertes Fahrzeug."
+        },
+        {
+          "correct": false,
+          "text": "Ein manövrierunfähiges Fahrzeug."
+        },
+        {
+          "correct": false,
+          "text": "Ein Grundsitzer von weniger als 50 m Länge."
+        }
+      ],
+      "question": "Welches Fahrzeug muss diese Lichter führen?"
+    },
+    {
+      "images": [
+        {
+          "src": "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-See/Spezifische-Fragen-See/Signalkoerper-Frage-109-gif.gif?__blob=normal&v=1",
+          "title": "Ein tiefgangbehindertes Fahrzeug in Fahrt"
+        }
+      ],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Ein tiefgangbehindertes Fahrzeug in Fahrt."
+        },
+        {
+          "correct": false,
+          "text": "Ein manövrierbehindertes Fahrzeug in Fahrt."
+        },
+        {
+          "correct": false,
+          "text": "Ein manövrierunfähiges Fahrzeug in Fahrt."
+        },
+        {
+          "correct": false,
+          "text": "Ein Grundsitzer von weniger als 50 Meter Länge."
+        }
+      ],
+      "question": "Welches Fahrzeug führt diese Signalkörper?"
+    },
+    {
+      "images": [
+        {
+          "src": "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-See/Spezifische-Fragen-See/Lichter-Frage-110-gif.gif?__blob=normal&v=1",
+          "title": "Ein fischender Trawler (Fischereifahrzeug) mit Fahrt durch das Wasser von 50 und mehr Meter Länge"
+        }
+      ],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Ein fischender Trawler (Fischereifahrzeug) mit Fahrt durch das Wasser von 50 und mehr Meter Länge."
+        },
+        {
+          "correct": false,
+          "text": "Ein fischendes Fahrzeug in Fahrt, das nicht trawlt, z. B. Treibnetzfischer."
+        },
+        {
+          "correct": false,
+          "text": "Ein Behördenfahrzeug im Einsatz."
+        },
+        {
+          "correct": false,
+          "text": "Ein manövrierbehindertes Fahrzeug in Fahrt."
+        }
+      ],
+      "question": "Welches Fahrzeug muss diese Lichter führen?"
+    },
+    {
+      "images": [
+        {
+          "src": "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-See/Spezifische-Fragen-See/Lichter-Frage-111-gif.gif?__blob=normal&v=1",
+          "title": "Ein fischendes Fahrzeug in Fahrt oder vor Anker, das nicht trawlt, z. B. Treibnetzfischer"
+        }
+      ],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Ein fischendes Fahrzeug in Fahrt oder vor Anker, das nicht trawlt, z. B. Treibnetzfischer."
+        },
+        {
+          "correct": false,
+          "text": "Ein Lotsenfahrzeug im Einsatz."
+        },
+        {
+          "correct": false,
+          "text": "Ein manövrierbehindertes Fahrzeug in Fahrt."
+        },
+        {
+          "correct": false,
+          "text": "Ein fischender Trawler (Fischereifahrzeug) mit Fahrt durchs Wasser von 50 und mehr Meter Länge."
+        }
+      ],
+      "question": "Welches Fahrzeug führt diese Lichter?"
+    },
+    {
+      "images": [
+        {
+          "src": "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-See/Spezifische-Fragen-See/Signalkoerper-Frage-112-gif.gif?__blob=normal&v=1",
+          "title": "Ein fischendes Fahrzeug in Fahrt oder vor Anker"
+        }
+      ],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Ein fischendes Fahrzeug in Fahrt oder vor Anker."
+        },
+        {
+          "correct": false,
+          "text": "Ein manövrierbehindertes Fahrzeug."
+        },
+        {
+          "correct": false,
+          "text": "Ein manövrierunfähiges Fahrzeug in Fahrt."
+        },
+        {
+          "correct": false,
+          "text": "Ein Grundsitzer von weniger als 50 m Länge."
+        }
+      ],
+      "question": "Welches Fahrzeug führt diese Signalkörper?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Segelfahrzeuge, Ruderboote und geschleppte Fahrzeuge."
+        },
+        {
+          "correct": false,
+          "text": "Segelfahrzeuge, Ruderboote und Maschinenfahrzeuge in Fahrt von weniger als 50 m Länge."
+        },
+        {
+          "correct": false,
+          "text": "Segelfahrzeuge, fischende Fahrzeuge und geschleppte Fahrzeuge."
+        },
+        {
+          "correct": false,
+          "text": "Segelfahrzeuge, Grundsitzer und geschleppte Fahrzeuge."
+        }
+      ],
+      "question": "Welche Fahrzeuge führen nur Seitenlichter rot und grün und ein weißes Hecklicht?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Ein weißes Rundumlicht an gut sichtbarer Stelle."
+        },
+        {
+          "correct": false,
+          "text": "Ein rotes Rundumlicht an gut sichtbarer Stelle."
+        },
+        {
+          "correct": false,
+          "text": "Zwei weiße Rundumlichter an gut sichtbarer Stelle."
+        },
+        {
+          "correct": false,
+          "text": "Zwei rote Rundumlichter an gut sichtbarer Stelle."
+        }
+      ],
+      "question": "Was für ein Licht muss ein Ankerlieger von weniger als 50 m Länge führen?"
+    },
+    {
+      "images": [
+        {
+          "src": "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-See/Spezifische-Fragen-See/Lichter-Frage-115-gif.gif?__blob=normal&v=1",
+          "title": "Ein vor Anker liegendes Fahrzeug von 100 und mehr Meter Länge"
+        }
+      ],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Ein vor Anker liegendes Fahrzeug von 100 und mehr Meter Länge."
+        },
+        {
+          "correct": false,
+          "text": "Ein fischender Trawler (Fischereifahrzeug) mit Fahrt durchs Wasser von 50 und mehr Meter Länge."
+        },
+        {
+          "correct": false,
+          "text": "Ein manövrierbehindertes Fahrzeug, das baggert oder Unterwasserarbeiten ausführt und dabei die Schifffahrt behindert."
+        },
+        {
+          "correct": false,
+          "text": "Ein Grundsitzer von 200 und mehr Meter Länge."
+        }
+      ],
+      "question": "Welches Fahrzeug muss diese Lichter führen?"
+    },
+    {
+      "images": [
+        {
+          "src": "https://www.elwis.de/DE/Schifffahrtsrecht/Seeschifffahrtsrecht/SeeSchStrO/Anlagen/Anlage-II/Schallsignal-11.gif?__blob=normal&v=1",
+          "title": "Ein langer Ton mit der Pfeife"
+        }
+      ],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Ein Maschinenfahrzeug, das Fahrt durchs Wasser macht."
+        },
+        {
+          "correct": false,
+          "text": "Ein geschlepptes Fahrzeug oder das letzte bemannte Fahrzeug eines Schleppverbandes in Fahrt."
+        },
+        {
+          "correct": false,
+          "text": "Ein Fahrzeug mit gefährlicher Ladung vor Anker von weniger als 100 m Länge."
+        },
+        {
+          "correct": false,
+          "text": "Ein vor Anker liegendes Fahrzeug von 100 und mehr Meter Länge."
+        }
+      ],
+      "question": "Sie hören bei verminderter Sicht mindestens alle zwei Minuten einen langen Ton mit der Pfeife ("
+    },
+    {
+      "images": [
+        {
+          "src": "https://www.elwis.de/DE/Schifffahrtsrecht/Seeschifffahrtsrecht/SeeSchStrO/Anlagen/Anlage-II/Schallsignal-122.gif?__blob=normal&v=1",
+          "title": "Zwei aufeinander folgende lange Töne mit der Pfeife"
+        }
+      ],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Ein Maschinenfahrzeug in Fahrt, das seine Maschine gestoppt hat und keine Fahrt durchs Wasser macht."
+        },
+        {
+          "correct": false,
+          "text": "Ein geschlepptes Fahrzeug oder das letzte bemannte Fahrzeug eines Schleppverbandes in Fahrt."
+        },
+        {
+          "correct": false,
+          "text": "Ein Fahrzeug mit gefährlicher Ladung vor Anker von weniger als 100 m Länge."
+        },
+        {
+          "correct": false,
+          "text": "Ein vor Anker liegendes Fahrzeug von 100 und mehr Meter Länge."
+        }
+      ],
+      "question": "Sie hören bei verminderter Sicht mindestens alle zwei Minuten zwei aufeinander folgende lange Töne mit der Pfeife ("
+    },
+    {
+      "images": [
+        {
+          "src": "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-See/Spezifische-Fragen-See/Schallsignal-Frage-118-gif.gif?__blob=normal&v=1",
+          "title": "Mindestens alle zwei Minuten drei aufeinander folgende Töne mit der Pfeife, und zwar lang, kurz, kurz"
+        }
+      ],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Ein manövrierunfähiges Fahrzeug in Fahrt, ein manövrierbehindertes Fahrzeug in Fahrt oder vor Anker, ein tiefgangbehindertes Fahrzeug in Fahrt, ein Segelfahrzeug in Fahrt, ein schleppendes oder schiebendes Fahrzeug in Fahrt, ein fischendes Fahrzeug in Fahrt oder vor Anker."
+        },
+        {
+          "correct": false,
+          "text": "Ein manövrierunfähiges Fahrzeug in Fahrt, ein manövrierbehindertes Fahrzeug in Fahrt oder vor Anker, ein tiefgangbehindertes Fahrzeug in Fahrt, ein Maschinenfahrzeug in Fahrt, das Fahrt durchs Wasser macht, ein schleppendes oder schiebendes Fahrzeug in Fahrt, ein fischendes Fahrzeug in Fahrt oder vor Anker."
+        },
+        {
+          "correct": false,
+          "text": "Ein manövrierunfähiges Fahrzeug in Fahrt, ein manövrierbehindertes Fahrzeug in Fahrt oder vor Anker, ein tiefgangbehindertes Fahrzeug in Fahrt, ein Segelfahrzeug in Fahrt, ein schleppendes oder schiebendes Fahrzeug in Fahrt, ein fischendes Fahrzeug in Fahrt oder vor Anker, ein Maschinenfahrzeug in Fahrt, das seine Maschine gestoppt hat und keine Fahrt durchs Wasser macht."
+        },
+        {
+          "correct": false,
+          "text": "Ein manövrierunfähiges Fahrzeug in Fahrt, ein manövrierbehindertes Fahrzeug in Fahrt oder vor Anker, ein tiefgangbehindertes Fahrzeug in Fahrt, ein Segelfahrzeug in Fahrt, ein schleppendes oder schiebendes Fahrzeug in Fahrt, ein geschlepptes Fahrzeug oder das letzte bemannte Fahrzeug eines Schleppverbandes in Fahrt, ein fischendes Fahrzeug in Fahrt oder vor Anker."
+        }
+      ],
+      "question": "Welche Fahrzeuge geben bei verminderter Sicht mindestens alle zwei Minuten drei aufeinander folgende Töne mit der Pfeife, und zwar lang, kurz, kurz"
+    },
+    {
+      "images": [
+        {
+          "src": "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-See/Spezifische-Fragen-See/Schallsignal-Frage-118-gif.gif?__blob=normal&v=1",
+          "title": "Mindestens alle zwei Minuten drei aufeinander folgende Töne mit der Pfeife, und zwar lang, kurz, kurz"
+        },
+        {
+          "src": "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-See/Spezifische-Fragen-See/Schallsignal-Frage-119-gif.gif?__blob=normal&v=1",
+          "title": "Vier aufeinander folgende Töne mit der Pfeife, und zwar lang, kurz, kurz, kurz"
+        }
+      ],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Ein geschlepptes Fahrzeug oder das letzte bemannte Fahrzeug eines Schleppverbandes in Fahrt."
+        },
+        {
+          "correct": false,
+          "text": "Ein Maschinenfahrzeug in Fahrt, das seine Maschine gestoppt hat und keine Fahrt durchs Wasser macht."
+        },
+        {
+          "correct": false,
+          "text": "Ein Fahrzeug mit gefährlicher Ladung vor Anker von weniger als 100 m Länge."
+        },
+        {
+          "correct": false,
+          "text": "Ein manövrierunfähiges Fahrzeug von weniger als 100 m Länge."
+        }
+      ],
+      "question": "Welches Fahrzeug gibt bei verminderter Sicht - im Anschluss an das Signal: lang, kurz, kurz"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Mindestens alle zwei Minuten drei aufeinander folgende Töne mit der Pfeife, und zwar lang, kurz, kurz"
+        },
+        {
+          "correct": false,
+          "text": "Mindestens alle zwei Minuten drei aufeinander folgende Töne mit der Pfeife, und zwar lang, lang, kurz"
+        },
+        {
+          "correct": false,
+          "text": "Mindestens alle zwei Minuten ein kräftiges Schallsignal, das mit den vorgeschriebenen nicht verwechselt werden kann."
+        },
+        {
+          "correct": false,
+          "text": "Mit der Pfeife kurz, lang, kurz"
+        }
+      ],
+      "question": "Was für ein Schallsignal muss ein Segelfahrzeug in Fahrt von 12 und mehr Meter Länge bei verminderter Sicht geben?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Mindestens alle zwei Minuten ein kräftiges Schallsignal, das mit den vorgeschriebenen nicht verwechselt werden kann."
+        },
+        {
+          "correct": false,
+          "text": "Mindestens alle zwei Minuten drei aufeinander folgende Töne mit der Pfeife, und zwar lang, kurz, kurz ."
+        },
+        {
+          "correct": false,
+          "text": "Mindestens alle zwei Minuten drei aufeinander folgende Töne mit der Pfeife, und zwar lang, lang, kurz ."
+        },
+        {
+          "correct": false,
+          "text": "Mit der Pfeife kurz, lang, kurz ."
+        }
+      ],
+      "question": "Welches Schallsignal muss ein Fahrzeug in Fahrt von weniger als 12 m Länge bei verminderter Sicht geben, wenn es die sonst vorgeschriebenen Schallsignale nicht geben kann?"
+    },
+    {
+      "images": [
+        {
+          "src": "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-See/Spezifische-Fragen-See/Schallsignal-Frage-122-gif.gif?__blob=normal&v=1",
+          "title": "Ein Fahrzeug vor Anker von weniger als 100 m Länge"
+        }
+      ],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Ein Fahrzeug vor Anker von weniger als 100 m Länge."
+        },
+        {
+          "correct": false,
+          "text": "Ein Fahrzeug vor Anker von 100 und mehr Meter Länge."
+        },
+        {
+          "correct": false,
+          "text": "Ein geschlepptes Fahrzeug oder das letzte bemannte Fahrzeug eines Schleppverbandes in Fahrt."
+        },
+        {
+          "correct": false,
+          "text": "Ein Maschinenfahrzeug in Fahrt, das seine Maschine gestoppt hat und keine Fahrt durchs Wasser macht."
+        }
+      ],
+      "question": "Welches Fahrzeug gibt bei verminderter Sicht mindestens jede Minute etwa 5 Sekunden lang rasches Läuten der Glocke?"
+    },
+    {
+      "images": [
+        {
+          "src": "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-See/Spezifische-Fragen-See/Schallsignal-Frage-122-gif.gif?__blob=normal&v=1",
+          "title": "Ein Fahrzeug vor Anker von weniger als 100 m Länge"
+        },
+        {
+          "src": "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-See/Spezifische-Fragen-See/Schallsignal-Frage-123-gif.gif?__blob=normal&v=1",
+          "title": "Ein Fahrzeug vor Anker von 100 und mehr Meter Länge"
+        }
+      ],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Ein Fahrzeug vor Anker von 100 und mehr Meter Länge."
+        },
+        {
+          "correct": false,
+          "text": "Ein Fahrzeug vor Anker von weniger als 100 m Länge."
+        },
+        {
+          "correct": false,
+          "text": "Ein geschlepptes Fahrzeug oder das letzte bemannte Fahrzeug eines Schleppverbandes in Fahrt."
+        },
+        {
+          "correct": false,
+          "text": "Ein Maschinenfahrzeug in Fahrt, das seine Maschine gestoppt hat und keine Fahrt durchs Wasser macht."
+        }
+      ],
+      "question": "Welches Fahrzeug gibt bei verminderter Sicht mindestens jede Minute etwa 5 Sekunden lang rasches Läuten der Glocke und unmittelbar danach ungefähr 5 Sekunden lang rasch den Gong schlagen?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Mit der Pfeife kurz, lang, kurz ."
+        },
+        {
+          "correct": false,
+          "text": "Mindestens alle zwei Minuten ein kräftiges Schallsignal, das mit den vorgeschriebenen nicht verwechselt werden kann."
+        },
+        {
+          "correct": false,
+          "text": "Mindestens alle zwei Minuten drei aufeinander folgende Töne mit der Pfeife, und zwar lang, kurz, kurz ."
+        },
+        {
+          "correct": false,
+          "text": "Mindestens alle zwei Minuten drei aufeinander folgende Töne mit der Pfeife, und zwar lang, lang, kurz ."
+        }
+      ],
+      "question": "Welches zusätzliche Schallsignal darf jeder Ankerlieger bei verminderter Sicht geben, um einem sich nähernden Fahrzeug seinen Standort anzuzeigen?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Wenn sich der Abstand zum anderen Fahrzeug verringert und sich die Peilung nicht oder nicht merklich ändert."
+        },
+        {
+          "correct": false,
+          "text": "Wenn sich der Abstand zum anderen Fahrzeug verringert und sich der Kurs nicht oder nicht merklich ändert."
+        },
+        {
+          "correct": false,
+          "text": "Wenn sich der Abstand zum anderen Fahrzeug verringert und sich die Kompasspeilung ändert."
+        },
+        {
+          "correct": false,
+          "text": "Wenn sich der Abstand zum anderen Fahrzeug verringert und sich der Kurs ändert."
+        }
+      ],
+      "question": "Woran kann man feststellen, ob die Möglichkeit der Gefahr eines Zusammenstoßes besteht?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Das luvwärtige Fahrzeug dem leewärtigen Fahrzeug."
+        },
+        {
+          "correct": false,
+          "text": "Das leewärtige Fahrzeug dem luvwärtigen Fahrzeug."
+        },
+        {
+          "correct": false,
+          "text": "Dasjenige Fahrzeug, das den Wind von Backbord hat."
+        },
+        {
+          "correct": false,
+          "text": "Dasjenige Fahrzeug, das den Wind von Steuerbord hat."
+        }
+      ],
+      "question": "Zwei in Sicht befindliche Segelfahrzeuge nähern sich im freien Seeraum oder außerhalb des Fahrwassers so, dass die Möglichkeit der Gefahr eines Zusammenstoßes besteht. Welches Fahrzeug muss dem anderen ausweichen, wenn sie den Wind von derselben Seite haben?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Jedes Fahrzeug muss seinen Kurs nach Steuerbord ändern."
+        },
+        {
+          "correct": false,
+          "text": "Jedes Fahrzeug muss seinen Kurs nach Backbord ändern."
+        },
+        {
+          "correct": false,
+          "text": "Es muss das luvwärtige Fahrzeug dem leewärtigen Fahrzeug ausweichen."
+        },
+        {
+          "correct": false,
+          "text": "Es muss das leewärtige Fahrzeug dem luvwärtigen Fahrzeug ausweichen."
+        }
+      ],
+      "question": "Wie müssen sich zwei in Sicht befindliche Maschinenfahrzeuge verhalten, die sich einander auf entgegengesetzten oder fast entgegengesetzten Kursen nähern, um die Möglichkeit der Gefahr eines Zusammenstoßes zu vermeiden?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Das Maschinenfahrzeug muss ausweichen."
+        },
+        {
+          "correct": false,
+          "text": "Das Maschinenfahrzeug muss Kurs und Geschwindigkeit beibehalten."
+        },
+        {
+          "correct": false,
+          "text": "Das Maschinenfahrzeug muss seine Fahrt verringern."
+        },
+        {
+          "correct": false,
+          "text": "Das Maschinenfahrzeug muss vorsichtig manövrieren bis die Gefahr vorüber ist."
+        }
+      ],
+      "question": "Wie hat sich ein Maschinenfahrzeug im freien Seeraum oder außerhalb des Fahrwassers gegenüber einem in Sicht befindlichen Segelfahrzeug zu verhalten, wenn die Möglichkeit der Gefahr eines Zusammenstoßes besteht?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Das Maschinenfahrzeug muss ausweichen."
+        },
+        {
+          "correct": false,
+          "text": "Das Maschinenfahrzeug muss Kurs und Geschwindigkeit beibehalten."
+        },
+        {
+          "correct": false,
+          "text": "Das Maschinenfahrzeug muss seinen Kurs nach Steuerbord ändern."
+        },
+        {
+          "correct": false,
+          "text": "Das Maschinenfahrzeug muss seine Fahrt verringern."
+        }
+      ],
+      "question": "Wie hat sich ein Maschinenfahrzeug im freien Seeraum oder außerhalb des Fahrwassers gegenüber einem in Sicht befindlichen manövrierunfähigen Fahrzeug zu verhalten, wenn die Möglichkeit der Gefahr eines Zusammenstoßes besteht?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Das Maschinenfahrzeug muss ausweichen."
+        },
+        {
+          "correct": false,
+          "text": "Das Maschinenfahrzeug muss Kurs und Geschwindigkeit beibehalten."
+        },
+        {
+          "correct": false,
+          "text": "Das Maschinenfahrzeug muss seinen Kurs nach Steuerbord ändern."
+        },
+        {
+          "correct": false,
+          "text": "Das Maschinenfahrzeug muss seine Fahrt verringern."
+        }
+      ],
+      "question": "Wie hat sich ein Maschinenfahrzeug im freien Seeraum oder außerhalb des Fahrwassers gegenüber einem in Sicht befindlichen manövrierbehinderten Fahrzeug zu verhalten, wenn die Möglichkeit der Gefahr eines Zusammenstoßes besteht?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Das Maschinenfahrzeug muss ausweichen."
+        },
+        {
+          "correct": false,
+          "text": "Das Maschinenfahrzeug muss Kurs und Geschwindigkeit beibehalten."
+        },
+        {
+          "correct": false,
+          "text": "Das Maschinenfahrzeug muss seinen Kurs nach Steuerbord ändern."
+        },
+        {
+          "correct": false,
+          "text": "Das Maschinenfahrzeug muss vorsichtig manövrieren, bis die Gefahr vorüber ist."
+        }
+      ],
+      "question": "Wie hat sich ein Maschinenfahrzeug im freien Seeraum oder außerhalb des Fahrwassers gegenüber einem in Sicht befindlichen fischenden Fahrzeug zu verhalten, wenn die Möglichkeit der Gefahr eines Zusammenstoßes besteht?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Das Segelfahrzeug muss ausweichen."
+        },
+        {
+          "correct": false,
+          "text": "Das Segelfahrzeug muss seinen Kurs nach Steuerbord ändern."
+        },
+        {
+          "correct": false,
+          "text": "Das Segelfahrzeug darf die sichere Durchfahrt nicht behindern."
+        },
+        {
+          "correct": false,
+          "text": "Das Segelfahrzeug muss Kurs und Geschwindigkeit zunächst beibehalten."
+        }
+      ],
+      "question": "Wie hat sich ein Segelfahrzeug im freien Seeraum oder außerhalb des Fahrwassers gegenüber einem in Sicht befindlichen fischenden Fahrzeug zu verhalten, wenn die Möglichkeit der Gefahr eines Zusammenstoßes besteht?"
+    },
+    {
+      "images": [
+        {
+          "src": "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-See/Spezifische-Fragen-See/Fahrzeug-Frage-133.gif?__blob=normal&v=1",
+          "title": "Die sichere Durchfahrt des Fahrzeugs darf nicht behindert werden"
+        }
+      ],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Die sichere Durchfahrt des Fahrzeugs darf nicht behindert werden."
+        },
+        {
+          "correct": false,
+          "text": "Das Fahrzeug muss an Steuerbord passiert werden."
+        },
+        {
+          "correct": false,
+          "text": "Sog und Wellenschlag vermeiden."
+        },
+        {
+          "correct": false,
+          "text": "Kurs und Geschwindigkeit beibehalten."
+        }
+      ],
+      "question": "Wie muss man sich gegenüber diesem Fahrzeug verhalten?"
+    },
+    {
+      "images": [
+        {
+          "src": "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-See/Spezifische-Fragen-See/Fahrzeug-Frage-134-gif.gif?__blob=normal&v=1",
+          "title": "Die sichere Durchfahrt des Fahrzeugs darf nicht behindert werden"
+        }
+      ],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Die sichere Durchfahrt des Fahrzeugs darf nicht behindert werden."
+        },
+        {
+          "correct": false,
+          "text": "Das Fahrzeug muss an Steuerbord passiert werden."
+        },
+        {
+          "correct": false,
+          "text": "Sog und Wellenschlag vermeiden."
+        },
+        {
+          "correct": false,
+          "text": "Kurs und Geschwindigkeit beibehalten."
+        }
+      ],
+      "question": "Wie muss man sich gegenüber diesem Fahrzeug verhalten?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Kurs und Geschwindigkeit zunächst beibehalten und dem Ausweichpflichtigen besondere Aufmerksamkeit widmen."
+        },
+        {
+          "correct": false,
+          "text": "Kurs oder Geschwindigkeit anpassen und dem Ausweichpflichtigen besondere Aufmerksamkeit widmen."
+        },
+        {
+          "correct": false,
+          "text": "Kurs nach Steuerbord ändern. Geschwindigkeit verringern und dem Ausweichpflichtigen besondere Aufmerksamkeit widmen."
+        },
+        {
+          "correct": false,
+          "text": "Kurs nach Steuerbord ändern, Geschwindigkeit zunächst beibehalten und dem Ausweichpflichtigen besondere Aufmerksamkeit widmen."
+        }
+      ],
+      "question": "Wie verhält sich der Kurshaltepflichtige vor Einleitung des Manövers des letzten Augenblicks gegenüber einem ausweichpflichtigen Fahrzeug?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Das Ausweichmanöver muss frühzeitig, durchgreifend und klar erkennbar durchgeführt werden."
+        },
+        {
+          "correct": false,
+          "text": "Der Kurs muss bei Annäherung an den Kurshalter Schritt für Schritt so angepasst werden, dass das Heck des Anderen sicher umfahren wird."
+        },
+        {
+          "correct": false,
+          "text": "Das Manöver des letzten Augenblicks ist durchzuführen. Es muss so ausgewichen werden, wie es zur Vermeidung eines Zusammenstoßes am dienlichsten ist."
+        },
+        {
+          "correct": false,
+          "text": "Die Fahrt ist auf das für die Steuerfähigkeit erforderliche Mindestmaß zu reduzieren; im Zweifelsfall muss ganz aufgestoppt werden."
+        }
+      ],
+      "question": "Wie muss sich ein Ausweichpflichtiger gegenüber einem Kurshalter verhalten?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Es hat dem zu überholenden Fahrzeug auszuweichen."
+        },
+        {
+          "correct": false,
+          "text": "Es muss den größtmöglichen Abstand zum überholten Fahrzeug einhalten und Sog und Wellenschlag vermeiden."
+        },
+        {
+          "correct": false,
+          "text": "Es darf die sichere Durchfahrt des zu überholenden Fahrzeugs nicht behindern."
+        },
+        {
+          "correct": false,
+          "text": "Es muss vor dem Überholen ein Schallsignal abgeben, um die Zustimmung des zu überholenden Fahrzeugs einzuholen."
+        }
+      ],
+      "question": "Wie hat sich ein überholendes Fahrzeug zu verhalten?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Es ist ebenfalls ein Schallsignal abzugeben und die Fahrt soweit zu verlangsamen, dass die Steuerfähigkeit noch erhalten bleibt. Erforderlichenfalls ist ganz aufzustoppen. In jedem Fall ist vorsichtig zu manövrieren, bis die Gefahr eines Zusammenstoßes vorüber ist."
+        },
+        {
+          "correct": false,
+          "text": "Es ist ebenfalls ein Schallsignal abzugeben und frühzeitig, durchgreifend und klar erkennbar auszuweichen."
+        },
+        {
+          "correct": false,
+          "text": "Es sind mindestens fünf kurze Töne mit der Pfeife abzugeben und das Manöver des letzten Augenblicks durchzuführen. Dabei ist so zu manövrieren, wie es zur Vermeidung eines Zusammenstoßes am dienlichsten ist."
+        },
+        {
+          "correct": false,
+          "text": "Es ist ebenfalls ein Schallsignal abzugeben. Kurs und Geschwindigkeit sind so lange beizubehalten, bis das andere Fahrzeug in Sicht kommt. Dann ist die Ausweichsituation nach KVR zu prüfen und man muss sich entsprechend verhalten."
+        }
+      ],
+      "question": "Wie hat man sich zu verhalten, wenn man bei verminderter Sicht anscheinend vorlicher als querab das Schallsignal eines anderen Fahrzeugs hört?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Man gibt mindestens fünf kurze Töne mit der Pfeife ab und führt das \"Manöver des letzten Augenblicks\" durch. Dabei ist so zu manövrieren, wie es zur Vermeidung eines Zusammenstoßes am dienlichsten ist."
+        },
+        {
+          "correct": false,
+          "text": "Man gibt ein Schallsignal (vier kurze Töne) ab und verlangsamt die Fahrt soweit, dass die Steuerfähigkeit noch erhalten bleibt. Erforderlichenfalls ist ganz aufzustoppen. In jedem Fall ist vorsichtig zu manövrieren, bis die Gefahr eines Zusammenstoßes vorüber ist."
+        },
+        {
+          "correct": false,
+          "text": "Man gibt mindestens fünf kurze Töne mit der Pfeife ab und reduziert die Geschwindigkeit, um Sog und Wellenschlag zu vermeiden."
+        },
+        {
+          "correct": false,
+          "text": "Man behält Kurs und Geschwindigkeit zunächst bei und widmet dem Ausweichpflichtigen besondere Aufmerksamkeit."
+        }
+      ],
+      "question": "Wie verhält man sich als Kurshalter, wenn man feststellt, dass ein anderes Fahrzeug seiner Ausweichpflicht nicht nachkommt und die Gefahr einer unmittelbaren Kollision bevorsteht?"
+    },
+    {
+      "images": [
+        {
+          "src": "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-See/Spezifische-Fragen-See/Schallsignal-Frage-140-gif.gif?__blob=normal&v=1",
+          "title": "Ein ausweichpflichtiges Fahrzeug wird auf seine Ausweichpflicht aufmerksam gemacht"
+        }
+      ],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Ein ausweichpflichtiges Fahrzeug wird auf seine Ausweichpflicht aufmerksam gemacht."
+        },
+        {
+          "correct": false,
+          "text": "Allgemeines Gefahren- und Warnsignal."
+        },
+        {
+          "correct": false,
+          "text": "Bleib-Weg-Signal, Explosionsgefahr durch gefährliche Güter. Sofort den Gefahrenbereich verlassen. Feuer und Zündfunken vermeiden."
+        },
+        {
+          "correct": false,
+          "text": "Seeschifffahrtsstraße gesperrt. Weiterfahrt verboten, sofort aufstoppen."
+        }
+      ],
+      "question": "Welche Bedeutung hat folgendes Schallsignal: (mindestens"
+    },
+    {
+      "images": [
+        {
+          "src": "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-See/Spezifische-Fragen-See/Schallsignal-d-Frage-120-gif.gif?__blob=normal&v=1",
+          "title": "Ein Ankerlieger macht ein sich näherndes Fahrzeug auf eine gefährliche Annäherung aufmerksam"
+        }
+      ],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Ein Ankerlieger macht ein sich näherndes Fahrzeug auf eine gefährliche Annäherung aufmerksam."
+        },
+        {
+          "correct": false,
+          "text": "Die Maschine des Fahrzeugs läuft rückwärts."
+        },
+        {
+          "correct": false,
+          "text": "Schutzbedürftige Anlage; Geschwindigkeit reduzieren, Sog und Wellenschlag vermeiden."
+        },
+        {
+          "correct": false,
+          "text": "Maschinenfahrzeug, das seine Maschinen gestoppt hat und keine Fahrt durchs Wasser macht."
+        }
+      ],
+      "question": "Welche Bedeutung hat folgendes Schallsignal:"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Auf dem entsprechenden Einbahnweg in der allgemeinen Verkehrsrichtung fahren, soweit wie möglich von der Trennzone/Trennlinie klar halten, in der Regel an den Enden des Einbahnweges ein- oder auslaufen, seitliches Ein- oder Auslaufen in möglichst kleinem Winkel zur allgemeinen Verkehrsrichtung."
+        },
+        {
+          "correct": false,
+          "text": "Auf dem entsprechenden Einbahnweg in Verkehrsrichtung links von der Trennzone fahren, so nah wie möglich an der Trennzone/Trennlinie fahren, in der Regel an den Enden des Einbahnweges ein- oder auslaufen, seitliches Ein- oder Auslaufen in möglichst rechtem Winkel zur allgemeinen Verkehrsrichtung."
+        },
+        {
+          "correct": false,
+          "text": "Die Benutzung von Verkehrstrennungsgebieten ist für Segelfahrzeuge sowie für Maschinenfahrzeuge unter 20 m Länge nicht gestattet. Diese Fahrzeuge haben sich soweit wie möglich von Verkehrstrennungsgebieten klar zu halten und müssen durch ihren Kurs klar zu erkennen geben, dass sie ein Verkehrstrennungsgebiet nicht benutzen."
+        },
+        {
+          "correct": false,
+          "text": "Auf den entsprechenden Einbahnwegen in der allgemeinen Verkehrsrichtung fahrende Fahrzeuge müssen sich soweit wie möglich von der Trennzone/Trennlinie klar halten und haben Vorfahrt gegenüber allen Fahrzeugen, die in ein Verkehrstrennungsgebiet einlaufen oder ein solches queren."
+        }
+      ],
+      "question": "Was ist bei der Benutzung eines Verkehrstrennungsgebietes zu beachten?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Das Queren ist möglichst zu vermeiden. Falls gequert werden muss, hat dies möglichst mit der Kielrichtung im rechten Winkel zur allgemeinen Verkehrsrichtung zu erfolgen. Die Kielrichtung des querenden Fahrzeugs muss auch dann einen rechten Winkel zur allgemeinen Verkehrsrichtung bilden, wenn das Fahrzeug durch Wind oder Strom versetzt wird."
+        },
+        {
+          "correct": false,
+          "text": "Das Queren ist möglichst zu vermeiden. Falls gequert werden muss, hat dies möglichst mit einem rechtweisenden Kurs zur allgemeinen Verkehrsrichtung zu erfolgen. Der rechtweisende Kurs des querenden Fahrzeugs muss auch dann einen rechten Winkel zur allgemeinen Verkehrsrichtung bilden, wenn das Fahrzeug durch Wind oder Strom versetzt wird."
+        },
+        {
+          "correct": false,
+          "text": "Das Queren von Verkehrstrennungsgebieten ist für Segelfahrzeuge sowie für Maschinenfahrzeuge unter 20 m Länge verboten. Diese Fahrzeuge haben sich soweit wie möglich von den Enden der Verkehrstrennungsgebiete klar zu halten und müssen durch ihren Kurs zu erkennen geben, dass sie ein Verkehrstrennungsgebiet nicht queren."
+        },
+        {
+          "correct": false,
+          "text": "Das Queren ist möglichst zu vermeiden. Falls gequert werden muss, hat dies mit der Kielrichtung in einem möglichst spitzen Winkel zur allgemeinen Verkehrsrichtung zu erfolgen. Die Kielrichtung des querenden Fahrzeugs muss auch dann einen möglichst spitzen Winkel zur allgemeinen Verkehrsrichtung bilden, wenn das Fahrzeug durch Wind oder Strom versetzt wird."
+        }
+      ],
+      "question": "Was ist hinsichtlich des Querens eines Verkehrstrennungsgebietes zu beachten?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "In den Kollisionsverhütungsregeln."
+        },
+        {
+          "correct": false,
+          "text": "In der Seeschifffahrtsstraßen-Ordnung."
+        },
+        {
+          "correct": false,
+          "text": "In den Kollisionsverhütungsregeln und der Seeschifffahrtsstraßen-Ordnung."
+        },
+        {
+          "correct": false,
+          "text": "In den \"Bekanntmachungen der Wasser- und Schifffahrtsdirektionen Nord und Nordwest\"."
+        }
+      ],
+      "question": "In welcher Vorschrift findet man die Regeln zum Befahren von Verkehrstrennungsgebieten?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Es muss dem anderen Fahrzeug ausweichen."
+        },
+        {
+          "correct": false,
+          "text": "Es darf die sichere Durchfahrt des Maschinenfahrzeugs nicht behindern."
+        },
+        {
+          "correct": false,
+          "text": "Dem querenden Fahrzeug hat es besondere Aufmerksamkeit zu widmen."
+        },
+        {
+          "correct": false,
+          "text": "Es muss das Manöver des letzten Augenblicks durchführen."
+        }
+      ],
+      "question": "Wie hat sich ein Maschinenfahrzeug bei Kollisionsgefahr in einem Einbahnweg eines Verkehrstrennungsgebietes gegenüber einem Maschinenfahrzeug zu verhalten, das den Einbahnweg von Steuerbord kommend quert?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Es darf die sichere Durchfahrt des Maschinenfahrzeugs nicht behindern."
+        },
+        {
+          "correct": false,
+          "text": "Es unterliegt der Kurshaltepflicht. Kurs und Geschwindigkeit sind beizubehalten."
+        },
+        {
+          "correct": false,
+          "text": "Es muss warten. Alle dem Einbahnweg folgenden Fahrzeuge haben Vorfahrt."
+        },
+        {
+          "correct": false,
+          "text": "Es hat Vorfahrt. Alle dem Einbahnweg folgenden Fahrzeuge müssen warten."
+        }
+      ],
+      "question": "Wie hat sich ein Segelfahrzeug beim Queren eines Verkehrstrennungsgebietes gegenüber einem Maschinenfahrzeug zu verhalten, das auf einem Einbahnweg in der allgemeinen Verkehrsrichtung fährt?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Sie dürfen die sichere Durchfahrt eines dem Einbahnweg folgenden Maschinenfahrzeugs nicht behindern."
+        },
+        {
+          "correct": false,
+          "text": "Sie gelten als Kleinfahrzeuge und dürfen Verkehrstrennungsgebiete nicht befahren."
+        },
+        {
+          "correct": false,
+          "text": "Sie gelten als Kleinfahrzeuge und dürfen Verkehrstrennungsgebiete nur am Tage und bei guter Sicht befahren."
+        },
+        {
+          "correct": false,
+          "text": "Sie dürfen die Trennzone befahren, damit der durchgehende Verkehr nicht behindert wird."
+        }
+      ],
+      "question": "Wie haben sich Fahrzeuge von weniger als 20 m Länge oder Segelfahrzeuge in Verkehrstrennungsgebieten zu verhalten?"
+    },
+    {
+      "images": [
+        {
+          "src": "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-See/Spezifische-Fragen-See/Fahrzeug-Frage-148-gif.gif?__blob=normal&v=1",
+          "title": "Ein manövrierbehindertes Fahrzeug, das baggert oder Unterwasserarbeiten ausführt und dabei die Schifffahrt behindert. Es ist an der Seite zu passieren, an der zwei schwarze Rhomben senkrecht übereina"
+        }
+      ],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Ein manövrierbehindertes Fahrzeug, das baggert oder Unterwasserarbeiten ausführt und dabei die Schifffahrt behindert. Es ist an der Seite zu passieren, an der zwei schwarze Rhomben senkrecht übereinander angeordnet sind."
+        },
+        {
+          "correct": false,
+          "text": "Ein manövrierbehindertes Fahrzeug, das die Schifffahrt behindert. Es ist an der Seite zu passieren, an der zwei schwarze Bälle senkrecht übereinander angeordnet sind."
+        },
+        {
+          "correct": false,
+          "text": "Ein manövrierbehindertes Fahrzeug, das baggert oder Unterwasserarbeiten ausführt und dabei die Schifffahrt behindert. Es ist an der Seite zu passieren, die in meiner Fahrtrichtung rechts liegt."
+        },
+        {
+          "correct": false,
+          "text": "Ein manövrierbehindertes Fahrzeug, das baggert oder Unterwasserarbeiten ausführt und dabei die Schifffahrt behindert. Es darf an keiner Seite passiert werden."
+        }
+      ],
+      "question": "Was ist das für ein Fahrzeug und was ist zu beachten?"
+    },
+    {
+      "images": [
+        {
+          "src": "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-See/Spezifische-Fragen-See/Fahrzeug-Frage-149-gif.gif?__blob=normal&v=1",
+          "title": "Ein manövrierbehindertes Fahrzeug mit Fahrt durchs Wasser, das baggert oder Unterwasserarbeiten ausführt und dabei die Schifffahrt nicht behindert. Es ist an der Seite zu passieren, die in Fahrtricht"
+        }
+      ],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Ein manövrierbehindertes Fahrzeug mit Fahrt durchs Wasser, das baggert oder Unterwasserarbeiten ausführt und dabei die Schifffahrt nicht behindert. Es ist an der Seite zu passieren, die in Fahrtrichtung rechts liegt."
+        },
+        {
+          "correct": false,
+          "text": "Ein manövrierbehindertes Fahrzeug mit Fahrt durchs Wasser, das baggert oder Unterwasserarbeiten ausführt und dabei die Schifffahrt behindert. Es ist an der Seite zu passieren, die in Fahrtrichtung links liegt."
+        },
+        {
+          "correct": false,
+          "text": "Ein manövrierunfähiges Fahrzeug mit Fahrt durchs Wasser, das baggert oder Unterwasserarbeiten ausführt und dabei die Schifffahrt behindert. Es ist an der Seite zu passieren, die in Fahrtrichtung rechts liegt."
+        },
+        {
+          "correct": false,
+          "text": "Ein manövrierbehindertes Fahrzeug mit Fahrt durchs Wasser, das baggert oder Unterwasserarbeiten ausführt und dabei die Schifffahrt behindert. Es darf an beiden Seiten passiert werden."
+        }
+      ],
+      "question": "Was ist das für ein Fahrzeug und was ist zu beachten?"
+    },
+    {
+      "images": [
+        {
+          "src": "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-See/Spezifische-Fragen-See/Fahrzeug-Frage-150-gif.gif?__blob=normal&v=1",
+          "title": "Ein manövrierbehindertes Fahrzeug ohne Fahrt durchs Wasser, das beggert oder Unterwasserarbeiten ausführt und dabei die Schifffahrt behindert. Es ist an der Seite zu passieren, an der zwei grüne Rund"
+        }
+      ],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Ein manövrierbehindertes Fahrzeug ohne Fahrt durchs Wasser, das baggert oder Unterwasserarbeiten ausführt und dabei die Schifffahrt behindert. Es ist an der Seite zu passieren, an der zwei grüne Rundumlichter senkrecht übereinander angeordnet sind."
+        },
+        {
+          "correct": false,
+          "text": "Ein manövrierbehindertes Fahrzeug ohne Fahrt durchs Wasser, das die Schifffahrt behindert. Es ist an der Seite zu passieren, an der zwei rote Rundumlichter senkrecht übereinander angeordnet sind."
+        },
+        {
+          "correct": false,
+          "text": "Ein manövrierbehindertes Fahrzeug ohne Fahrt durchs Wasser, das baggert oder Unterwasserarbeiten ausführt und dabei die Schifffahrt behindert. Es ist an der Seite zu passieren, die in Fahrtrichtung links liegt."
+        },
+        {
+          "correct": false,
+          "text": "Ein manövrierbehindertes Fahrzeug ohne Fahrt durchs Wasser, das baggert oder Unterwasserarbeiten ausführt und dabei die Schifffahrt behindert. Es ist an der Steuerbordseite des Fahrwassers (Rechtsfahrgebot) zu passieren."
+        }
+      ],
+      "question": "Was ist das für ein Fahrzeug und was ist zu beachten?"
+    },
+    {
+      "images": [
+        {
+          "src": "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-See/Spezifische-Fragen-See/Fahrzeug-Frage-151-gif.gif?__blob=normal&v=1",
+          "title": "Fahrzeug mit geführlichen Gütern, Abstand halten, Rauchen und offenes Feuer verboten"
+        }
+      ],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Fahrzeug mit gefährlichen Gütern, Abstand halten, Rauchen und offenes Feuer verboten."
+        },
+        {
+          "correct": false,
+          "text": "Fahrzeug des öffentlichen Dienstes. Es darf von den Verkehrsregeln abweichen."
+        },
+        {
+          "correct": false,
+          "text": "Fahrzeug in Seenot. Hilfe leisten bzw. weitere Hilfe anfordern."
+        },
+        {
+          "correct": false,
+          "text": "Fahrzeug mit Taucher im Einsatz. Großen Abstand halten."
+        }
+      ],
+      "question": "Was ist das für ein Fahrzeug und was ist zu beachten?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Seeschifffahrtsstraßen-Ordnung und Schifffahrtsordnung Emsmündung."
+        },
+        {
+          "correct": false,
+          "text": "Seeschifffahrtsstraßen-Ordnung und Kollisionsverhütungsregeln."
+        },
+        {
+          "correct": false,
+          "text": "Kollisionsverhütungsregeln und Schifffahrtsordnung Emsmündung."
+        },
+        {
+          "correct": false,
+          "text": "Kollisionsverhütungsregeln und Seeaufgabengesetz."
+        }
+      ],
+      "question": "Wo ist festgelegt, welche Wasserflächen Seeschifffahrtsstraßen sind?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Die Bekanntmachung der Wasser- und Schifffahrtsdirektionen (WSD) Nord und Nordwest zur Seeschifffahrtsstraßen-Ordnung (SeeSchStrO) und zur Schifffahrtsordnung Emsmündung (EmsSchO), die besondere örtliche Regelungen enthalten und Hinweise für die einzelnen Seeschifffahrtsstraßen geben."
+        },
+        {
+          "correct": false,
+          "text": "Die Nachrichten für Seefahrer (NfS), herausgegeben vom Bundesamt für Seeschifffahrt und Hydrographie, sowie die Bekanntmachungen für Seefahrer (BfS) der örtlich zuständigen Wasserstraßen- und Schifffahrtsämter, die auf alle Veränderungen hinsichtlich Betonnung, Befeuerung, Wracks und Untiefen sowie auf die Schifffahrt betreffende Maßnahmen und Ereignisse hinweisen."
+        },
+        {
+          "correct": false,
+          "text": "Die nautische Veröffentlichung \"Sicherheit auf dem Wasser\", herausgegeben durch das Bundesministerium für Verkehr und digitale Infrastruktur (BMVI), mit wichtigen Regeln und Tipps für Wassersportler."
+        },
+        {
+          "correct": false,
+          "text": "Das Seesicherheitsuntersuchungsgesetz sowie die Verordnung über die Sicherung der Seefahrt, die jeweils wichtige Vorschriften über das Verhalten nach einem Zusammenstoß auf den jeweiligen Seeschifffahrtsstraßen enthalten."
+        }
+      ],
+      "question": "Welche örtlichen Sondervorschriften zusätzlich zur Seeschifffahrtsstraßen-Ordnung (SeeSchStrO) und zur Schifffahrtsordnung Emsmündung (EmsSchO) gibt es und was ist darin geregelt?"
+    },
+    {
+      "images": [
+        {
+          "src": "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-See/Spezifische-Fragen-See/Fahrzeug-Frage-154-gif.gif?__blob=normal&v=1",
+          "title": "Fahrzeug des öffentlichen Dienstes im Einsatz. Es darf von den Verkehrsvorschriften abweichen"
+        }
+      ],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Fahrzeug des öffentlichen Dienstes im Einsatz. Es darf von den Verkehrsvorschriften abweichen."
+        },
+        {
+          "correct": false,
+          "text": "Fahrzeug der Bundesmarine im Einsatz. Es hat Munition oder andere Gefahrgüter an Bord."
+        },
+        {
+          "correct": false,
+          "text": "Lotsenfahrzeug mit Sonderrechten im Einsatz. Es darf vom Rechtsfahrgebot abweichen."
+        },
+        {
+          "correct": false,
+          "text": "Tiefgangbehindertes Fahrzeug. Es darf nicht behindert werden."
+        }
+      ],
+      "question": "Was ist das für ein Fahrzeug und was ist zu beachten?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Fahrzeug der Bundeswehr, der Bundespolizei oder Maschinenfahrzeug, das Schießscheiben schleppt bei Übungen. Man hält sich frei."
+        },
+        {
+          "correct": false,
+          "text": "Fahrzeug, das mit Netzen, Leinen, Schleppnetzen oder anderen Fanggeräten fischt und auf sich aufmerksam macht. Ausreichenden Abstand halten."
+        },
+        {
+          "correct": false,
+          "text": "Fahrzeug in Seenot, das auf sich aufmerksam macht. Hilfe leisten, ggf. weitere Hilfe anfordern."
+        },
+        {
+          "correct": false,
+          "text": "Maschinenfahrzeug über 50 m Länge bei der Anforderung eines Lotsen. Man behält Kurs und Geschwindigkeit bei."
+        }
+      ],
+      "question": "Wer gibt das Sichtzeichen \"Leuchtkugeln mit weißen Sternen\" und was ist zu beachten?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Es sind Wasserflächen, die durchgehend durch Fahrwasserseitenbezeichnung begrenzt oder gekennzeichnet sind, binnenwärts der Flussmündungen auch nicht gekennzeichnete Wasserflächen, die für die durchgehende Schifffahrt bestimmt sind."
+        },
+        {
+          "correct": false,
+          "text": "Es sind Wasserflächen, die für Seeschiffe zugelassen sind; binnenwärts der Flussmündungen sind auch Binnenschiffe und Sportboote zugelassen."
+        },
+        {
+          "correct": false,
+          "text": "Es sind Wasserflächen, die durchgehend durch Fahrwasserseitenbezeichnung begrenzt oder gekennzeichnet sind und auf denen das Wasserskifahren sowie das Fahren mit Wassermotorrädern erlaubt ist, sofern die durchgehende Schifffahrt nicht behindert wird."
+        },
+        {
+          "correct": false,
+          "text": "Es sind Wasserflächen, die durchgehend durch Fahrwasserseitenbezeichnung begrenzt oder gekennzeichnet sind und auf denen die Sportbootführerscheinverordnung Gültigkeit hat."
+        }
+      ],
+      "question": "Was sind Fahrwasser im Sinne der Seeschifffahrtsstraßen-Ordnung (SeeSchStrO) und der Schifffahrtsordnung Emsmündung (EmsSchO)?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Es ist die Seite, die ein von See kommendes Schiff an seiner Steuerbordseite hat."
+        },
+        {
+          "correct": false,
+          "text": "Es ist die Seite, die ein von See kommendes Schiff an seiner Backbordseite hat."
+        },
+        {
+          "correct": false,
+          "text": "Es ist die Seite, die von See kommend mit roten Tonnen bezeichnet ist."
+        },
+        {
+          "correct": false,
+          "text": "Es ist die Seite, auf der die Tonnen mit fortlaufenden geraden Zahlen gekennzeichnet sind."
+        }
+      ],
+      "question": "Welches ist - außer in Wattgebieten - die Steuerbordseite eines Fahrwassers?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Er ist verpflichtet, die von der Verkehrszentrale gegebenen Verkehrsinformationen und -unterstützungen abzuhören und zu berücksichtigen."
+        },
+        {
+          "correct": false,
+          "text": "Er ist verpflichtet, bei der Nutzung einer UKW-Funkanlage im Besitz des entsprechenden Funkzeugnisses zu sein."
+        },
+        {
+          "correct": false,
+          "text": "Er ist verpflichtet, bei verminderter Sicht regelmäßig seinen Schiffsnamen und seine Position der Verkehrszentrale mitzuteilen."
+        },
+        {
+          "correct": false,
+          "text": "Er ist verpflichtet, die Funkanlage während der Fahrt in Betrieb zu halten und alle sein Fahrzeug betreffenden Mitteilungen im Schiffslogbuch festzuhalten."
+        }
+      ],
+      "question": "Welche verkehrsrechtliche Verpflichtung hat ein Fahrzeugführer nach § 3 der Seeschifffahrtsstraßen-Ordnung (SeeSchStrO), dessen Fahrzeug mit einer UKW-Funkanlage ausgerüstet ist?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Ein weißes Rundumlicht."
+        },
+        {
+          "correct": false,
+          "text": "Ein rotes Rundumlicht."
+        },
+        {
+          "correct": false,
+          "text": "Ein weißes Topplicht."
+        },
+        {
+          "correct": false,
+          "text": "Eine Dreifarbenlaterne."
+        }
+      ],
+      "question": "Welches Licht muss ein Fahrzeug unter Segel von weniger als 12 m Länge oder ein Fahrzeug unter Ruder auf der Seeschifffahrtsstraße führen, wenn es die nach den Kollisionsverhütungsregeln (KVR) vorgeschriebenen Lichter nicht führen kann?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Es darf in der Zeit, in der die Lichterführung vorgeschrieben ist, nicht fahren, es sei denn, dass ein Notstand vorliegt."
+        },
+        {
+          "correct": false,
+          "text": "Es darf in der Zeit zwischen Sonnenaufgang und Sonnenuntergang nicht fahren."
+        },
+        {
+          "correct": false,
+          "text": "Es darf in der Zeit, in der die Lichterführung vorgeschrieben ist, nur dann fahren, wenn ein betriebsbedingtes Signalhorn an Bord ist."
+        },
+        {
+          "correct": false,
+          "text": "Es darf in der Zeit zwischen Sonnenuntergang und Sonnenaufgang nicht fahren."
+        }
+      ],
+      "question": "Wann darf ein Maschinenfahrzeug von weniger als 7 m Länge auf Seeschifffahrtsstraßen nicht fahren, wenn es die nach den Kollisionsverhütungsregeln (KVR) vorgeschriebenen Lichter nicht führen kann?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Ein langer Ton."
+        },
+        {
+          "correct": false,
+          "text": "Ein kurzer Ton."
+        },
+        {
+          "correct": false,
+          "text": "Ein kurzer und ein langer Ton."
+        },
+        {
+          "correct": false,
+          "text": "Ein langer und ein kurzer Ton."
+        }
+      ],
+      "question": "Welches Schallsignal ist beim Einlaufen in Fahrwasser und Häfen zu geben, wenn die Verkehrslage es erfordert?"
+    },
+    {
+      "images": [
+        {
+          "src": "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-See/Spezifische-Fragen-See/Schallsignal-Frage-162-gif.gif?__blob=normal&v=1",
+          "title": "Allgemeines \"Gefahr- und Warnsignal\""
+        }
+      ],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Allgemeines \"Gefahr- und Warnsignal\"."
+        },
+        {
+          "correct": false,
+          "text": "Sperrung der Seeschifffahrtsstraße."
+        },
+        {
+          "correct": false,
+          "text": "Sofort anhalten (Fahrzeug des öffentlichen Dienstes)."
+        },
+        {
+          "correct": false,
+          "text": "Brücke/Schleuse kann vorübergehend nicht geöffnet werden."
+        }
+      ],
+      "question": "Welche Bedeutung hat folgendes Schallsignal:"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Zwei Gruppen von je einem langen und vier kurzen Tönen."
+        },
+        {
+          "correct": false,
+          "text": "Zwei Gruppen von je drei langen Tönen."
+        },
+        {
+          "correct": false,
+          "text": "Zwei Gruppen von je vier kurzen Tönen."
+        },
+        {
+          "correct": false,
+          "text": "Zwei Gruppen von je einem kurzen und vier langen Tönen."
+        }
+      ],
+      "question": "Wie lautet das \"allgemeine Gefahr- und Warnsignal\"?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Wenn ein Fahrzeug ein anderes Fahrzeug gefährdet oder durch dieses selbst gefährdet wird."
+        },
+        {
+          "correct": false,
+          "text": "Wenn ein Fahrzeug ein anderes Fahrzeug im Fahrwasser an Steuerbord überholen will."
+        },
+        {
+          "correct": false,
+          "text": "Wenn ein Fahrzeug einem anderen Fahrzeug nicht ausweichen kann."
+        },
+        {
+          "correct": false,
+          "text": "Wenn ein Fahrzeug ein anderes Fahrzeug zur Hilfeleistung auffordert."
+        }
+      ],
+      "question": "Wann ist das \"allgemeine Gefahr- und Warnsignal\" zu geben?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Sie haben die Vorfahrt der dem Fahrwasserverlauf folgenden Fahrzeuge zu beachten."
+        },
+        {
+          "correct": false,
+          "text": "Sie haben die Vorfahrt vor den Fahrzeugen im Fahrwasser."
+        },
+        {
+          "correct": false,
+          "text": "Sie haben einen kurzen Ton als Achtungssignal abzugeben."
+        },
+        {
+          "correct": false,
+          "text": "Sie haben ihr Manöver so durchzuführen, dass andere Fahrzeuge nicht behindert werden."
+        }
+      ],
+      "question": "Wie haben sich Fahrzeuge zu verhalten, die in ein Fahrwasser einlaufen, ein Fahrwasser queren, im Fahrwasser drehen oder ihre Anker- und Liegeplätze verlassen?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Sie haben untereinander nach den Regeln der KVR auszuweichen, wenn sie dadurch vorfahrtberechtigte Fahrzeuge nicht gefährden oder behindern."
+        },
+        {
+          "correct": false,
+          "text": "Sie haben untereinander nach den Regeln der Seeschifffahrtsstraßen-Ordnung auszuweichen, wenn sie dadurch vorfahrtberechtigte Fahrzeuge nicht gefährden oder behindern."
+        },
+        {
+          "correct": false,
+          "text": "Sie haben untereinander nach den Regeln der Schifffahrtsordnung Emsmündung auszuweichen, wenn sie dadurch vorfahrtberechtigte Fahrzeuge nicht gefährden oder behindern."
+        },
+        {
+          "correct": false,
+          "text": "Sie haben untereinander nach den Regeln der Binnenschifffahrtsstraßen-Ordnung auszuweichen, wenn sie dadurch vorfahrtberechtigte Fahrzeuge nicht gefährden oder behindern."
+        }
+      ],
+      "question": "Wie haben Segelfahrzeuge im Fahrwasser, die nicht deutlich der Richtung eines Fahrwassers folgen, untereinander auszuweichen?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Die Regeln der KVR."
+        },
+        {
+          "correct": false,
+          "text": "Die Regeln der Seeschifffahrtsstraßen-Ordnung."
+        },
+        {
+          "correct": false,
+          "text": "Die Regeln der Schifffahrtsordnung Emsmündung."
+        },
+        {
+          "correct": false,
+          "text": "Die Regeln der Binnenschifffahrtsstraßen-Ordnung."
+        }
+      ],
+      "question": "Welche Ausweichregeln gelten außerhalb des Fahrwassers?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "An Engstellen, unübersichtlichen Krümmungen, in Schleusenbereichen, innerhalb durch Überholverbotszeichen gekennzeichneter Strecken, in der Nähe nicht frei fahrender Fähren in Fahrt."
+        },
+        {
+          "correct": false,
+          "text": "An Engstellen, unübersichtlichen Krümmungen, in Schleusenbereichen, innerhalb durch Überholverbotszeichen gekennzeichneter Strecken, in der Nähe nicht frei fahrender Fähren in Fahrt und außerhalb des Fahrwassers."
+        },
+        {
+          "correct": false,
+          "text": "An Engstellen, unübersichtlichen Krümmungen, in Schleusenbereichen, innerhalb durch Überholverbotszeichen gekennzeichneter Strecken, in der Nähe nicht frei fahrender Fähren in Fahrt, und in Verkehrstrennungsgebieten."
+        },
+        {
+          "correct": false,
+          "text": "An Engstellen, unübersichtlichen Krümmungen, innerhalb durch Überholverbotszeichen gekennzeichneter Strecken und in Nationalparks und besonders ausgewiesenen Naturschutzgebieten."
+        }
+      ],
+      "question": "Wo ist das Überholen verboten?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Außerhalb des Fahrwassers, wenn es nicht von der Wasser- und Schifffahrtsdirektion durch Bekanntmachung verboten ist. Im Fahrwasser auf Abschnitten, die durch die Wasser- und Schifffahrtsdirektion bekanntgemacht oder durch blaue Tafeln mit dem weißen Symbol eines Wasserskiläufers, eines Wassermotorrades oder eines Segelsurfers bezeichnet sind."
+        },
+        {
+          "correct": false,
+          "text": "Außerhalb der Seeschifffahrtsstraße, wenn es nicht von der Wasser- und Schifffahrtsdirektion durch Bekanntmachung verboten ist. Innerhalb der Seeschifffahrtsstraße auf Abschnitten, die durch die Wasser- und Schifffahrtsdirektion bekanntgemacht oder durch blaue Tafeln mit dem weißen Symbol eines Wasserskiläufers, eines Wassermotorrades oder eines Segelsurfers bezeichnet sind."
+        },
+        {
+          "correct": false,
+          "text": "Auf der hohen See und auf den mit dieser zusammenhängenden, von Seeschiffen befahrbaren Gewässern, sofern dabei ein Abstand von mindestens 100 m zum Ufer eingehalten wird."
+        },
+        {
+          "correct": false,
+          "text": "Im Fahrwasser, wenn es nicht von der Wasser- und Schifffahrtsdirektion durch Bekanntmachung verboten ist. Außerhalb des Fahrwassers auf Abschnitten, die durch die Wasser- und Schifffahrtsdirektion bekanntgemacht oder durch blaue Tafeln mit dem weißen Symbol eines Wasserskiläufers, eines Wassermotorrades oder eines Segelsurfers bezeichnet sind."
+        }
+      ],
+      "question": "Wo darf Wasserski gelaufen, Wassermotorrad gefahren oder mit einem Segelsurfbrett gefahren werden?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Sie haben auszuweichen."
+        },
+        {
+          "correct": false,
+          "text": "Sie haben bei Annäherung an andere Fahrzeuge aufzustoppen und Sog und Wellenschlag zu vermeiden."
+        },
+        {
+          "correct": false,
+          "text": "Sie haben Vorfahrt und müssen vor dem Bug des anderen Fahrzeugs kreuzen."
+        },
+        {
+          "correct": false,
+          "text": "Sie müssen Kurs und Geschwindigkeit beibehalten."
+        }
+      ],
+      "question": "Wie haben sich Führer von Zugbooten der Wasserskiläufer bzw. Wassermotorradfahrer und Segelsurfer bei der Annäherung an andere Fahrzeuge zu verhalten?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Im Fahrwasser, an Engstellen und in unübersichtlichen Krümmungen; im Umkreis von 300 m von schwimmenden Geräten, Wracks und sonstigen Schifffahrtshindernissen, Kabeltonnen und sonstigen Stellen für militärische und zivile Zwecke; vor Hafeneinfahrten, Schleusen, Anlegestellen und Sielen sowie in den Zufahrten des Nord-Ostsee-Kanals; innerhalb von Fähr- und Brückenstrecken; 300 m vor und hinter Ankerverbotszeichen."
+        },
+        {
+          "correct": false,
+          "text": "Im Fahrwasser, auf Seeschifffahrtsstraßen, an Engstellen und in unübersichtlichen Krümmungen; im Umkreis von 300 m von schwimmenden Geräten, Wracks und sonstigen Schifffahrtshindernissen, Kabeltonnen und sonstigen Stellen für militärische und zivile Zwecke; vor Hafeneinfahrten, Schleusen, Anlegestellen und Sielen sowie in den Zufahrten des Nord-Ostsee-Kanals; innerhalb von Fähr- und Brückenstrecken; 300 m vor und hinter Ankerverbotszeichen."
+        },
+        {
+          "correct": false,
+          "text": "Im Fahrwasser, an Engstellen und in unübersichtlichen Krümmungen; im Umkreis von 300 m von schwimmenden Geräten, Kabeltonnen und sonstigen Stellen für militärische und zivile Zwecke; vor Hafeneinfahrten, Schleusen, Anlegestellen und Sielen sowie in den Zufahrten des Nord-Ostsee-Kanals und in Vogelschutz- und Naturschutzgebieten sowie generell innerhalb von Nationalparks."
+        },
+        {
+          "correct": false,
+          "text": "Im Fahrwasser, wenn es durch die Wasser- und Schifffahrtsdirektion bekanntgemacht worden ist. Außerhalb des Fahrwassers auf Abschnitten, die durch die Wasser- und Schifffahrtsdirektion bekanntgemacht oder durch entsprechende Sichtzeichen bezeichnet sind."
+        }
+      ],
+      "question": "Wo ist das Ankern verboten?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Man informiert die Schifffahrtspolizeibehörde und gibt nach Möglichkeit die Position an."
+        },
+        {
+          "correct": false,
+          "text": "Man informiert die Deutsche Gesellschaft zur Rettung Schiffbrüchiger, damit das Hindernis gekennzeichnet werden kann."
+        },
+        {
+          "correct": false,
+          "text": "Man gibt ein Seenotsignal ab."
+        },
+        {
+          "correct": false,
+          "text": "Man informiert das Bundesamt für Seeschifffahrt und Hydrographie und gibt nach Möglichkeit die Position an."
+        }
+      ],
+      "question": "Was ist zu unternehmen, um die Schifffahrt zu warnen, wenn das eigene Fahrzeug gesunken ist und ein Schifffahrtshindernis darstellt?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Wenn ein weißes unterbrochenes Licht gezeigt wird."
+        },
+        {
+          "correct": false,
+          "text": "Wenn ein weißes Funkellicht gezeigt wird."
+        },
+        {
+          "correct": false,
+          "text": "Wenn zwei grüne Lichter nebeneinander gezeigt werden."
+        },
+        {
+          "correct": false,
+          "text": "Wenn ein grünes Gleichtaktlicht gezeigt wird."
+        }
+      ],
+      "question": "Bei welchem Signal dürfen Sportfahrzeuge in die Schleusen des Nord-Ostsee-Kanals einfahren?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Ergänzende Vorschriften für den NOK in der Seeschifffahrtsstraßen-Ordnung sowie in den Bekanntmachungen der WSD Nord."
+        },
+        {
+          "correct": false,
+          "text": "Ergänzende Vorschriften für den NOK in der Seeschifffahrtsstraßen-Ordnung sowie in den Kollisionsverhütungsregeln."
+        },
+        {
+          "correct": false,
+          "text": "Ergänzende Vorschriften für den NOK in der Seeschifffahrtsstraßen-Ordnung sowie in der Sportbootführerscheinverordnung."
+        },
+        {
+          "correct": false,
+          "text": "Ergänzende Vorschriften für den NOK in der Seeschifffahrtsstraßen-Ordnung sowie im Seeaufgabengesetz."
+        }
+      ],
+      "question": "Wo findet man Regeln für das Durchfahren des Nord-Ostsee-Kanals (NOK)?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Ausfahren für alle Fahrzeuge verboten; Aufhebung des Signals abwarten."
+        },
+        {
+          "correct": false,
+          "text": "Schutzbedürftige Anlage; Geschwindigkeit reduzieren, Sog und Wellenschlag vermeiden."
+        },
+        {
+          "correct": false,
+          "text": "Dauernde Sperrung der Seeschifffahrtsstraße; Weiterfahrt verboten."
+        },
+        {
+          "correct": false,
+          "text": "Dauernde Sperrung einer Teilstrecke der Seeschifffahrtsstraße; Weiterfahrt in der Teilstrecke verboten."
+        }
+      ],
+      "question": "Was bedeuten im Nord-Ostsee-Kanal an einem Weichensignalmast drei unterbrochene rote Lichter übereinander und was ist zu beachten?"
+    },
+    {
+      "images": [
+        {
+          "src": "https://www.elwis.de/DE/Schifffahrtsrecht/Binnenschifffahrtsrecht/Grafiken/Anlage-07/Gebotszeichen-B06.gif?__blob=normal&v=2",
+          "title": "Gebotszeichen B.6 - Gebot, die angegebene Geschwindigkeit (in km/h) nicht zu überschreiten"
+        }
+      ],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Die Geschwindigkeit durch das Wasser in km/h, auf dem Nord-Ostsee-Kanal (NOK) über Grund in km/h, die nicht überschritten werden darf."
+        },
+        {
+          "correct": false,
+          "text": "Mindestabstand in Metern, der in der nachfolgenden Strecke vom Aufstellungsort der Tafel an eingehalten werden muss."
+        },
+        {
+          "correct": false,
+          "text": "Die Geschwindigkeit durch das Wasser in sm/h (Knoten) auf dem Nord-Ostsee-Kanal (NOK) über Grund in sm/h, die nicht überschritten werden darf."
+        },
+        {
+          "correct": false,
+          "text": "Mindestabstand zu anderen Fahrzeugen in Metern, der im bekanntgemachten Streckenabschnitt nicht unterschritten werden darf."
+        }
+      ],
+      "question": "Welche Bedeutung hat folgendes Tafelzeichen?"
+    },
+    {
+      "images": [
+        {
+          "src": "https://www.elwis.de/DE/Schifffahrtsrecht/Seeschifffahrtsrecht/SeeSchStrO/Anlagen/Anlage-I/Gebotszeichen-A04b.gif?__blob=normal&v=1",
+          "title": "Schutzbedürftige Anlage"
+        },
+        {
+          "src": "https://www.elwis.de/DE/Schifffahrtsrecht/Seeschifffahrtsrecht/SeeSchStrO/Anlagen/Anlage-I/Gebotszeichen-A04c.gif?__blob=normal&v=1",
+          "title": "Schutzbedürftige Anlage"
+        }
+      ],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Schutzbedürftige Anlage."
+        },
+        {
+          "correct": false,
+          "text": "Dauernde Sperrung einer Teilstrecke der Seeschifffahrtsstraße."
+        },
+        {
+          "correct": false,
+          "text": "Dauernde Sperrung der Seeschifffahrtsstraße."
+        },
+        {
+          "correct": false,
+          "text": "Außergewöhnliche Schifffahrtsbehinderung."
+        }
+      ],
+      "question": "Welche Bedeutung haben folgende Sichtzeichen?"
+    },
+    {
+      "images": [
+        {
+          "src": "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-See/Spezifische-Fragen-See/Schallsignal-Frage-178-gif.gif?__blob=normal&v=1",
+          "title": "Brücke, Sperrwerk, Schleuse kann vorübergehend nicht geöffnet werden; Fahrt unterbrechen, Freigabe abwarten"
+        }
+      ],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Brücke, Sperrwerk, Schleuse kann vorübergehend nicht geöffnet werden; Fahrt unterbrechen, Freigabe abwarten."
+        },
+        {
+          "correct": false,
+          "text": "Ein Ausweichpflichtiger wird vom Vorfahrtberechtigten auf seine Ausweichpflicht hingewiesen; sofort Ausweichmanöver einleiten."
+        },
+        {
+          "correct": false,
+          "text": "Bleib-weg-Signal, Gefahr durch gefährliche Ladung; sofort den Gefahrenbereich verlassen. Offenes Feuer vermeiden (Explosionsgefahr)."
+        },
+        {
+          "correct": false,
+          "text": "Brücke, Sperrwerk, Schleuse wird zur Öffnung vorbereitet; Fahrt fortsetzen."
+        }
+      ],
+      "question": "Welche Bedeutung hat folgendes Schallsignal und was ist zu beachten:"
+    },
+    {
+      "images": [
+        {
+          "src": "https://www.elwis.de/DE/Schifffahrtsrecht/Seeschifffahrtsrecht/SeeSchStrO/Anlagen/Anlage-I/Gebotszeichen-A05.gif?__blob=normal&v=1",
+          "title": "Geschwindigkeit von 8 km/h Fahrt durch das Wasser, die innerhalb eines Bereiches von 500 m von der jeweiligen Uferlinie wegen Badebetriebs nicht überschritten werden darf"
+        }
+      ],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Geschwindigkeit von 8 km/h Fahrt durch das Wasser, die innerhalb eines Bereiches von 500 m von der jeweiligen Uferlinie wegen Badebetriebs nicht überschritten werden darf."
+        },
+        {
+          "correct": false,
+          "text": "Kennzeichnung besonderer Gebiete und Stellen, z. B. Warngebiete; die Bedeutung kann der Seekarte entnommen und aus der Beschriftung des Schifffahrtszeichens erkannt werden."
+        },
+        {
+          "correct": false,
+          "text": "Geschwindigkeit von 8 sm/h Fahrt durch das Wasser, die innerhalb eines Mindestabstandes von 500 m von der jeweiligen Uferlinie wegen Badebetriebs nicht überschritten werden darf."
+        },
+        {
+          "correct": false,
+          "text": "Buhnenbauwerk, Gefahr durch Sog und Wellenschlag. Insbesondere auf Badebetrieb und Schwimmer achten."
+        }
+      ],
+      "question": "Welche Bedeutung hat folgendes Sichtzeichen?"
+    },
+    {
+      "images": [
+        {
+          "src": "https://www.elwis.de/DE/Schifffahrtsrecht/Seeschifffahrtsrecht/SeeSchStrO/Anlagen/Anlage-I/Gebotszeichen-A17aa.gif?__blob=normal&v=1",
+          "title": "Gesperrt für alle Maschinenfahrzeuge und Wassermotorräder wegen Badebetriebs"
+        }
+      ],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Gesperrt für alle Maschinenfahrzeuge und Wassermotorräder wegen Badebetriebs."
+        },
+        {
+          "correct": false,
+          "text": "Höchstgeschwindigkeit von 4,3 Knoten Fahrt durch das Wasser, die innerhalb von 500 m von der jeweiligen Uferlinie wegen Badebetriebs nicht überschritten werden darf."
+        },
+        {
+          "correct": false,
+          "text": "Einzelgefahrenstelle, erkennbar an ihrer Farbgebung, die an allen Seiten mit einer maximalen Geschwindigkeit von 4,3 Knoten passiert werden kann."
+        },
+        {
+          "correct": false,
+          "text": "Kennzeichnung besonderer Gebiete und Stellen, z. B. Warngebiet."
+        }
+      ],
+      "question": "Welche Bedeutung hat folgendes Schifffahrtszeichen?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "4,3 Knoten."
+        },
+        {
+          "correct": false,
+          "text": "3,4 Knoten."
+        },
+        {
+          "correct": false,
+          "text": "4,8 Knoten."
+        },
+        {
+          "correct": false,
+          "text": "3,8 Knoten."
+        }
+      ],
+      "question": "Welche Höchstgeschwindigkeit darf vor Stellen mit erkennbarem Badebetrieb - außerhalb des Fahrwassers - in einem Abstand von 500 m und weniger vom Ufer nicht überschritten werden?"
+    },
+    {
+      "images": [
+        {
+          "src": "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-See/Spezifische-Fragen-See/Schifffahrtszeichen-Frage-182-gif.gif?__blob=normal&v=1",
+          "title": "Kennzeichnung von besonderen Gebieten und Stellen"
+        }
+      ],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Kennzeichnung von besonderen Gebieten und Stellen."
+        },
+        {
+          "correct": false,
+          "text": "Kennzeichnung von Sperrgebieten."
+        },
+        {
+          "correct": false,
+          "text": "Kennzeichnung von Schießgebieten."
+        },
+        {
+          "correct": false,
+          "text": "Kennzeichnung von Badegebieten."
+        }
+      ],
+      "question": "Welche Bedeutung hat folgendes Schifffahrtszeichen?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "An bestimmten Tag- und Nachtsignalen, die nach der Schifffahrtspolizeiverordnung der Wasser- und Schifffahrtsdirektion Nord für militärische Sperr- und Warngebiete an entsprechenden Signalstellen und auf Sicherungsfahrzeugen gezeigt werden."
+        },
+        {
+          "correct": false,
+          "text": "An bestimmten Tag- und Nachtsignalen, die nach der Rheinpolizeiverordnung der Wasser- und Schifffahrtsdirektionen für militärische Sperr- und Warngebiete an entsprechenden Signalstellen am Ufer und auf Sicherungsfahrzeugen gezeigt werden."
+        },
+        {
+          "correct": false,
+          "text": "An bestimmten Tag- und Nachtsignalen, die nach der zuständigen Polizeiverordnung des Wasserwirtschaftsamtes für Übungs-, Sperr- und Warngebiete an entsprechenden Signalstellen am Ufer und auf Sicherungsfahrzeugen gezeigt werden."
+        },
+        {
+          "correct": false,
+          "text": "An bestimmten Tag- und Nachtsignalen, die nach der Schifffahrtsordnung der Wasser- und Schifffahrtsdirektion Nordwest für militärische Sperr- und Warngebiete an entsprechenden Signalstellen am Ufer und auf Sicherungsfahrzeugen gezeigt werden."
+        }
+      ],
+      "question": "Woran ist ein militärisches Warngebiet zu erkennen, das wegen Schießübungen für die Schifffahrt gesperrt ist?"
+    },
+    {
+      "images": [
+        {
+          "src": "https://www.elwis.de/DE/Schifffahrtsrecht/Seeschifffahrtsrecht/SeeSchStrO/Anlagen/Anlage-I/Gebotszeichen-A17ba.gif?__blob=normal&v=1",
+          "title": "Sperrgebiet"
+        },
+        {
+          "src": "https://www.elwis.de/DE/Schifffahrtsrecht/Seeschifffahrtsrecht/SeeSchStrO/Anlagen/Anlage-I/Gebotszeichen-A17bb.gif?__blob=normal&v=1",
+          "title": "Sperrgebiet"
+        },
+        {
+          "src": "https://www.elwis.de/DE/Schifffahrtsrecht/Seeschifffahrtsrecht/SeeSchStrO/Anlagen/Anlage-I/Gebotszeichen-A17bc.gif?__blob=normal&v=1",
+          "title": "Sperrgebiet"
+        }
+      ],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Sperrgebiet."
+        },
+        {
+          "correct": false,
+          "text": "Sperrgebiet und Badezone."
+        },
+        {
+          "correct": false,
+          "text": "Sperrgebiet wegen Aquakulturen und Muschelzuchtanlagen."
+        },
+        {
+          "correct": false,
+          "text": "Schießgebiet."
+        }
+      ],
+      "question": "Welche Bedeutung haben folgende Schifffahrtszeichen?"
+    },
+    {
+      "images": [
+        {
+          "src": "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-See/Spezifische-Fragen-See/Flaggensignal-Frage-185-gif.gif?__blob=normal&v=1",
+          "title": "Anhalten"
+        }
+      ],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Anhalten."
+        },
+        {
+          "correct": false,
+          "text": "Seenotsignal."
+        },
+        {
+          "correct": false,
+          "text": "Anker behindert Schifffahrt."
+        },
+        {
+          "correct": false,
+          "text": "Schleppverband, länger als 200 m"
+        }
+      ],
+      "question": "Welche Bedeutung hat folgendes Flaggensignal?"
+    },
+    {
+      "images": [
+        {
+          "src": "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-See/Spezifische-Fragen-See/Schallsignal-Frage-186-gif.gif?__blob=normal&v=1",
+          "title": "Polizeifahrzeug fordert zum Anhalten auf"
+        }
+      ],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Polizeifahrzeug fordert zum Anhalten auf."
+        },
+        {
+          "correct": false,
+          "text": "Ankerlieger macht auf gefährliche Annäherung aufmerksam."
+        },
+        {
+          "correct": false,
+          "text": "Letzter bemannter Anhang eines Schleppverbandes."
+        },
+        {
+          "correct": false,
+          "text": "Manövrierbehindertes Fahrzeug blockiert das Fahrwasser."
+        }
+      ],
+      "question": "Welche Bedeutung hat folgendes Schallsignal:"
+    },
+    {
+      "images": [
+        {
+          "src": "https://www.elwis.de/DE/Schifffahrtsrecht/Seeschifffahrtsrecht/SeeSchStrO/Anlagen/Anlage-I/Gebotszeichen-A18aa.gif?__blob=normal&v=1",
+          "title": "Dauernde Sperrung der Seeschifffahrtsstraße. Weiterfahrt verboten"
+        },
+        {
+          "src": "https://www.elwis.de/DE/Schifffahrtsrecht/Seeschifffahrtsrecht/SeeSchStrO/Anlagen/Anlage-I/Gebotszeichen-A18ab.gif?__blob=normal&v=1",
+          "title": "Dauernde Sperrung der Seeschifffahrtsstraße. Weiterfahrt verboten"
+        }
+      ],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Dauernde Sperrung der Seeschifffahrtsstraße. Weiterfahrt verboten."
+        },
+        {
+          "correct": false,
+          "text": "Schutzbedürftige Anlage. Sog und Wellenschlag vermeiden."
+        },
+        {
+          "correct": false,
+          "text": "Außergewöhnliche Schifffahrtsbehinderung. Vorsichtig passieren."
+        },
+        {
+          "correct": false,
+          "text": "Ende einer Gebots- oder Verbotsstrecke. Freie Weiterfahrt."
+        }
+      ],
+      "question": "Welche Bedeutung haben folgende Sichtzeichen?"
+    },
+    {
+      "images": [
+        {
+          "src": "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-See/Spezifische-Fragen-See/Schallsignal-Frage-188-gif.gif?__blob=normal&v=1",
+          "title": "Sperrung der Seeschifffahrtsstraße, Weiterfahrt verboten"
+        }
+      ],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Sperrung der Seeschifffahrtsstraße, Weiterfahrt verboten."
+        },
+        {
+          "correct": false,
+          "text": "Einfahrt in Schleuse oder Anlage gesperrt, auf Freigabe warten."
+        },
+        {
+          "correct": false,
+          "text": "Ein Ankerlieger bei schlechter Sicht, vorsichtig weiter navigieren."
+        },
+        {
+          "correct": false,
+          "text": "Fahrzeug des öffentlichen Dienstes, anhalten."
+        }
+      ],
+      "question": "Welche Bedeutung hat folgendes Schallsignal"
+    },
+    {
+      "images": [
+        {
+          "src": "https://www.elwis.de/DE/Schifffahrtsrecht/Seeschifffahrtsrecht/SeeSchStrO/Anlagen/Anlage-I/Warnzeichen-B06-Tag.gif?__blob=normal&v=1",
+          "title": "Außergewöhnliche Schiffahrtsbehinderung"
+        },
+        {
+          "src": "https://www.elwis.de/DE/Schifffahrtsrecht/Seeschifffahrtsrecht/SeeSchStrO/Anlagen/Anlage-I/Warnzeichen-B06-Nacht.gif?__blob=normal&v=1",
+          "title": "Außergewöhnliche Schiffahrtsbehinderung"
+        }
+      ],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Außergewöhnliche Schifffahrtsbehinderung."
+        },
+        {
+          "correct": false,
+          "text": "Dauernde Sperrung der Seeschifffahrtsstraße."
+        },
+        {
+          "correct": false,
+          "text": "Schutzbedürftige Anlage."
+        },
+        {
+          "correct": false,
+          "text": "Zeitweilige Sperrung der Seeschifffahrtsstraße."
+        }
+      ],
+      "question": "Welche Bedeutung haben folgende Sichtzeichen?"
+    },
+    {
+      "images": [
+        {
+          "src": "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-See/Spezifische-Fragen-See/Tonne-Frage-190-gif.gif?__blob=normal&v=1",
+          "title": "Kennzeichnung der Mitte von Schifffahrtswegen"
+        }
+      ],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Kennzeichnung der Mitte von Schifffahrtswegen."
+        },
+        {
+          "correct": false,
+          "text": "Kennzeichnung von Einzelgefahrenstellen."
+        },
+        {
+          "correct": false,
+          "text": "Kennzeichnung einer Reede."
+        },
+        {
+          "correct": false,
+          "text": "Kennzeichnung der Backbordseite eines Fahrwassers."
+        }
+      ],
+      "question": "Welche Bedeutung hat folgende Tonne?"
+    },
+    {
+      "images": [
+        {
+          "src": "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-See/Spezifische-Fragen-See/Schifffahrtszeichen-Frage-191-gif.gif?__blob=normal&v=1",
+          "title": "Die Steuerbordseite des Fahrwassers"
+        }
+      ],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Die Steuerbordseite des Fahrwassers."
+        },
+        {
+          "correct": false,
+          "text": "Die Backbordseite des Fahrwassers."
+        },
+        {
+          "correct": false,
+          "text": "Die Mitte eines Schifffahrtsweges."
+        },
+        {
+          "correct": false,
+          "text": "Die Kennzeichnung von Hindernissen."
+        }
+      ],
+      "question": "Welche Bedeutung hat folgendes Schifffahrtszeichen?"
+    },
+    {
+      "images": [
+        {
+          "src": "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-See/Spezifische-Fragen-See/Schifffahrtszeichen-Frage-192-gif.gif?__blob=normal&v=1",
+          "title": "Die Backbordseite des Fahrwassers"
+        }
+      ],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Die Backbordseite des Fahrwassers."
+        },
+        {
+          "correct": false,
+          "text": "Die Steuerbordseite des Fahrwassers."
+        },
+        {
+          "correct": false,
+          "text": "Die Mitte eines Wattfahrwassers."
+        },
+        {
+          "correct": false,
+          "text": "Die Kennzeichnung eines Hindernisses im Wattfahrwasser."
+        }
+      ],
+      "question": "Welche Bedeutung hat folgendes Schifffahrtszeichen?"
+    },
+    {
+      "images": [
+        {
+          "src": "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-See/Spezifische-Fragen-See/Schifffahrtszeichen-Frage-193-gif.gif?__blob=normal&v=1",
+          "title": "Die Steuerbordseite des Fahrwassers"
+        }
+      ],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Die Steuerbordseite des Fahrwassers."
+        },
+        {
+          "correct": false,
+          "text": "Die Backbordseite des Fahrwassers."
+        },
+        {
+          "correct": false,
+          "text": "Die Mitte eines Schifffahrtsweges."
+        },
+        {
+          "correct": false,
+          "text": "Die Kennzeichnung von Hindernissen."
+        }
+      ],
+      "question": "Welche Bedeutung hat folgende(s) Tonne/Schifffahrtszeichen?"
+    },
+    {
+      "images": [
+        {
+          "src": "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-See/Spezifische-Fragen-See/Schifffahrtszeichen-Frage-194-gif.gif?__blob=normal&v=1",
+          "title": "Die Backbordseite des Fahrwassers"
+        }
+      ],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Die Backbordseite des Fahrwassers."
+        },
+        {
+          "correct": false,
+          "text": "Die Steuerbordseite des Fahrwassers."
+        },
+        {
+          "correct": false,
+          "text": "Die Mitte eines Wattfahrwassers."
+        },
+        {
+          "correct": false,
+          "text": "Die Kennzeichnung eines Hindernisses im Wattfahrwasser."
+        }
+      ],
+      "question": "Welche Bedeutung hat folgende(s) Tonne/Schifffahrtszeichen?"
+    },
+    {
+      "images": [
+        {
+          "src": "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-See/Spezifische-Fragen-See/Tonne-Frage-195-gif.gif?__blob=normal&v=1",
+          "title": "Steuerbordseite des durchgehenden Fahrwassers/Backbordseite des abzweigenden oder einmündenden Fahrwassers"
+        }
+      ],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Steuerbordseite des durchgehenden Fahrwassers/Backbordseite des abzweigenden oder einmündenden Fahrwassers."
+        },
+        {
+          "correct": false,
+          "text": "Backbordseite des durchgehenden Fahrwassers/Steuerbordseite des abzweigenden oder einmündenden Fahrwassers."
+        },
+        {
+          "correct": false,
+          "text": "Steuerbordseite des durchgehenden Fahrwassers."
+        },
+        {
+          "correct": false,
+          "text": "Backbordseite des durchgehenden Fahrwassers."
+        }
+      ],
+      "question": "Welche Bedeutung hat folgende Tonne?"
+    },
+    {
+      "images": [
+        {
+          "src": "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-See/Spezifische-Fragen-See/Tonne-Frage-196-gif.gif?__blob=normal&v=1",
+          "title": "Backbordseite des durchgehenden Fahrwassers, Steuerbordseite des abzweigenden oder einmündenden Fahrwassers"
+        }
+      ],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Backbordseite des durchgehenden Fahrwassers, Steuerbordseite des abzweigenden oder einmündenden Fahrwassers."
+        },
+        {
+          "correct": false,
+          "text": "Steuerbordseite des durchgehenden Fahrwassers, Backbordseite des abzweigenden oder einmündenden Fahrwassers."
+        },
+        {
+          "correct": false,
+          "text": "Steuerbordseite des durchgehenden Fahrwassers."
+        },
+        {
+          "correct": false,
+          "text": "Backbordseite des durchgehenden Fahrwassers."
+        }
+      ],
+      "question": "Welche Bedeutung hat folgende Tonne?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Unterbrochen (2) rot, Heultonne."
+        },
+        {
+          "correct": false,
+          "text": "Blitz (2) rot, Glockentonne."
+        },
+        {
+          "correct": false,
+          "text": "Blink (2) rot, Glockentonne."
+        },
+        {
+          "correct": false,
+          "text": "Leitfeuer rot, zwei Warnsektoren."
+        }
+      ],
+      "question": "Welche Bedeutung hat folgende Kennung: \"Oc (2) R. Whis.\"?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Grünes Blitzfeuer, Funkelfeuer oder unterbrochenes Feuer in Gruppen."
+        },
+        {
+          "correct": false,
+          "text": "Grünes Blitzfeuer, Funkelfeuer oder Festfeuer."
+        },
+        {
+          "correct": false,
+          "text": "Grünes Blitzfeuer, Funkelfeuer oder schnelles Funkelfeuer."
+        },
+        {
+          "correct": false,
+          "text": "Grünes Blitzfeuer, Funkelfeuer oder Blinkfeuer."
+        }
+      ],
+      "question": "Welche Kennung und Farbe haben die Feuer der Leuchttonnen an der Steuerbordseite des Fahrwassers?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Rotes Blitzfeuer, Funkelfeuer oder unterbrochenes Feuer in Gruppen."
+        },
+        {
+          "correct": false,
+          "text": "Rotes Blitzfeuer, Funkelfeuer oder Festfeuer."
+        },
+        {
+          "correct": false,
+          "text": "Rotes Blitzfeuer, Funkelfeuer oder schnelles Funkelfeuer."
+        },
+        {
+          "correct": false,
+          "text": "Rotes Blitzfeuer, Funkelfeuer oder Blinkfeuer."
+        }
+      ],
+      "question": "Welche Kennung und Farbe haben die Feuer der Leuchttonnen an der Backbordseite des Fahrwassers?"
+    },
+    {
+      "images": [
+        {
+          "src": "https://www.elwis.de/DE/Schifffahrtsrecht/Seeschifffahrtsrecht/SeeSchStrO/Anlagen/Anlage-I/Warnzeichen-B15a.gif?__blob=normal&v=1",
+          "title": "Kennzeichnung einer allgemeinen Gefahrenstelle, Nordquadrant"
+        }
+      ],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Kennzeichnung einer allgemeinen Gefahrenstelle, Nordquadrant."
+        },
+        {
+          "correct": false,
+          "text": "Kennzeichnung einer allgemeinen Gefahrenstelle, Südquadrant."
+        },
+        {
+          "correct": false,
+          "text": "Kennzeichnung einer allgemeinen Gefahrenstelle, Westquadrant."
+        },
+        {
+          "correct": false,
+          "text": "Kennzeichnung einer allgemeinen Gefahrenstelle, Ostquadrant."
+        }
+      ],
+      "question": "Welche Bedeutung hat folgendes Schifffahrtszeichen?"
+    },
+    {
+      "images": [
+        {
+          "src": "https://www.elwis.de/DE/Schifffahrtsrecht/Seeschifffahrtsrecht/SeeSchStrO/Anlagen/Anlage-I/Warnzeichen-B15b.gif?__blob=normal&v=1",
+          "title": "Kennzeichnung einer allgemeinen Gefahrenstelle, Ostquadrant"
+        }
+      ],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Kennzeichnung einer allgemeinen Gefahrenstelle, Ostquadrant."
+        },
+        {
+          "correct": false,
+          "text": "Kennzeichnung einer allgemeinen Gefahrenstelle, Nordquadrant."
+        },
+        {
+          "correct": false,
+          "text": "Kennzeichnung einer allgemeinen Gefahrenstelle, Westquadrant."
+        },
+        {
+          "correct": false,
+          "text": "Kennzeichnung einer allgemeinen Gefahrenstelle, Südquadrant."
+        }
+      ],
+      "question": "Welche Bedeutung hat folgendes Schifffahrtszeichen?"
+    },
+    {
+      "images": [
+        {
+          "src": "https://www.elwis.de/DE/Schifffahrtsrecht/Seeschifffahrtsrecht/SeeSchStrO/Anlagen/Anlage-I/Warnzeichen-B15c.gif?__blob=normal&v=1",
+          "title": "Kennzeichnung einer allgemeinen Gefahrenstelle, Südquadrant"
+        }
+      ],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Kennzeichnung einer allgemeinen Gefahrenstelle, Südquadrant."
+        },
+        {
+          "correct": false,
+          "text": "Kennzeichnung einer allgemeinen Gefahrenstelle, Nordquadrant."
+        },
+        {
+          "correct": false,
+          "text": "Kennzeichnung einer allgemeinen Gefahrenstelle, Westquadrant."
+        },
+        {
+          "correct": false,
+          "text": "Kennzeichnung einer allgemeinen Gefahrenstelle, Ostquadrant."
+        }
+      ],
+      "question": "Welche Bedeutung hat folgendes Schifffahrtszeichen?"
+    },
+    {
+      "images": [
+        {
+          "src": "https://www.elwis.de/DE/Schifffahrtsrecht/Seeschifffahrtsrecht/SeeSchStrO/Anlagen/Anlage-I/Warnzeichen-B15d.gif?__blob=normal&v=1",
+          "title": "Kennzeichnung einer allgemeinen Gefahrenstelle, Westquadrant"
+        }
+      ],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Kennzeichnung einer allgemeinen Gefahrenstelle, Westquadrant."
+        },
+        {
+          "correct": false,
+          "text": "Kennzeichnung einer allgemeinen Gefahrenstelle, Ostquadrant."
+        },
+        {
+          "correct": false,
+          "text": "Kennzeichnung einer allgemeinen Gefahrenstelle, Nordquadrant."
+        },
+        {
+          "correct": false,
+          "text": "Kennzeichnung einer allgemeinen Gefahrenstelle, Südquadrant."
+        }
+      ],
+      "question": "Welche Bedeutung hat folgendes Schifffahrtszeichen?"
+    },
+    {
+      "images": [
+        {
+          "src": "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-See/Spezifische-Fragen-See/Feuer-Frage-204-gif.gif?__blob=normal&v=1",
+          "title": "Kennzeichnung einer allgemeinen Gefahrenstelle, die nördlich zu passieren ist"
+        }
+      ],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Kennzeichnung einer allgemeinen Gefahrenstelle, die nördlich zu passieren ist."
+        },
+        {
+          "correct": false,
+          "text": "Kennzeichnung einer allgemeinen Gefahrenstelle, die südlich zu passieren ist."
+        },
+        {
+          "correct": false,
+          "text": "Kennzeichnung einer allgemeinen Gefahrenstelle, die östlich zu passieren ist."
+        },
+        {
+          "correct": false,
+          "text": "Kennzeichnung einer allgemeinen Gefahrenstelle, die westlich zu passieren ist."
+        }
+      ],
+      "question": "Welche Bedeutung hat das Feuer einer Leuchttonne mit folgender Kennung?"
+    },
+    {
+      "images": [
+        {
+          "src": "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-See/Spezifische-Fragen-See/Feuer-Frage-205-gif.gif?__blob=normal&v=1",
+          "title": "Kennzeichnung einer allgemeinen Gefahrenstelle, die östlich zu passieren ist"
+        }
+      ],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Kennzeichnung einer allgemeinen Gefahrenstelle, die östlich zu passieren ist."
+        },
+        {
+          "correct": false,
+          "text": "Kennzeichnung einer allgemeinen Gefahrenstelle, die nördlich zu passieren ist."
+        },
+        {
+          "correct": false,
+          "text": "Kennzeichnung einer allgemeinen Gefahrenstelle, die südlich zu passieren ist."
+        },
+        {
+          "correct": false,
+          "text": "Kennzeichnung einer allgemeinen Gefahrenstelle, die westlich zu passieren ist."
+        }
+      ],
+      "question": "Welche Bedeutung hat das Feuer einer Leuchttonne mit folgender Kennung?"
+    },
+    {
+      "images": [
+        {
+          "src": "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-See/Spezifische-Fragen-See/Feuer-Frage-206-gif.gif?__blob=normal&v=1",
+          "title": "Kennzeichnung einer allgemeinen Gefahrenstelle, Südquadrant"
+        }
+      ],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Kennzeichnung einer allgemeinen Gefahrenstelle, Südquadrant."
+        },
+        {
+          "correct": false,
+          "text": "Kennzeichnung einer allgemeinen Gefahrenstelle, Westquadrant."
+        },
+        {
+          "correct": false,
+          "text": "Kennzeichnung einer allgemeinen Gefahrenstelle, Ostquadrant."
+        },
+        {
+          "correct": false,
+          "text": "Kennzeichnung einer allgemeinen Gefahrenstelle, Nordquadrant."
+        }
+      ],
+      "question": "Welche Bedeutung hat das Feuer einer Leuchttonne mit folgender Kennung?"
+    },
+    {
+      "images": [
+        {
+          "src": "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-See/Spezifische-Fragen-See/Feuer-Frage-207-gif.gif?__blob=normal&v=1",
+          "title": "Kennzeichnung einer allgemeinen Gefahrenstelle, Westquadrant. Sie ist westlich zu passieren"
+        }
+      ],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Kennzeichnung einer allgemeinen Gefahrenstelle, Westquadrant. Sie ist westlich zu passieren."
+        },
+        {
+          "correct": false,
+          "text": "Kennzeichnung einer allgemeinen Gefahrenstelle, Südquadrant. Sie ist südlich zu passieren."
+        },
+        {
+          "correct": false,
+          "text": "Kennzeichnung einer allgemeinen Gefahrenstelle, Ostquadrant. Sie ist östlich zu passieren."
+        },
+        {
+          "correct": false,
+          "text": "Kennzeichnung einer allgemeinen Gefahrenstelle, Nordquadrant. Sie ist nördlich zu passieren."
+        }
+      ],
+      "question": "Welche Bedeutung hat das Feuer einer Leuchttonne mit folgender Kennung?"
+    },
+    {
+      "images": [
+        {
+          "src": "https://www.elwis.de/DE/Schifffahrtsrecht/Seeschifffahrtsrecht/SeeSchStrO/Anlagen/Anlage-I/Warnzeichen-B15e.gif?__blob=normal&v=1",
+          "title": "Eine Einzelgefahrenstelle, die an allen Seiten passiert werden kann"
+        }
+      ],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Eine Einzelgefahrenstelle, die an allen Seiten passiert werden kann."
+        },
+        {
+          "correct": false,
+          "text": "Den nördlichen Quadranten einer allgemeinen Gefahrenstelle, die nördlich passiert werden muss."
+        },
+        {
+          "correct": false,
+          "text": "Den südlichen Quadranten einer allgemeinen Gefahrenstelle, die südlich passiert werden muss."
+        },
+        {
+          "correct": false,
+          "text": "Den westlichen Quadranten einer allgemeinen Gefahrenstelle, die westlich passiert werden muss."
+        }
+      ],
+      "question": "Was kennzeichnet eines der folgenden Schifffahrtszeichen und welches Verhalten wird gefordert?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Eine Einzelgefahrenstelle, die an allen Seiten passiert werden kann."
+        },
+        {
+          "correct": false,
+          "text": "Nördlicher Quadrant einer allgemeinen Gefahrenstelle, die nördlich passiert werden muss."
+        },
+        {
+          "correct": false,
+          "text": "Südlicher Quadrant einer allgemeinen Gefahrenstelle, die südlich passiert werden muss."
+        },
+        {
+          "correct": false,
+          "text": "Westlicher Quadrant einer allgemeinen Gefahrenstelle, die westlich passiert werden muss."
+        }
+      ],
+      "question": "Welche Bedeutung hat das Feuer einer Leuchttonne mit folgender Kennung: Fl. (2)?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Sektorenfeuer, das ein Fahrwasser bezeichnet."
+        },
+        {
+          "correct": false,
+          "text": "Sektorenfeuer, das auf eine Kursänderung im Fahrwasser hinweist."
+        },
+        {
+          "correct": false,
+          "text": "Ober- und Unterfeuer, die in Deckung zu bringen sind."
+        },
+        {
+          "correct": false,
+          "text": "Ober- und Unterfeuer mit unterschiedlichen Farbsektoren."
+        }
+      ],
+      "question": "Was versteht man unter einem Leitfeuer?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "In Fahrtrichtung an der rechten Seite des weißen Leitsektors halten."
+        },
+        {
+          "correct": false,
+          "text": "In Fahrtrichtung an der linken Seite des weißen Leitsektors halten."
+        },
+        {
+          "correct": false,
+          "text": "In Fahrtrichtung in der Mitte des weißen Leitsektors halten."
+        },
+        {
+          "correct": false,
+          "text": "In Fahrtrichtung Ober- und Unterfeuer in Deckung halten."
+        }
+      ],
+      "question": "Wie navigiert man mittels eines Leitfeuers?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Ober- und Unterfeuer, die in Deckung zu bringen sind."
+        },
+        {
+          "correct": false,
+          "text": "Sektorenfeuer, das ein Fahrwasser bezeichnet."
+        },
+        {
+          "correct": false,
+          "text": "Sektorenfeuer, das auf eine Kursänderung im Fahrwasser hinweist."
+        },
+        {
+          "correct": false,
+          "text": "Ober- und Unterfeuer mit unterschiedlichen Farbsektoren."
+        }
+      ],
+      "question": "Was versteht man unter einem Richtfeuer?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Sektorenfeuer, das auf eine Kursänderung im Fahrwasser hinweist."
+        },
+        {
+          "correct": false,
+          "text": "Sektorenfeuer, das ein Fahrwasser bezeichnet."
+        },
+        {
+          "correct": false,
+          "text": "Ober- und Unterfeuer, die in Deckung zu bringen sind."
+        },
+        {
+          "correct": false,
+          "text": "Ober- und Unterfeuer mit unterschiedlichen Farbsektoren."
+        }
+      ],
+      "question": "Was versteht man unter einem Quermarkenfeuer?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Beim Übergang vom Ankündigungssektor in den Kursänderungssektor die Kursänderung vornehmen."
+        },
+        {
+          "correct": false,
+          "text": "Beim Erreichen des Ankündigungssektors die Kursänderung vornehmen."
+        },
+        {
+          "correct": false,
+          "text": "Beim Erreichen des Kursänderungssektors den Kurs beibehalten."
+        },
+        {
+          "correct": false,
+          "text": "Beim Erreichen des Ankündigungssektors Ober- und Unterfeuer in Deckung halten."
+        }
+      ],
+      "question": "Wie navigiert man mittels eines Quermarkenfeuers?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Die Lichterscheinung ist stets länger als die Verdunkelung."
+        },
+        {
+          "correct": false,
+          "text": "Die Lichterscheinung ist stets kürzer als die Verdunkelung."
+        },
+        {
+          "correct": false,
+          "text": "Die Lichterscheinung ist stets gleich lang wie die Verdunkelung."
+        },
+        {
+          "correct": false,
+          "text": "Die Lichterscheinung ist stets kürzer als 2 Sekunden."
+        }
+      ],
+      "question": "Was versteht man unter einem unterbrochenen Feuer?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "In Seekarten und Sportschifffahrtskarten des Bundesamtes für Seeschifffahrt und Hydrographie."
+        },
+        {
+          "correct": false,
+          "text": "Im Bundesnaturschutzgesetz."
+        },
+        {
+          "correct": false,
+          "text": "In der Seeschifffahrtsstraßen-Ordnung."
+        },
+        {
+          "correct": false,
+          "text": "In den Kollisionsverhütungsregeln."
+        }
+      ],
+      "question": "Wo findet man die Grenzen der Naturschutzgebiete auf See?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "In Seekarten und Sportschifffahrtskarten des Bundesamtes für Seeschifffahrt und Hydrographie."
+        },
+        {
+          "correct": false,
+          "text": "Im Bundesnaturschutzgesetz."
+        },
+        {
+          "correct": false,
+          "text": "In der Seeschifffahrtsstraßen-Ordnung."
+        },
+        {
+          "correct": false,
+          "text": "In den Kollisionsverhütungsregeln."
+        }
+      ],
+      "question": "Wo findet man auszugsweise Hinweise zu Befahrensmöglichkeiten der Naturschutzgebiete in Küstengewässern?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Die Tiere sollen nicht gestört oder vertrieben werden."
+        },
+        {
+          "correct": false,
+          "text": "Im Bereich von Seehundbänken ist mit Untiefen zu rechnen."
+        },
+        {
+          "correct": false,
+          "text": "Tiefenangaben zu Seehundbänken sind im Kartenwerk nicht verzeichnet."
+        },
+        {
+          "correct": false,
+          "text": "Seehundbänke sind gesperrte Wasserflächen."
+        }
+      ],
+      "question": "Weshalb sollte das Anlaufen von Seehundbänken im Bereich der Watten vermieden werden?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "300 m bis 500 m."
+        },
+        {
+          "correct": false,
+          "text": "150 m bis 200 m."
+        },
+        {
+          "correct": false,
+          "text": "100 m bis 300 m."
+        },
+        {
+          "correct": false,
+          "text": "200 m bis 300 m."
+        }
+      ],
+      "question": "Welcher Abstand sollte gemäß den \"10 Goldenen Regeln\" für das Verhalten von Wassersportlern mindestens zu Liegeplätzen von Seehunden und zu Vogelansammlungen eingehalten werden?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Lichterscheinung kürzer als Verdunkelung, Blink mindestens 2 s lang."
+        },
+        {
+          "correct": false,
+          "text": "Lichterscheinung kürzer als Verdunkelung, Blink weniger als 2 s lang."
+        },
+        {
+          "correct": false,
+          "text": "Lichterscheinung länger als Verdunkelung, Blink mindestens 2 s lang."
+        },
+        {
+          "correct": false,
+          "text": "Lichterscheinung länger als Verdunkelung, Blink weniger als 2 s lang."
+        }
+      ],
+      "question": "Was versteht man unter einem Blinkfeuer?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Lichterscheinung kürzer als Verdunkelung, Blitz weniger als 2 s lang."
+        },
+        {
+          "correct": false,
+          "text": "Lichterscheinung kürzer als Verdunkelung, Blitz länger als 2 s lang."
+        },
+        {
+          "correct": false,
+          "text": "Lichterscheinung länger als Verdunkelung, Blitz mindestens 2 s lang."
+        },
+        {
+          "correct": false,
+          "text": "Lichterscheinung länger als Verdunkelung, Blitz weniger als 2 s lang."
+        }
+      ],
+      "question": "Was versteht man unter einem Blitzfeuer?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "50 bis 60 aufeinanderfolgende Lichterscheinungen pro Minute."
+        },
+        {
+          "correct": false,
+          "text": "100 bis 120 aufeinanderfolgende Lichterscheinungen pro Minute."
+        },
+        {
+          "correct": false,
+          "text": "130 bis 150 aufeinanderfolgende Lichterscheinungen pro Minute."
+        },
+        {
+          "correct": false,
+          "text": "30 bis 40 aufeinanderfolgende Lichterscheinungen pro Minute."
+        }
+      ],
+      "question": "Was versteht man unter einem Funkelfeuer?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Lichterscheinung und Verdunkelung von gleicher Länge."
+        },
+        {
+          "correct": false,
+          "text": "Lichterscheinung kürzer als Verdunkelung."
+        },
+        {
+          "correct": false,
+          "text": "Lichterscheinung länger als Verdunkelung."
+        },
+        {
+          "correct": false,
+          "text": "Lichterscheinung zweifach länger als Verdunkelung."
+        }
+      ],
+      "question": "Was versteht man unter einem Gleichtaktfeuer?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Zeitraum vom Einsetzen der Taktkennung bis zum Einsetzen der nächsten gleichen Taktkennung."
+        },
+        {
+          "correct": false,
+          "text": "Zeitraum vom Ende der Taktkennung bis zum Einsetzen der nächsten gleichen Taktkennung."
+        },
+        {
+          "correct": false,
+          "text": "Zeitraum vom Einsetzen der Taktkennung bis zum Ende der nächsten gleichen Taktkennung."
+        },
+        {
+          "correct": false,
+          "text": "Zeitraum vom Einsetzen der Taktkennung bis zum Ende der Taktkennung."
+        }
+      ],
+      "question": "Was versteht man unter der Wiederkehr eines Leuchtfeuers?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Befahrensregelungen (örtliche Befahrensverbote, zeitliche Befahrensbeschränkungen, festgesetzte Höchstgeschwindigkeiten und dergleichen) beachten."
+        },
+        {
+          "correct": false,
+          "text": "Befahrensregelungen beachten und sich bei der Nationalparkverwaltung anmelden."
+        },
+        {
+          "correct": false,
+          "text": "Befahrensregelungen beachten sowie Wasserschutzpolizei und Wasserstraßen- und Schifffahrtsamt informieren."
+        },
+        {
+          "correct": false,
+          "text": "Befahrensregelungen sowie Festlegungen der Ordnungsämter beachten."
+        }
+      ],
+      "question": "Wie hat man sich beim Befahren von Naturschutzgebieten und Nationalparken zu verhalten?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Befahrensverbote, zeitliche Befahrensbeschränkungen, Geschwindigkeitsbeschränkungen, besondere Regelungen für das Wasserskilaufen, das Fahren mit Wassermotorrädern und das Segelsurfen."
+        },
+        {
+          "correct": false,
+          "text": "Befahrensverbote, Schifffahrtssperrungen, Geschwindigkeitsbeschränkungen, besondere Regelungen für das Befahren von Windparks."
+        },
+        {
+          "correct": false,
+          "text": "Befahrensverbote, zeitliche Befahrensbeschränkungen, Mindestgeschwindigkeiten, besondere Regelungen für das Befahren von Verkehrstrennungsgebieten."
+        },
+        {
+          "correct": false,
+          "text": "Befahrensverbote, meteorologische Beschränkungen, besondere Regelungen für das Befahren der Tiefwasserzonen."
+        }
+      ],
+      "question": "Welche Sondervorschriften enthalten die örtlichen Befahrensregelungen in den Naturschutzgebieten und Nationalparks?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Von 3 Stunden vor bis 3 Stunden nach Hochwasser."
+        },
+        {
+          "correct": false,
+          "text": "Nur zur Hochwasserzeit."
+        },
+        {
+          "correct": false,
+          "text": "Von 3 Stunden vor bis 3 Stunden nach Niedrigwasser."
+        },
+        {
+          "correct": false,
+          "text": "Nur bei Stauwasser."
+        }
+      ],
+      "question": "Zu welchen Zeiten darf ein Sportboot in der Zone 1 der Nationalparks fahren?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "12 sm/h Fahrt durchs Wasser."
+        },
+        {
+          "correct": false,
+          "text": "12 km/h Fahrt durchs Wasser."
+        },
+        {
+          "correct": false,
+          "text": "16 sm/h Fahrt durchs Wasser."
+        },
+        {
+          "correct": false,
+          "text": "16 km/h Fahrt durchs Wasser."
+        }
+      ],
+      "question": "Welche Höchstgeschwindigkeit gilt in der Zone 1 der Nationalparks in der Nordsee?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "16 sm/h."
+        },
+        {
+          "correct": false,
+          "text": "14 sm/h."
+        },
+        {
+          "correct": false,
+          "text": "18 sm/h."
+        },
+        {
+          "correct": false,
+          "text": "12 sm/h."
+        }
+      ],
+      "question": "Welche Höchstgeschwindigkeit dürfen Maschinenfahrzeuge in Nationalparks in der Nordsee nicht überschreiten, wenn sie in gekennzeichneten Fahrwassern außerhalb der Zone 1 fahren?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Sämtliche Abfälle einschließlich Öle und Betriebsstoffe an Bord in geeigneten Behältern sammeln und an Land vorschriftsmäßig entsorgen."
+        },
+        {
+          "correct": false,
+          "text": "Abfälle und Öle nur auf offener See entsorgen."
+        },
+        {
+          "correct": false,
+          "text": "Nur Bioabfälle und restentleerte Behälter auf See entsorgen."
+        },
+        {
+          "correct": false,
+          "text": "Abwässer in Ufer- und Strandnähe sowie in Häfen einleiten."
+        }
+      ],
+      "question": "Welche Verpflichtung hat man als Bootsführer, um einen Beitrag zur Reinhaltung der Gewässer zu leisten?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Seekarten, Leuchtfeuerverzeichnis, Seehandbücher, Gezeitentafeln oder -kalender, Jachtfunkdienst, Nachrichten für Seefahrer (NfS), Bekanntmachungen für Seefahrer (BfS)."
+        },
+        {
+          "correct": false,
+          "text": "Seekarten, Broschüre \"Sicherheit auf dem Wasser\", Seehandbücher, Gezeitentafeln oder -kalender, Jachtfunkdienst, Nachrichten für Seefahrer (NfS)."
+        },
+        {
+          "correct": false,
+          "text": "Seeschifffahrtsstraßen-Ordnung, Leuchtfeuerverzeichnis, Seehandbücher, Gezeitentafeln oder -kalender, Bekanntmachungen der Wasser- und Schifffahrtsdirektionen."
+        },
+        {
+          "correct": false,
+          "text": "Schifffahrtspolizeiliche Anordnungen, Gezeitentafeln oder -kalender, Jachtfunkdienst, Nachrichten für Seefahrer (NfS), Bekanntmachungen für Seefahrer (BfS)."
+        }
+      ],
+      "question": "Welche amtlichen nautischen Veröffentlichungen geben Aufschluss über das Fahrtgebiet?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Sie enthalten alle Veränderungen hinsichtlich Betonnung, Befeuerung, Wracks, Untiefen sowie andere die Schifffahrt betreffende Maßnahmen und Ereignisse."
+        },
+        {
+          "correct": false,
+          "text": "Sie enthalten alle Veränderungen hinsichtlich Betonnung, Befeuerung, Wracks, Untiefen sowie andere Änderungen der Seeschifffahrtsstraßen-Ordnung."
+        },
+        {
+          "correct": false,
+          "text": "Sie enthalten alle Veränderungen hinsichtlich Betonnung, Befeuerung, Wracks sowie die aktuellen Wasserstände."
+        },
+        {
+          "correct": false,
+          "text": "Sie enthalten alle Veränderungen hinsichtlich Betonnung, Befeuerung, Wracks, Untiefen sowie andere die Schifffahrt betreffende meteorologische Hinweise."
+        }
+      ],
+      "question": "Welche Angaben enthalten die Nachrichten für Seefahrer (NfS) und die Bekanntmachungen für Seefahrer (BfS)?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "An den Aushangstellen und im Internet."
+        },
+        {
+          "correct": false,
+          "text": "In den See- und Hafenhandbüchern."
+        },
+        {
+          "correct": false,
+          "text": "Bei den Verkehrszentralen."
+        },
+        {
+          "correct": false,
+          "text": "In den Nachrichten für Seefahrer."
+        }
+      ],
+      "question": "Wo erhält man Kenntnis über die Bekanntmachungen für Seefahrer?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "In den See- und Hafenhandbüchern."
+        },
+        {
+          "correct": false,
+          "text": "In den Bekanntmachungen und Nachrichten für Seefahrer."
+        },
+        {
+          "correct": false,
+          "text": "Im Nautischen Revierfunkdienst."
+        },
+        {
+          "correct": false,
+          "text": "In der Seekarte INTInternational Hydrographic Organisation für die Gestaltung von Seekarten1."
+        }
+      ],
+      "question": "Wo findet man Angaben über Küsten-, Häfen- und Naturverhältnisse?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Dass die Karte auf den neuesten Stand berichtigt ist."
+        },
+        {
+          "correct": false,
+          "text": "Dass die Nummerierung mit dem Katalog übereinstimmt."
+        },
+        {
+          "correct": false,
+          "text": "Dass die Seekarte auf mittleres Tidehochwasser bezogen ist."
+        },
+        {
+          "correct": false,
+          "text": "Dass die obere Kante in Nordrichtung weist."
+        }
+      ],
+      "question": "Wovon sollte man sich vor Gebrauch einer Seekarte überzeugen?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "In Meter und Dezimeter."
+        },
+        {
+          "correct": false,
+          "text": "In Meter und Zentimeter."
+        },
+        {
+          "correct": false,
+          "text": "In Fuß und Inch."
+        },
+        {
+          "correct": false,
+          "text": "In Dezimeter und Zentimeter."
+        }
+      ],
+      "question": "In welchen Maßeinheiten werden in deutschen Seekarten die Tiefen angegeben?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "In der INT1/Karte 1."
+        },
+        {
+          "correct": false,
+          "text": "In den Seehandbüchern."
+        },
+        {
+          "correct": false,
+          "text": "In den Leuchtfeuerverzeichnissen."
+        },
+        {
+          "correct": false,
+          "text": "In allen Seekarten unten links."
+        }
+      ],
+      "question": "Wo findet man Bedeutungen und Erläuterungen zu Zeichen, Abkürzungen und Begriffen in deutschen Seekarten?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Leuchtfeuerverzeichnis, Seehandbuch, Seekarten."
+        },
+        {
+          "correct": false,
+          "text": "Leuchtfeuerverzeichnis, Seehandbuch, Handbuch für Brücke und Kartenhaus."
+        },
+        {
+          "correct": false,
+          "text": "Leuchtfeuerverzeichnis, Seehandbuch, Kollisionsverhütungsregeln."
+        },
+        {
+          "correct": false,
+          "text": "Leuchtfeuerverzeichnis, Seehandbuch, Gezeitenatlas."
+        }
+      ],
+      "question": "Wo findet man die für die Navigation wichtigen Beschreibungen der Schifffahrtszeichen, Angaben über deren Befeuerung und Angaben über Signalstellen?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Am rechten oder linken Kartenrand in Höhe des Standortes."
+        },
+        {
+          "correct": false,
+          "text": "Am oberen oder unteren Kartenrand in Höhe des Standortes."
+        },
+        {
+          "correct": false,
+          "text": "An der in der Seekarte abgebildeten Kompassrose."
+        },
+        {
+          "correct": false,
+          "text": "Aus der in der Seekarte abgebildeten Entfernungstabelle."
+        }
+      ],
+      "question": "Wo entnimmt man in der Seekarte die Seemeilen?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Die Länge einer Bogenminute auf einem größten Kreis der Erdkugel, 1.852 m."
+        },
+        {
+          "correct": false,
+          "text": "Die Länge einer Bogenminute auf einem Breitenparallel, 1.652 m."
+        },
+        {
+          "correct": false,
+          "text": "Die Länge einer Bogenminute auf dem Nullmeridian, 18,52 km."
+        },
+        {
+          "correct": false,
+          "text": "Sie entspricht der in einer Stunde zurückgelegten Distanz in Meter, 16,52 km."
+        }
+      ],
+      "question": "Was versteht man unter einer Seemeile und wie lang ist eine Seemeile (in Metern)?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Das sind die in einer Stunde zurückgelegten Seemeilen."
+        },
+        {
+          "correct": false,
+          "text": "Das sind die in einer Stunde zurückgelegten Kilometer."
+        },
+        {
+          "correct": false,
+          "text": "Das sind die an einem Tag zurückgelegten Seemeilen."
+        },
+        {
+          "correct": false,
+          "text": "Das sind die von Mittag bis Mittag zurückgelegten Seemeilen."
+        }
+      ],
+      "question": "Was versteht man unter dem Geschwindigkeitsbegriff \"Knoten\"?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Aus der für das betreffende Schiff aufgestellten Deviationstabelle."
+        },
+        {
+          "correct": false,
+          "text": "Aus dem Nautischen Handbuch für Kompassfehlweisung."
+        },
+        {
+          "correct": false,
+          "text": "Aus dem Betriebshandbuch des Kompassherstellers."
+        },
+        {
+          "correct": false,
+          "text": "Aus der Kompassrose der aktuellen Seekarte."
+        }
+      ],
+      "question": "Woraus entnimmt man die Magnetkompassablenkung?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Das Feststellen der Richtung eines bekannten feststehenden Objektes durch Winkelmessung."
+        },
+        {
+          "correct": false,
+          "text": "Das Feststellen der Abweichung des Steuerkompasses vom Peilkompass."
+        },
+        {
+          "correct": false,
+          "text": "Das Feststellen des Koppelortes durch Winkelmessung."
+        },
+        {
+          "correct": false,
+          "text": "Das Feststellen der Entfernung zu einem bekannten feststehenden Objekt."
+        }
+      ],
+      "question": "Was versteht man in der terrestrischen Navigation unter einer Peilung?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Durch die Peilung eines bekannten feststehenden Objektes und Eintragung der rechtweisenden Peilung in die Seekarte."
+        },
+        {
+          "correct": false,
+          "text": "Durch Eintragen des rechtweisenden Kurses in die Seekarte."
+        },
+        {
+          "correct": false,
+          "text": "Durch mehrmaliges Peilen eines anderen Fahrzeugs."
+        },
+        {
+          "correct": false,
+          "text": "Durch Eintragung der Peilung in die Seekarte ohne Berücksichtigung der Fehlweisung."
+        }
+      ],
+      "question": "Wie erhält man eine Standlinie?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Die Versetzung des Schiffes über Grund in Richtung und Distanz."
+        },
+        {
+          "correct": false,
+          "text": "Die Versetzung des Schiffes vom Magnetkompasskurs."
+        },
+        {
+          "correct": false,
+          "text": "Die Versetzung des Schiffes durch das Wasser in Richtung und Distanz."
+        },
+        {
+          "correct": false,
+          "text": "Die Richtung und Stärke der Meeresströmung."
+        }
+      ],
+      "question": "Was versteht man unter Stromversetzung?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Die Versetzung des Schiffes über Grund in Richtung und Distanz."
+        },
+        {
+          "correct": false,
+          "text": "Die Versetzung des Schiffes vom Magnetkompasskurs."
+        },
+        {
+          "correct": false,
+          "text": "Die Versetzung des Schiffes durch das Wasser in Richtung und Distanz."
+        },
+        {
+          "correct": false,
+          "text": "Die Richtung und Stärke des Windes und der Windsee."
+        }
+      ],
+      "question": "Was versteht man unter Windversetzung?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Schiffsort, der unter Berücksichtigung der gesteuerten Kurse und zurückgelegten Distanzen und aller vorhersehbaren Einflüsse rechnerisch und zeichnerisch ermittelt wird."
+        },
+        {
+          "correct": false,
+          "text": "Schiffsort, der ermittelt wird durch Peilung zweier feststehender und bekannter Objekte, die in einem möglichst rechten Winkel (90 Grad) zueinander stehen."
+        },
+        {
+          "correct": false,
+          "text": "Schiffsort, der durch Eintragung der rechtweisenden Peilungen zweier feststehender und bekannter Objekte als Standlinien in die Seekarte ermittelt wird; ihr Schnittpunkt ist der Standort."
+        },
+        {
+          "correct": false,
+          "text": "Schiffsort, der unter Berücksichtigung der gesteuerten Kurse und zurückgelegten Distanzen infolge mehrerer Peilungen ermittelt wird."
+        }
+      ],
+      "question": "Was versteht man unter einem Koppelort?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Der Steuerstrich muss parallel zur Kiellinie verlaufen. Der Kompass muss gut ablesbar sein und darf nicht in der Nähe von Eisenteilen aufgestellt werden."
+        },
+        {
+          "correct": false,
+          "text": "Der Kompass muss parallel zur Kiellinie verlaufen. Der Kompass muss gut ablesbar sein und darf nicht in der Nähe von Eisenteilen aufgestellt werden."
+        },
+        {
+          "correct": false,
+          "text": "Der Steuerstrich muss parallel zur Kiellinie verlaufen. Der Kompass muss gut ablesbare Zahlen aufweisen und darf nicht in der Nähe von Eisenteilen aufgestellt werden."
+        },
+        {
+          "correct": false,
+          "text": "Der Kompass muss parallel zur Kiellinie verlaufen. Der Kompass muss gut ablesbare Zahlen aufweisen und darf nicht in der Nähe von Eisenteilen aufgestellt werden."
+        }
+      ],
+      "question": "Was ist bei der Aufstellung eines Magnetkompasses an Bord zu beachten?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Das Fallen des Wassers vom Hochwasser zum folgenden Niedrigwasser."
+        },
+        {
+          "correct": false,
+          "text": "Den Zeitraum vom Hochwasser zum folgenden Niedrigwasser."
+        },
+        {
+          "correct": false,
+          "text": "Der niedrigste Wasserstand einer Tide."
+        },
+        {
+          "correct": false,
+          "text": "Die Differenz zwischen Hoch- und Niedrigwasser."
+        }
+      ],
+      "question": "Was versteht man unter Ebbe?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Das Steigen des Wassers vom Niedrigwasser zum folgenden Hochwasser."
+        },
+        {
+          "correct": false,
+          "text": "Den Zeitraum vom Niedrigwasser zum folgenden Hochwasser."
+        },
+        {
+          "correct": false,
+          "text": "Der höchste Wasserstand einer Tide."
+        },
+        {
+          "correct": false,
+          "text": "Die Differenz zwischen Hoch- und Niedrigwasser."
+        }
+      ],
+      "question": "Was versteht man unter Flut?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Der Zeitraum zwischen einem Niedrigwasser und dem nächstfolgenden Niedrigwasser."
+        },
+        {
+          "correct": false,
+          "text": "Der Zeitraum zwischen einem Hochwasser und dem nächstfolgenden Niedrigwasser."
+        },
+        {
+          "correct": false,
+          "text": "Der Zeitraum zwischen einem Hochwasser und dem nächstfolgenden Hochwasser."
+        },
+        {
+          "correct": false,
+          "text": "Der Zeitraum zwischen einem Niedrigwasser und dem nächstfolgenden Hochwasser."
+        }
+      ],
+      "question": "Was versteht man unter einer Tide?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Eintritt des niedrigsten Wasserstands beim Übergang vom Fallen zum Steigen."
+        },
+        {
+          "correct": false,
+          "text": "Fallen des Wassers nach Eintritt des höchsten Wasserstands."
+        },
+        {
+          "correct": false,
+          "text": "Eintritt des höchsten Wasserstands beim Übergang vom Steigen zum Fallen."
+        },
+        {
+          "correct": false,
+          "text": "Steigen des Wassers nach Eintritt des niedrigsten Wasserstands."
+        }
+      ],
+      "question": "Was versteht man unter einem Niedrigwasser?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Eintritt des höchsten Wasserstands beim Übergang vom Steigen zum Fallen."
+        },
+        {
+          "correct": false,
+          "text": "Steigen des Wassers nach Eintritt des niedrigsten Wasserstands."
+        },
+        {
+          "correct": false,
+          "text": "Eintritt des niedrigsten Wasserstands beim Übergang vom Fallen zum Steigen."
+        },
+        {
+          "correct": false,
+          "text": "Fallen des Wassers nach Eintritt des höchsten Wasserstands."
+        }
+      ],
+      "question": "Was versteht man unter einem Hochwasser?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Unterschied zwischen den Höhen des Hoch- und des Niedrigwassers."
+        },
+        {
+          "correct": false,
+          "text": "Unterschied zwischen den Höhen zweier aufeinanderfolgender Hochwasser."
+        },
+        {
+          "correct": false,
+          "text": "Der Zeitraum zwischen einem Niedrigwasser und dem nächstfolgenden Hochwasser."
+        },
+        {
+          "correct": false,
+          "text": "Der Zeitraum zwischen einem Niedrigwasser und dem nächstfolgenden Niedrigwasser."
+        }
+      ],
+      "question": "Was versteht man unter \"Tidenhub\"?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "In den Gezeitentafeln oder dem Gezeitenkalender des Bundesamtes für Seeschifffahrt und Hydrographie."
+        },
+        {
+          "correct": false,
+          "text": "In der Flutvorhersage des Bundesamtes für Seeschifffahrt und Hydrographie."
+        },
+        {
+          "correct": false,
+          "text": "Im Gezeitenatlas des Bundesamtes für Seeschifffahrt und Hydrographie."
+        },
+        {
+          "correct": false,
+          "text": "Im Mondphasenkalender der Bundesanstalt für Gewässerkunde."
+        }
+      ],
+      "question": "Wo sind für einen bestimmten Ort die Angaben über Hoch- und Niedrigwasserzeiten und den Tidenhub zu finden?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Mindestens zwei- oder dreifache Wellenlänge."
+        },
+        {
+          "correct": false,
+          "text": "Mindestens zwei- oder dreifache Wellenhöhe."
+        },
+        {
+          "correct": false,
+          "text": "Mindestens zwei- oder dreifache Schiffslänge."
+        },
+        {
+          "correct": false,
+          "text": "Mindestens zwei- oder dreifache Wassertiefe."
+        }
+      ],
+      "question": "Wie lang sollte eine Schleppleine bei starkem Seegang sein?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Die Schleppleine ist den Seegangsverhältnissen anzupassen. Die Schleppgeschwindigkeit darf nicht größer sein als die Geschwindigkeit, die der Anhang frei fahrend bei Verdrängerfahrt erreichen kann. Ein ruckartiges Steifkommen der Schleppleine ist zu vermeiden."
+        },
+        {
+          "correct": false,
+          "text": "Die Schleppleine ist den Seegangsverhältnissen anzupassen. Die Schleppgeschwindigkeit darf nicht größer sein als die Geschwindigkeit, die das schleppende Fahrzeug frei fahrend bei Verdrängerfahrt erreichen kann. Ein ruckartiges Steifkommen der Schleppleine ist zu vermeiden."
+        },
+        {
+          "correct": false,
+          "text": "Die Schleppleine ist den Wetterverhältnissen anzupassen. Die Schleppgeschwindigkeit darf nicht größer sein als die Geschwindigkeit, die der Anhang frei fahrend bei Gleitfahrt erreichen kann. Ein ruckartiges Steifkommen der Schleppleine ist zu vermeiden."
+        },
+        {
+          "correct": false,
+          "text": "Die Schleppleine ist den Wetterverhältnissen anzupassen. Die Schleppgeschwindigkeit darf nicht größer sein als die Geschwindigkeit, die das schleppende Fahrzeug frei fahrend bei Gleitfahrt erreichen kann. Ein ruckartiges Steifkommen der Schleppleine ist zu vermeiden."
+        }
+      ],
+      "question": "Was ist zu beachten, wenn ein Sportboot geschleppt werden soll?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Mit dem Treibanker oder anderen geeigneten schwimmfähigen Gegenständen."
+        },
+        {
+          "correct": false,
+          "text": "Durch wiederholtes kurzes Ein- und Auskuppeln der Antriebsmaschine."
+        },
+        {
+          "correct": false,
+          "text": "Mit achteraus ausgebrachtem Treibanker oder ähnlichen schwimmfähigen Gegenständen."
+        },
+        {
+          "correct": false,
+          "text": "Mit vorn und achtern ausgebrachten Treibankern oder anderen geeigneten schwimmfähigen Gegenständen."
+        }
+      ],
+      "question": "Womit kann ein steuerunfähiges Sportboot mit dem Bug in den Wind gehalten werden?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Um Schäden durch Seeschlag zu vermeiden."
+        },
+        {
+          "correct": false,
+          "text": "Um das Austauchen der Schraube zu vermeiden und Kraftstoff zu sparen."
+        },
+        {
+          "correct": false,
+          "text": "Um die Schlinger- und Rollbewegungen zu minimieren."
+        },
+        {
+          "correct": false,
+          "text": "Um Schiffs- und Wellenlänge nicht in Resonanz zu bringen."
+        }
+      ],
+      "question": "Warum sollte bei starkem Seegang die Fahrt vermindert werden?"
+    },
+    {
+      "images": [
+        {
+          "src": "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-See/Spezifische-Fragen-See/Zeichen-Frage-260-gif.gif?__blob=normal&v=1",
+          "title": "Wind aus Richtung Nordwest; Stärke: Bft. 3; wolkenlos"
+        }
+      ],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Wind aus Richtung Nordwest; Stärke: Bft. 3; wolkenlos."
+        },
+        {
+          "correct": false,
+          "text": "Wind in Richtung Nordwest; Stärke: Bft. 3; wolkenlos."
+        },
+        {
+          "correct": false,
+          "text": "Strom aus Richtung Nordwest; Stärke: 3 Knoten; Tidegebiet."
+        },
+        {
+          "correct": false,
+          "text": "Strom in Richtung Nordwest; Stärke: 3 Knoten; Tidegebiet."
+        }
+      ],
+      "question": "Was bedeutet folgendes Zeichen?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Windstärken von 0 bis 12 und die Auswirkungen auf die See."
+        },
+        {
+          "correct": false,
+          "text": "Windstärken von 0 bis 12 und die Auswirkungen auf die Küste."
+        },
+        {
+          "correct": false,
+          "text": "Den Tidenhub an der Küste bei Vollmond und bei Neumond."
+        },
+        {
+          "correct": false,
+          "text": "Die Wellenhöhe und die Windgeschwindigkeit bei Sturmstärke."
+        }
+      ],
+      "question": "Welche Angaben liefert die Beaufort-Skala?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Durch Isobaren und in Hektopascal."
+        },
+        {
+          "correct": false,
+          "text": "Durch Isobaren und in Millipascal."
+        },
+        {
+          "correct": false,
+          "text": "Durch Isoklinen und in Hektopascal."
+        },
+        {
+          "correct": false,
+          "text": "Durch Isoklinen und in Dezipascal."
+        }
+      ],
+      "question": "Wie werden Orte gleichen Luftdrucks in der Wetterkarte dargestellt und in welcher Maßeinheit wird der Luftdruck angegeben?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Mit Starkwind oder Sturm."
+        },
+        {
+          "correct": false,
+          "text": "Mit Schwachwind oder Windstille."
+        },
+        {
+          "correct": false,
+          "text": "Mit einer Wetterbesserung."
+        },
+        {
+          "correct": false,
+          "text": "Mit einer Wetterverschlechterung."
+        }
+      ],
+      "question": "Womit muss bei rasch fallendem Luftdruck gerechnet werden?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Orte gleichen Luftdrucks."
+        },
+        {
+          "correct": false,
+          "text": "Orte gleicher Windstärke."
+        },
+        {
+          "correct": false,
+          "text": "Orte gleicher Wolkenbildung."
+        },
+        {
+          "correct": false,
+          "text": "Orte gleicher Luftfeuchtigkeit."
+        }
+      ],
+      "question": "Was bedeuten die in der Wetterkarte abgebildeten Isobaren?"
+    },
+    {
+      "images": [
+        {
+          "src": "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-See/Spezifische-Fragen-See/Abbildung-Frage-265.gif?__blob=normal&v=1",
+          "title": "Abbildung eines Hochdruckgebietes auf der Nordhalbkugel, Isobaren mit Angabe des Luftdrucks in hPa"
+        }
+      ],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Abbildung eines Hochdruckgebietes auf der Nordhalbkugel, Isobaren mit Angabe des Luftdrucks in hPa."
+        },
+        {
+          "correct": false,
+          "text": "Abbildung eines Hochdruckgebietes auf der Südhalbkugel, Isobaren mit Angabe des Luftdrucks in hPa."
+        },
+        {
+          "correct": false,
+          "text": "Abbildung eines Hochdruckgebietes auf der Nordhalbkugel, Isobaren mit Angabe des Luftdrucks in hPa, Zugrichtung Nordwest."
+        },
+        {
+          "correct": false,
+          "text": "Abbildung eines Hochdruckgebietes auf der Südhalbkugel, Isobaren mit Angabe des Luftdrucks in hPa, Zugrichtung Südwest."
+        }
+      ],
+      "question": "Was zeigt die folgende Abbildung?"
+    },
+    {
+      "images": [
+        {
+          "src": "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-See/Spezifische-Fragen-See/Abbildung-Frage-266.gif?__blob=normal&v=1",
+          "title": "Abbildung eines Tiefdruckgebietes auf der Nordhalbkugel mit Warm- und Kaltfront, Isobaren mit Angabe des Luftdrucks in hPa, warme und kalte Luftströmung"
+        }
+      ],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Abbildung eines Tiefdruckgebietes auf der Nordhalbkugel mit Warm- und Kaltfront, Isobaren mit Angabe des Luftdrucks in hPa, warme und kalte Luftströmung."
+        },
+        {
+          "correct": false,
+          "text": "Abbildung eines Tiefdruckgebietes auf der Südhalbkugel mit Kalt- und Warmfront, Isobaren mit Angabe des Luftdrucks in hPa, kalte und warme Luftströmung."
+        },
+        {
+          "correct": false,
+          "text": "Abbildung eines Tiefdruckgebietes auf der Nordhalbkugel mit Kaltfront vor der Warmfront, Angabe des Luftdrucks in hPa, Warmfront südlich, Kaltfront nördlich des Zentrums."
+        },
+        {
+          "correct": false,
+          "text": "Abbildung eines Tiefdruckgebietes auf der Südhalbkugel mit Warmfront vor der Kaltfront, Angabe des Luftdrucks in hPa, Darstellung des Kalt- und Warmluftstroms."
+        }
+      ],
+      "question": "Was zeigt die folgende Abbildung?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Windstärke 6 und 7 der Beaufortskala."
+        },
+        {
+          "correct": false,
+          "text": "Windstärke 5 und 6 der Beaufortskala."
+        },
+        {
+          "correct": false,
+          "text": "Windstärke 4 bis 5 der Beaufortskala."
+        },
+        {
+          "correct": false,
+          "text": "Windstärke 7 bis 8 der Beaufortskala."
+        }
+      ],
+      "question": "Für welche Windstärken wird eine Starkwindwarnung herausgegeben?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Windstärke 8 und mehr der Beaufortskala."
+        },
+        {
+          "correct": false,
+          "text": "Windstärke 6 und mehr der Beaufortskala."
+        },
+        {
+          "correct": false,
+          "text": "Windstärke 9 und mehr der Beaufortskala."
+        },
+        {
+          "correct": false,
+          "text": "Windstärke 7 und mehr der Beaufortskala."
+        }
+      ],
+      "question": "Für welche Windstärken wird eine Sturmwarnung herausgegeben?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Windstärke 5 der Beaufortskala."
+        },
+        {
+          "correct": false,
+          "text": "Windstärke 4 der Beaufortskala."
+        },
+        {
+          "correct": false,
+          "text": "Windstärke 6 der Beaufortskala."
+        },
+        {
+          "correct": false,
+          "text": "Windstärke 7 der Beaufortskala."
+        }
+      ],
+      "question": "Was ist in amtlichen Wetterberichten unter \"frischem Wind\" zu verstehen?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Windstärken 10, 11 und 12 der Beaufortskala."
+        },
+        {
+          "correct": false,
+          "text": "Windstärken 9, 10 und 11 der Beaufortskala."
+        },
+        {
+          "correct": false,
+          "text": "Windstärken 11, 12 und 13 der Beaufortskala."
+        },
+        {
+          "correct": false,
+          "text": "Windstärken 8, 9 und 10 der Beaufortskala."
+        }
+      ],
+      "question": "Was ist in amtlichen Wetterberichten unter \"schwerem Sturm\", \"orkanartigem Sturm\" und \"Orkan\" zu verstehen?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Das Fahrwasser verlassen und wenn möglich, Flachwassergebiet aufsuchen und ankern. Wenn dies nicht möglich ist, im Fahrwasser äußerst rechts halten."
+        },
+        {
+          "correct": false,
+          "text": "Unverzüglich die Fahrt einstellen und ankern, wenn dies nicht möglich ist, vorsichtig weiterfahren und möglichst im Kielwasser eines vorausfahrenden Fahrzeugs halten."
+        },
+        {
+          "correct": false,
+          "text": "Umsichtig, aber zügig weiterfahren, um den übrigen Verkehr nicht zu behindern. Beim Hören fremder Nebelsignale aufstoppen und abwarten, dabei fortlaufend die Wassertiefe loten."
+        },
+        {
+          "correct": false,
+          "text": "Im Fahrwasser äußerst rechts halten und den nächstgelegenen Hafen oder Liegeplatz anlaufen. Im Zweifel andere Fahrzeuge nach Position und richtigem Kurs fragen."
+        }
+      ],
+      "question": "Wie hat man seine Fahrweise im Fahrwasser bei verminderter Sicht aufgrund seemännischer Sorgfaltspflicht einzurichten, wenn das Fahrzeug nicht über die technische Ausrüstung, insbesondere zur Ortung anderer Fahrzeuge, verfügt?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Der Kollisionsverhütung."
+        },
+        {
+          "correct": false,
+          "text": "Dem Empfang von Wetterdaten."
+        },
+        {
+          "correct": false,
+          "text": "Der Positionsbestimmung."
+        },
+        {
+          "correct": false,
+          "text": "Dem Senden nautischer Warnnachrichten."
+        }
+      ],
+      "question": "Wozu dient primär das Automatische Identifikationssystem (AIS)?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Schiffsdaten (statisch und dynamisch), reisebezogene Daten."
+        },
+        {
+          "correct": false,
+          "text": "Schiffsdaten (statisch und dynamisch), Wetterdaten."
+        },
+        {
+          "correct": false,
+          "text": "Schiffsdaten (statisch), reisebezogene Daten."
+        },
+        {
+          "correct": false,
+          "text": "Schiffsdaten (dynamisch), Wetterdaten."
+        }
+      ],
+      "question": "Welche Informationen können über das Automatische Identifikationssystem (AIS) ausgetauscht werden?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Insbesondere alle Navigationsanlagen, z. B. Radar, AIS, Echolot, sorgfältig gebrauchen und in einem Revier mit Landradarberatung die Radarberatung über UKW-Sprechfunk mithören."
+        },
+        {
+          "correct": false,
+          "text": "Insbesondere alle technischen Anlagen, z. B. Radar, AIS, Echolot, Selbststeueranlage einschalten und in einem Revier mit Landradarberatung die Radarberatung über UKW-Sprechfunk anfordern."
+        },
+        {
+          "correct": false,
+          "text": "Insbesondere alle Navigationsanlagen, z. B. Radar, AIS, Echolot, sorgfältig gebrauchen und die Verkehrszentrale ständig über Kurs und Geschwindigkeit informieren."
+        },
+        {
+          "correct": false,
+          "text": "Insbesondere alle technischen Anlagen, z. B. Radar, Echolot, AIS, Selbststeueranlage, einschalten und die Verkehrszentrale ständig über Kurs und Geschwindigkeit informieren."
+        }
+      ],
+      "question": "Welche Sicherheitsmaßnahmen sind an Bord aufgrund der seemännischen Sorgfaltspflicht neben den in den Kollisionsverhütungsregeln vorgeschriebenen Verhaltensmaßregeln bei verminderter Sicht zu treffen?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Verschlusszustand herbeiführen, lose Gegenstände festzurren, Rettungsweste und andere Rettungsmittel bereithalten bzw. anlegen; wenn erforderlich und möglich, Schutzhafen anlaufen."
+        },
+        {
+          "correct": false,
+          "text": "Verschlusszustand herbeiführen, lose Gegenstände festzurren, Rettungsweste und andere Rettungsmittel bereithalten bzw. anlegen, Seenotsignalmittel zum Einsatz vorbereiten."
+        },
+        {
+          "correct": false,
+          "text": "Türen schließen, lose Gegenstände festzurren, Rettungsweste und andere Rettungsmittel bereithalten bzw. anlegen, Radar, Ruder und UKW besetzen."
+        },
+        {
+          "correct": false,
+          "text": "Türen schließen, lose Gegenstände festzurren, Rettungsweste und andere Rettungsmittel bereithalten bzw. anlegen, Seenotsignalmittel zum Einsatz vorbereiten."
+        }
+      ],
+      "question": "Welche Sicherheitsmaßnahmen sind auf See vor Eintritt von schwerem Wetter (Starkwind, Sturm) zu treffen?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Leinenverbindung, Rettungsschlaufe, Bergenetz, Talje, Badeleiter, Großbaum."
+        },
+        {
+          "correct": false,
+          "text": "Leinenverbindung, Badeleiter, Treibanker, Rettungsschlaufe, Bergenetz, Talje."
+        },
+        {
+          "correct": false,
+          "text": "Leinenverbindung, Großbaum, Ankerkette, Talje, Badeleiter, Rettungsschlaufe."
+        },
+        {
+          "correct": false,
+          "text": "Leinenverbindung, Badeleiter, Rettungsboje, Bergenetz, Großbaum, Talje."
+        }
+      ],
+      "question": "Mit welchen Hilfsmitteln kann eine im Wasser treibende Person schnell und sicher an Bord genommen werden?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Möglichst am Fahrzeug bleiben und die Besatzung zusammenhalten; unnötigen Kräfteverschleiß vermeiden und Aufmerksamkeit zur Hilfeleistung erregen."
+        },
+        {
+          "correct": false,
+          "text": "Möglichst am Fahrzeug bleiben und Seenotsignale geben. Die Besatzung zusammenhalten und unnötigen Kräfteverschleiß vermeiden."
+        },
+        {
+          "correct": false,
+          "text": "Möglichst am Fahrzeug bleiben und Unfallstelle kennzeichnen; unnötigen Kräfteverschleiß vermeiden und Aufmerksamkeit zur Hilfeleistung erregen."
+        },
+        {
+          "correct": false,
+          "text": "Möglichst am Fahrzeug bleiben und die Besatzung zusammenhalten; Wertgegenstände und Seetagebuch bergen."
+        }
+      ],
+      "question": "Was ist zu tun, wenn das Fahrzeug gekentert ist?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Sicherheitsleinen bzw. -gurte spannen, Sicherheitsgurt anlegen und an den dafür vorgesehenen Stellen einpicken."
+        },
+        {
+          "correct": false,
+          "text": "Sicherheitsleinen bzw. -gurte spannen, Besatzung an Deck sammeln. Rettungswesten anlegen."
+        },
+        {
+          "correct": false,
+          "text": "Sicherheitsleinen bzw. -gurte aufschießen, Sicherheitsgurt anlegen und in die Reling einpicken."
+        },
+        {
+          "correct": false,
+          "text": "Besatzung in der Plicht versammeln, Rettungswesten anlegen, Sicherheitsleinen bzw. -gurte spannen."
+        }
+      ],
+      "question": "Wie verhindert man das Überbordfallen von Personen bei starkem Seegang?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Leuchtrakete mit rotem Leuchtstern oder rot brennende Handfackel, anhaltendes Ertönen eines Nebelsignalgerätes, dreimaliges Geben per Licht oder Ton, dreimal das Wort MAYDAY über Sprechfunk, seitliches Heben und Senken der Arme, Flaggensignal NC, EPIRB, DSC, Radartransponder."
+        },
+        {
+          "correct": false,
+          "text": "Leuchtrakete mit rotem Leuchtstern oder rot brennende Handfackel, anhaltendes Ertönen eines Nebelsignalgerätes, dreimaliges Geben per Licht oder Ton, Seewasserfärber, seitliches Heben und Senken der Arme, Ball über oder unter Flaggensignal NC, EPIRB, DSC, Radartransponder."
+        },
+        {
+          "correct": false,
+          "text": "Leuchtrakete mit orangem Leuchtstern oder orange brennende Handfackel, rotes Rauchsignal, anhaltendes Ertönen eines Nebelsignalgerätes, dreimaliges Geben per Licht oder Ton, dreimal das Wort MAYDAY über Sprechfunk, seitliches Heben und Senken der Arme, Flaggensignal NC, EPIRB, DSC, Radartransponder."
+        },
+        {
+          "correct": false,
+          "text": "Leuchtrakete mit rotem Leuchtstern oder rot brennende Handfackel, anhaltendes Ertönen eines Nebelsignalgerätes, dreimaliges Geben per Licht oder Ton, dreimal das Wort MAYDAY über Sprechfunk, seitliches Heben und Senken der Arme, Flaggensignal NC, EPIRB, DSC, Radartransponder."
+        }
+      ],
+      "question": "Welche Notsignale können gegeben werden?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Fahrzeug in Seenot."
+        },
+        {
+          "correct": false,
+          "text": "Fahrzeug des öffentlichen Dienstes."
+        },
+        {
+          "correct": false,
+          "text": "Fahrzeug mit gefährlichen Gütern."
+        },
+        {
+          "correct": false,
+          "text": "Fahrzeug verlässt Liegeplatz."
+        }
+      ],
+      "question": "Was bedeutet das Flaggensignal \"NC\" auf einem Fahrzeug?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Fahrzeug in Seenot."
+        },
+        {
+          "correct": false,
+          "text": "Fahrzeug mit gefährlichen Gütern."
+        },
+        {
+          "correct": false,
+          "text": "Bleib-weg-Signal."
+        },
+        {
+          "correct": false,
+          "text": "Achtungssignal."
+        }
+      ],
+      "question": "Was bedeutet anhaltendes Ertönen eines Nebelsignalgerätes von einem Fahrzeug?"
+    },
+    {
+      "images": [
+        {
+          "src": "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-See/Spezifische-Fragen-See/Notsignal-Frage-279-gif.gif?__blob=normal&v=1",
+          "title": "Notsignal"
+        }
+      ],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Seenotsignal."
+        },
+        {
+          "correct": false,
+          "text": "Nebelsignal."
+        },
+        {
+          "correct": false,
+          "text": "Bleib-weg-Signal."
+        },
+        {
+          "correct": false,
+          "text": "Überholsignal."
+        }
+      ],
+      "question": "Was bedeutet das folgende durch Licht oder Schallsignal gegebene Morsesignal?"
+    },
+    {
+      "images": [],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Seenotfall."
+        },
+        {
+          "correct": false,
+          "text": "Aufforderung zum Aufstoppen."
+        },
+        {
+          "correct": false,
+          "text": "Schießübung."
+        },
+        {
+          "correct": false,
+          "text": "Aufforderung zur Kursänderung."
+        }
+      ],
+      "question": "Was bedeutet eine Leuchtrakete mit einem roten Stern?"
+    },
+    {
+      "images": [
+        {
+          "src": "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-See/Spezifische-Fragen-See/Flaggensignal-Frage-284-gif.gif?__blob=normal&v=1",
+          "title": "Fahrzeug in Seenot"
+        }
+      ],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Fahrzeug in Seenot."
+        },
+        {
+          "correct": false,
+          "text": "Fahrzeug des öffentlichen Dienstes."
+        },
+        {
+          "correct": false,
+          "text": "Fahrzeug mit gefährlichen Gütern."
+        },
+        {
+          "correct": false,
+          "text": "Fahrzeug verlässt Liegeplatz."
+        }
+      ],
+      "question": "Was bedeutet folgendes Flaggensignal?"
+    },
+    {
+      "images": [
+        {
+          "src": "https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/Fragenkatalog-See/Spezifische-Fragen-See/Signal-Frage-285-gif.gif?__blob=normal&v=1",
+          "title": "Fahrzeug in Seenot"
+        }
+      ],
+      "responses": [
+        {
+          "correct": true,
+          "text": "Fahrzeug in Seenot."
+        },
+        {
+          "correct": false,
+          "text": "Fahrzeug ist manövrierbehindert."
+        },
+        {
+          "correct": false,
+          "text": "Fahrzeug mit gefährlichen Gütern."
+        },
+        {
+          "correct": false,
+          "text": "Fahrzeug vor Anker mit mehr als 100 m Länge."
+        }
+      ],
+      "question": "Was bedeutet auf einem Schiff eines der folgenden Signale?"
+    }
+  ]
+  

@@ -1,0 +1,22 @@
+created:
+    - database/factories/LicenseFactory.php
+    - database/factories/TaskFactory.php
+    - database/factories/ResponseFactory.php
+    - database/factories/LearningPathFactory.php
+    - database/factories/AnsweredTasksFactory.php
+    - database/migrations/2020_09_08_195154_create_licenses_table.php
+    - database/migrations/2020_09_08_195155_create_tasks_table.php
+    - database/migrations/2020_09_08_195156_create_responses_table.php
+    - database/migrations/2020_09_08_195157_create_learning_paths_table.php
+    - database/migrations/2020_09_08_195158_create_answered_tasks_table.php
+    - app/License.php
+    - app/Task.php
+    - app/Response.php
+    - app/LearningPath.php
+    - app/AnsweredTasks.php
+models:
+    License: { name: string, relationships: { hasMany: 'Task, LearningPath' } }
+    Task: { question: string, license_id: 'foreign id', relationships: { hasMany: 'Response AnsweredTasks' } }
+    Response: { task_id: 'foreign id', text: string, correct: boolean }
+    LearningPath: { user_id: 'foreign id', license_id: 'foreign id', exam_at: datetime, recommended_amount: int, relationships: { hasMany: AnsweredTasks } }
+    AnsweredTasks: { task_id: 'foreign id', learning_path_id: 'foreign id', answered_at: datetime }
