@@ -1,0 +1,27 @@
+models:
+  License:
+    name: string
+    relationships:
+      hasMany: Task, LearningPath
+  Task:
+    question: string
+    license_id: foreign id
+    relationships:
+      hasMany: Response AnsweredTasks
+  Response:
+    task_id: foreign id
+    text: string
+    correct: boolean
+  LearningPath:
+    user_id: foreign id
+    license_id: foreign id
+    exam_at: datetime
+    recommended_amount: int
+    relationships:
+      hasMany: AnsweredTasks
+  AnsweredTasks:
+    task_id: foreign id
+    learning_path_id: foreign id
+    answered_at: datetime
+    
+  
