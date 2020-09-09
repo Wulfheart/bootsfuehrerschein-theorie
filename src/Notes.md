@@ -29,7 +29,7 @@ $first = \App\Models\Task::query()
 
 
 $second = \App\Models\Task::query()
-  ->selectRaw('tasks.id AS tasks_id, count(answered_tasks.task_id) AS total_answered_count, answered_correctly_count')
+  ->selectRaw('tasks.*, count(answered_tasks.task_id) AS total_answered_count, answered_correctly_count')
   ->leftJoin('answered_tasks', function($join){
 	$join->on('answered_tasks.task_id', '=', 'tasks.id')
       ->where('learning_path_id', 1);
@@ -37,6 +37,7 @@ $second = \App\Models\Task::query()
   ->joinSub($first, 'correct_count', function ($join){
   	$join->on('tasks.id', '=', 'correct_count.task_id');
   })
-  ->groupBy('tasks_id')
+  ->groupBy('tasks.id')
+  ->with('responses')
   ->get();
 ````
