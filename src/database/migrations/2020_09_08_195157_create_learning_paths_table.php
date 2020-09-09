@@ -20,7 +20,6 @@ class CreateLearningPathsTable extends Migration
             $table->foreignId('user_id')->constrained()->cascadeOnDelete();
             $table->foreignId('license_id')->constrained()->cascadeOnDelete();
             $table->dateTime('exam_at');
-            $table->string('recommended_amount');
             $table->timestamps();
         });
 

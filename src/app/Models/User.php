@@ -13,7 +13,6 @@ class User extends Authenticatable
 {
     use HasApiTokens;
     use HasFactory;
-    use HasProfilePhoto;
     use Notifiable;
     use TwoFactorAuthenticatable;
 
@@ -55,6 +54,10 @@ class User extends Authenticatable
      * @var array
      */
     protected $appends = [
-        'profile_photo_url',
+        // 'profile_photo_url',
     ];
+
+    public function learningPaths(){
+        return $this->hasMany(LearningPath::class);
+    }
 }

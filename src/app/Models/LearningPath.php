@@ -15,7 +15,6 @@ class LearningPath extends Model
         'user_id',
         'license_id',
         'exam_at',
-        'recommended_amount',
     ];
 
     /**
@@ -53,4 +52,5 @@ class LearningPath extends Model
     {
         return $this->belongsTo(\App\Models\License::class);
     }
+
 }
