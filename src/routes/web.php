@@ -55,6 +55,8 @@ Route::middleware(['auth:sanctum', 'verified'])->group(function(){
 
     Route::get('/dashboard', DashboardController::class)->name('dashboard');
     Route::get('/fragen/{license}', function(License $license){
-        dd($license);
+        return view('task', [
+            'license' => $license,
+        ]);
     })->name('task');
 });

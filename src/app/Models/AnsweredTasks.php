@@ -13,7 +13,7 @@ class AnsweredTasks extends Model
      */
     protected $fillable = [
         'task_id',
-        'learning_path_id',
+        'user_id',
         'answered_at',
     ];
 
@@ -25,7 +25,7 @@ class AnsweredTasks extends Model
     protected $casts = [
         'id' => 'integer',
         'task_id' => 'integer',
-        'learning_path_id' => 'integer',
+        'user_id' => 'integer',
     ];
 
     /**
@@ -43,8 +43,8 @@ class AnsweredTasks extends Model
         return $this->belongsTo(\App\Models\Task::class);
     }
 
-    public function learningPath()
+    public function user()
     {
-        return $this->belongsTo(\App\Models\LearningPath::class);
+        return $this->belongsTo(\App\Models\User::class);
     }
 }
