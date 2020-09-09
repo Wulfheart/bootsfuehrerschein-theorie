@@ -18,6 +18,7 @@ namespace App\Models{
  * @property int $task_id
  * @property int $learning_path_id
  * @property \Illuminate\Support\Carbon $answered_at
+ * @property int $answered_correctly
  * @property \Illuminate\Support\Carbon|null $created_at
  * @property \Illuminate\Support\Carbon|null $updated_at
  * @property-read \App\Models\LearningPath $learningPath
@@ -26,6 +27,7 @@ namespace App\Models{
  * @method static \Illuminate\Database\Eloquent\Builder|AnsweredTasks newQuery()
  * @method static \Illuminate\Database\Eloquent\Builder|AnsweredTasks query()
  * @method static \Illuminate\Database\Eloquent\Builder|AnsweredTasks whereAnsweredAt($value)
+ * @method static \Illuminate\Database\Eloquent\Builder|AnsweredTasks whereAnsweredCorrectly($value)
  * @method static \Illuminate\Database\Eloquent\Builder|AnsweredTasks whereCreatedAt($value)
  * @method static \Illuminate\Database\Eloquent\Builder|AnsweredTasks whereId($value)
  * @method static \Illuminate\Database\Eloquent\Builder|AnsweredTasks whereLearningPathId($value)
@@ -43,7 +45,6 @@ namespace App\Models{
  * @property int $user_id
  * @property int $license_id
  * @property \Illuminate\Support\Carbon $exam_at
- * @property string $recommended_amount
  * @property \Illuminate\Support\Carbon|null $created_at
  * @property \Illuminate\Support\Carbon|null $updated_at
  * @property-read \Illuminate\Database\Eloquent\Collection|\App\Models\AnsweredTasks[] $answeredTasks
@@ -57,7 +58,6 @@ namespace App\Models{
  * @method static \Illuminate\Database\Eloquent\Builder|LearningPath whereExamAt($value)
  * @method static \Illuminate\Database\Eloquent\Builder|LearningPath whereId($value)
  * @method static \Illuminate\Database\Eloquent\Builder|LearningPath whereLicenseId($value)
- * @method static \Illuminate\Database\Eloquent\Builder|LearningPath whereRecommendedAmount($value)
  * @method static \Illuminate\Database\Eloquent\Builder|LearningPath whereUpdatedAt($value)
  * @method static \Illuminate\Database\Eloquent\Builder|LearningPath whereUserId($value)
  */
@@ -153,6 +153,8 @@ namespace App\Models{
  * @property string|null $profile_photo_path
  * @property \Illuminate\Support\Carbon|null $created_at
  * @property \Illuminate\Support\Carbon|null $updated_at
+ * @property-read \Illuminate\Database\Eloquent\Collection|\App\Models\LearningPath[] $learningPaths
+ * @property-read int|null $learning_paths_count
  * @property-read \Illuminate\Notifications\DatabaseNotificationCollection|\Illuminate\Notifications\DatabaseNotification[] $notifications
  * @property-read int|null $notifications_count
  * @property-read \Illuminate\Database\Eloquent\Collection|\Laravel\Sanctum\PersonalAccessToken[] $tokens
