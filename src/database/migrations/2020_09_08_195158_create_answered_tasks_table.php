@@ -20,6 +20,7 @@ class CreateAnsweredTasksTable extends Migration
             $table->foreignId('task_id')->constrained()->cascadeOnDelete();
             $table->foreignId('learning_path_id')->constrained()->cascadeOnDelete();
             $table->dateTime('answered_at');
+            $table->boolean('answered_correctly');
             $table->timestamps();
         });
 
