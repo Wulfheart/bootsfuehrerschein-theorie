@@ -15,23 +15,31 @@ class Question extends Component
     public EloquentCollection $responses;
     public bool $showSolution = false;
     public Collection $media;
-    public $selected;
+    public int $selected;
 
     public array $alphabet = ["A", "B", "C", "D"];
 
     public function mount()
     {
         // $this->task = $this->getTask();
+        $this->selected = 0;
         $this->task = Task::find(23);
         $this->assignTaskMisc();
     }
 
-    public function submit(){
-
+    public function answer(){
+        $this->showSolution = true;
+        if($this->responses->firstWhere('correct', '=', true)->id != $this->selected){
+            $this->emit("scrollToQuestion");
+        }
     }
 
     public function next(){
-
+        $this->showSolution = 0;
+        $this->selected = 0;
+        $this->task = $this->getTask();
+        $this->assignTaskMisc();
+        $this->emit("scrollToQuestion");
     }
 
     public function render()
