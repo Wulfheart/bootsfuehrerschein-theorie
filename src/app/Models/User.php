@@ -58,7 +58,7 @@ class User extends Authenticatable
         // 'profile_photo_url',
     ];
 
-    public function learningPaths(){
-        return $this->hasMany(LearningPath::class);
+    public function answeredTasks(){
+        return $this->hasMany(AnsweredTasks::class);
     }
 }

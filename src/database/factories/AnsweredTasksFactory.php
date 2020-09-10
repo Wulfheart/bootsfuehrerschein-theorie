@@ -1,14 +1,32 @@
 <?php
 
-/** @var \Illuminate\Database\Eloquent\Factory $factory */
+namespace Database\Factories;
 
-use App\AnsweredTasks;
-use Faker\Generator as Faker;
+use App\Models\AnsweredTasks;
+use Illuminate\Database\Eloquent\Factories\Factory;
+use Illuminate\Support\Str;
 
-$factory->define(AnsweredTasks::class, function (Faker $faker) {
-    return [
-        'task_id' => factory(\App\Task::class),
-        'learning_path_id' => factory(\App\LearningPath::class),
-        'answered_at' => $faker->dateTime(),
-    ];
-});
+class AnsweredTasksFactory extends Factory
+{
+    /**
+     * The name of the factory's corresponding model.
+     *
+     * @var string
+     */
+    protected $model = AnsweredTasks::class;
+
+    /**
+     * Define the model's default state.
+     *
+     * @return array
+     */
+    public function definition()
+    {
+        return [
+            'user_id' => 1,
+            'task_id' => \App\Models\Task::inRandomOrder()->first()->id,
+            'answered_at' => $this->faker->dateTimeBetween('-15 days'),
+            'answered_correctly' => $this->faker->boolean(),
+        ];
+    }
+}

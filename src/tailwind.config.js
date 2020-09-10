@@ -8,6 +8,9 @@ module.exports = {
             fontFamily: {
                 sans: ['Inter var', ...defaultTheme.fontFamily.sans],
             },
+            animation: {
+                'spin-reverse': 'spin 1s linear infinite reverse',
+            }
         },
     },
 

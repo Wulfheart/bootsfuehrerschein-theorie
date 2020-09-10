@@ -30,8 +30,7 @@ class License extends Model
         return $this->hasMany(\App\Models\Task::class);
     }
 
-    public function learningPaths()
-    {
-        return $this->hasMany(\App\Models\LearningPath::class);
+    public function answeredTasks(){
+        return $this->hasManyThrough(\App\Models\AnsweredTasks::class, \App\Models\Task::class);
     }
 }

@@ -2,6 +2,7 @@
 
 namespace App\Http\Livewire;
 
+use App\Models\AnsweredTasks;
 use App\Models\License;
 use App\Models\Task;
 use Illuminate\Database\Eloquent\Collection as EloquentCollection;
@@ -29,9 +30,16 @@ class Question extends Component
 
     public function answer(){
         $this->showSolution = true;
-        if($this->responses->firstWhere('correct', '=', true)->id != $this->selected){
+        $correct = $this->responses->firstWhere('correct', '=', true)->id == $this->selected;
+        if(! $correct){
             $this->emit("scrollToQuestion");
         }
+        $at = new AnsweredTasks;
+        $at->task_id = $this->task->id;
+        $at->user_id = auth()->user()->id;
+        $at->answered_at = now();
+        $at->answered_correctly = $correct;
+        $at->save();
     }
 
     public function next(){
@@ -57,6 +65,7 @@ class Question extends Component
         $id = auth()->user()->id;
         $first = \App\Models\Task::query()
             ->selectRaw('tasks.id AS task_id , count(answered_tasks.answered_correctly) AS answered_correctly_count')
+            ->where('license_id', '=', $this->license->id)
             ->leftJoin('answered_tasks', function ($join) use ($id) {
                 $join->on('answered_tasks.task_id', '=', 'tasks.id')
                     ->where('user_id', $id)
