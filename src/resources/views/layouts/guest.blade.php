@@ -8,17 +8,22 @@
         <title>{{ config('app.name', 'Laravel') }}</title>
 
         <!-- Fonts -->
-        <link rel="stylesheet" href="https://rsms.me/inter/inter.css">
 
         <!-- Styles -->
         <link rel="stylesheet" href="{{ asset('css/app.css') }}">
 
+        @livewireStyles
+
         <!-- Scripts -->
-        <script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.2.1/dist/alpine.js" defer></script>
+        <script src="{{ asset('js/app.js') }}"></script>
+
+
     </head>
-    <body>
-        <div class="font-sans antialiased text-gray-800">
-            {{ $slot }}
-        </div>
+    <body class="font-sans antialiased text-gray-800">
+
+        {{ $slot }}
+        @stack('modals')
+
+        @livewireScripts
     </body>
 </html>

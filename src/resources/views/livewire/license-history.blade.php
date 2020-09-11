@@ -26,7 +26,7 @@
                         Falsch
                 </div>
             </div>
-            @foreach ($data as $d)
+            @forelse ($data as $d)
             <div class="grid grid-cols-3 ">
                 <div class="">
                     {{ Carbon\Carbon::parse($d->date)->format('d.m.Y') }}
@@ -45,7 +45,18 @@
                     <x-heroicon-o-x class="w-5 h-5 text-left text-red-500"></x-heroicon-o-x>
                 </div>
             </div>
-            @endforeach
+
+            @empty
+            <div class="px-10 py-10 mx-auto space-y-4">
+                <p class="italic">Zurzeit gibt es noch keine Daten. Fang am besten gleich damit an, ein paar Fragen zu beantworten.</p>
+                <div class="flex w-full mt-4 md:mt-0 ">
+                    <a class="flex items-center w-full px-6 py-3 text-xs font-semibold tracking-widest text-white uppercase transition duration-150 ease-in-out bg-gray-800 border border-transparent rounded-md hover:bg-gray-700 active:bg-gray-900 focus:outline-none focus:border-gray-900 focus:shadow-outline-gray disabled:opacity-25"
+                      href="{{ route('task', ['license' => $license]) }}">
+                      Fragen üben
+                    </a>
+                  </div>
+                </div>
+                    @endforelse
             
           
         </dd>

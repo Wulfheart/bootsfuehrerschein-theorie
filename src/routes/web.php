@@ -18,39 +18,15 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return redirect()->route('dashboard');
 });
+Route::get('/impressum', function(){
+    return view('impressum');
+})->name('impressum');
 
-Route::get('/test', function () {
-    $first = \App\Models\Task::query()
-
-        ->selectRaw('tasks.id AS task_id , count(answered_tasks.answered_correctly) AS answered_correctly_count')
-        ->leftJoin('answered_tasks', function ($join) {
-            $join->on('answered_tasks.task_id', '=', 'tasks.id')
-                ->where('learning_path_id', 1)
-                ->where('answered_correctly', 1);
-        })
-        ->groupBy('tasks.id');
-
-
-
-        $second = \App\Models\Task::query()
-        ->selectRaw('tasks.*, count(answered_tasks.task_id) AS total_answered_count, answered_correctly_count')
-        ->leftJoin('answered_tasks', function($join){
-          $join->on('answered_tasks.task_id', '=', 'tasks.id')
-            ->where('learning_path_id', 1);
-      })
-        ->joinSub($first, 'correct_count', function ($join){
-            $join->on('tasks.id', '=', 'correct_count.task_id');
-        })
-        ->groupBy('tasks.id')
-        ->with('responses')
-        ->inRandomOrder()
-        ->orderBy('answered_correctly_count')
-        ->orderBy('total_answered_count')
-        ->first();
-        return $second;
-});
+Route::get('/datenschutz', function(){
+    return view('datenschutz');
+})->name('datenschutz');
 
 Route::middleware(['auth:sanctum', 'verified'])->group(function(){
 

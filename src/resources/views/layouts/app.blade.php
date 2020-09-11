@@ -1,10 +1,10 @@
 <x-base-layout>
-        <div class="min-h-screen bg-gray-100">
+        <div class="flex flex-col min-h-screen bg-gray-100">
             <nav x-data="{ open: false }" class="bg-gray-100 border-b border-gray-100">
                 <!-- Primary Navigation Menu -->
                 <div class="px-4 mx-auto max-w-7xl sm:px-6 lg:px-8">
                     <div class="flex justify-between h-16">
-                        <div class="flex flex-row items-center py-2 sm:px-10 hover:underline">
+                        <div class="flex flex-row items-center py-2 hover:underline">
                             {{ isset($link) ? $link : ''}}
                         </div>
 
@@ -13,7 +13,7 @@
                             <x-jet-dropdown align="right" width="48">
                                 <x-slot name="trigger">
                                     <button class="flex w-8 h-8 text-sm transition duration-150 ease-in-out border-2 border-transparent rounded-full focus:outline-none focus:border-gray-300">
-                                        <x-heroicon-o-user-circle/>
+                                        <x-heroicon-o-user-circle class=""/>
                                     </button>
                                 </x-slot>
 
@@ -144,8 +144,24 @@
             @endisset    
 
             <!-- Page Content -->
-            <main>
+            <main class="flex-grow">
                 {{ $slot }}
             </main>
+
+            <footer class="py-4 ">
+                <div class="flex flex-row justify-end px-4 mx-auto space-x-4 text-xs max-w-7xl sm:px-6 lg:px-8">
+
+                    <div>
+                        <a href="{{ route('impressum') }}">
+                            Impressum
+                        </a>
+                    </div>
+                    <div>
+                        <a href="{{ route('datenschutz') }}">
+                            Datenschutzerklärung
+                        </a>
+                    </div>
+                </div>
+            </footer>
         </div>
     </x-base-layout>

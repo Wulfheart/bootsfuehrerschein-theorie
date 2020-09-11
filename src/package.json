@@ -21,6 +21,8 @@
         "vue-template-compiler": "^2.6.12"
     },
     "dependencies": {
-        "alpinejs": "^2.7.0"
+        "@tailwindcss/typography": "^0.2.0",
+        "alpinejs": "^2.7.0",
+        "typeface-inter": "^3.15.0"
     }
 }
