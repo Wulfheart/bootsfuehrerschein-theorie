@@ -1,6 +1,7 @@
 <?php
 
 use App\Http\Controllers\DashboardController;
+use App\Http\Controllers\Tasks\ShowTaskController;
 use App\Http\Livewire\NewLearningPath;
 use App\Models\License;
 use Illuminate\Support\Facades\Route;
@@ -51,6 +52,8 @@ Route::get('/test', function () {
         return $second;
 });
 
+Route::redirect('/test/{license}', '/two/{license}');
+Route::get('two/{license}', ShowTaskController::class);
 Route::middleware(['auth:sanctum', 'verified'])->group(function(){
 
     Route::get('/dashboard', DashboardController::class)->name('dashboard');

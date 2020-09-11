@@ -74,6 +74,7 @@ class Question extends Component
             ->groupBy('tasks.id');
         $second = \App\Models\Task::query()
             ->selectRaw('tasks.*, count(answered_tasks.task_id) AS total_answered_count, answered_correctly_count')
+            ->where('license_id', '=', $this->license->id)
             ->leftJoin('answered_tasks', function ($join) use ($id) {
                 $join->on('answered_tasks.task_id', '=', 'tasks.id')
                     ->where('user_id', $id);
