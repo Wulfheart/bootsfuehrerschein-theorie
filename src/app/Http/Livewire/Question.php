@@ -17,6 +17,7 @@ class Question extends Component
     public bool $showSolution = false;
     public Collection $media;
     public int $selected;
+    public bool $locked = false;
 
     public array $alphabet = ["A", "B", "C", "D"];
 
@@ -48,6 +49,7 @@ class Question extends Component
         $this->task = $this->getTask();
         $this->assignTaskMisc();
         $this->emit("scrollToQuestion");
+        $this->locked = false;
     }
 
     public function render()
