@@ -1,6 +1,7 @@
 <?php
 
 use App\Http\Controllers\DashboardController;
+use App\Http\Controllers\ShowLicenseController;
 use App\Http\Livewire\NewLearningPath;
 use App\Models\License;
 use Illuminate\Support\Facades\Route;
@@ -59,4 +60,6 @@ Route::middleware(['auth:sanctum', 'verified'])->group(function(){
             'license' => $license,
         ]);
     })->name('task');
+    Route::get('/license/{license}', ShowLicenseController::class)
+    ->name('license');
 });

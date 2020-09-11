@@ -23,6 +23,7 @@ namespace App\Models{
  * @property \Illuminate\Support\Carbon|null $updated_at
  * @property-read \App\Models\Task $task
  * @property-read \App\Models\User $user
+ * @method static \Illuminate\Database\Eloquent\Builder|AnsweredTasks currentUser()
  * @method static \Illuminate\Database\Eloquent\Builder|AnsweredTasks newModelQuery()
  * @method static \Illuminate\Database\Eloquent\Builder|AnsweredTasks newQuery()
  * @method static \Illuminate\Database\Eloquent\Builder|AnsweredTasks query()
@@ -45,6 +46,8 @@ namespace App\Models{
  * @property string $name
  * @property \Illuminate\Support\Carbon|null $created_at
  * @property \Illuminate\Support\Carbon|null $updated_at
+ * @property-read \Illuminate\Database\Eloquent\Collection|\App\Models\AnsweredTasks[] $answeredTasks
+ * @property-read int|null $answered_tasks_count
  * @property-read \Illuminate\Database\Eloquent\Collection|\App\Models\Task[] $tasks
  * @property-read int|null $tasks_count
  * @method static \Illuminate\Database\Eloquent\Builder|License newModelQuery()

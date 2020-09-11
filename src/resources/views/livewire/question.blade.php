@@ -4,7 +4,7 @@
     @isset ($media)
     <div class="flex flex-row justify-center space-x-4">
         @foreach ($media as $m)
-        <img src="{{ $m->getFullUrl() }}" class="h-28">
+        <img src="{{ $m->getFullUrl() }}" class="">
         @endforeach
     </div>
     @endisset

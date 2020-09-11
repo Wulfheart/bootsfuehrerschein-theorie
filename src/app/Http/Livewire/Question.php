@@ -25,8 +25,9 @@ class Question extends Component
     {
         // $this->task = $this->getTask();
         $this->selected = 0;
-        $this->task = Task::find(23);
-        $this->assignTaskMisc();
+        $this->locked = false;
+        $this->assignTask();
+        $this->emit("scrollToQuestion");
     }
 
     public function answer(){
@@ -46,8 +47,7 @@ class Question extends Component
     public function next(){
         $this->showSolution = 0;
         $this->selected = 0;
-        $this->task = $this->getTask();
-        $this->assignTaskMisc();
+        $this->assignTask();
         $this->emit("scrollToQuestion");
         $this->locked = false;
     }
@@ -57,7 +57,8 @@ class Question extends Component
         return view('livewire.question');
     }
 
-    private function assignTaskMisc(): void{
+    private function assignTask(): void{
+        $this->task = $this->getTask();
         $this->responses = $this->task->responses->shuffle();
         $this->media = $this->task->getMedia();
     }
