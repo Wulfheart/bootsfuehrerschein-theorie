@@ -12,7 +12,21 @@
     @if ($showSolution)
     <div class="group">
         <div
-            class="relative flex flex-row items-center w-full p-4 text-left bg-white border-2 rounded-lg shadow {{ $item->correct ? 'border-green-500' : 'border-red-500' }}">
+            class="relative flex flex-row items-center w-full p-4 text-left  border-2 rounded-lg shadow  
+            {{ $item->correct ? 'border-green-500' : 'border-red-500' }}
+                @if ($item->id == $selected)
+                text-white
+                    @if ($item->correct)
+                        bg-green-500 
+                        {{-- border-green-700 --}}
+                    @else
+                        bg-red-500 
+                        {{-- border-red-700 --}}
+                    @endif
+                @else
+                bg-white 
+                @endif
+            ">
             <div
                 class="px-2 py-1 mr-2 text-xs font-semibold border rounded {{ $item->id == $selected ? 'bg-gray-800 border-gray-800 text-white' : 'text-gray-500' }}">
                 {{ $alphabet[$loop->index] }}
@@ -26,7 +40,7 @@
     <div class="group">
         <button type="button"
             class="flex flex-row items-center w-full p-4 text-left bg-white border-2 rounded-lg shadow hover:border-indigo-700 hover:shadow-lg"
-            x-bind:class="{'bg-indigo-500 text-white': selected == {{ $item->id }}}"
+            x-bind:class="{'bg-indigo-500 border-indigo-700 text-white': selected == {{ $item->id }}}"
             x-on:click="selected = {{ $item->id }}">
             <div class="px-2 py-1 mr-2 text-xs font-semibold border rounded" x-bind:class="{
                                         'bg-gray-800 border-gray-800 text-white': selected == {{ $item->id }},
