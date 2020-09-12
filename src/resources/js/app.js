@@ -1,3 +1,3 @@
 require('./bootstrap');
 import 'alpinejs';
-import 'typeface-inter';
+// import 'typeface-inter';
