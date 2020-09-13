@@ -18,6 +18,8 @@ class Question extends Component
     public Collection $media;
     public int $selected;
     public bool $locked = false;
+    public int $answered;
+    public int $answered_correctly;
 
     public array $alphabet = ["A", "B", "C", "D"];
 
@@ -28,6 +30,7 @@ class Question extends Component
         $this->locked = false;
         $this->assignTask();
         $this->emit("scrollToQuestion");
+        $this->calculateStats();
     }
 
     public function answer()
@@ -43,6 +46,7 @@ class Question extends Component
         $at->answered_at = now();
         $at->answered_correctly = $correct;
         $at->save();
+        $this->calculateStats();
     }
 
     public function next()
@@ -59,11 +63,17 @@ class Question extends Component
         return view('livewire.question');
     }
 
+    private function calculateStats(): void{
+        $this->answered = auth()->user()->answeredTasks()->whereRAW('DATE(answered_at) = CURDATE()')->count();
+        $this->answered_correctly = auth()->user()->answeredTasks()->whereRAW('DATE(answered_at) = CURDATE()')->where('answered_correctly', true)->count();
+    }
+
     private function assignTask(): void
     {
         $this->task = $this->getTask();
         $this->responses = $this->task->responses->shuffle();
         $this->media = $this->task->getMedia();
+        
     }
 
     private function getTask(): Task

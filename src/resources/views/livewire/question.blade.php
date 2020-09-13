@@ -82,6 +82,10 @@
         </button>
         @endif
     </div>
+
+    <div class="pt-5 text-sm text-center text-gray-500">
+        Du hast heute schon {{ $answered }} Fragen beantwortet. Davon hast {{ $answered_correctly }} richtig beantwortet.
+    </div>
     
 
     <script>
