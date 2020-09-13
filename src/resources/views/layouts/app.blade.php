@@ -20,11 +20,11 @@
                                 <x-slot name="content">
                                     <!-- Account Management -->
                                     <div class="block px-4 py-2 text-xs text-gray-400">
-                                        Manage Account
+                                        Account verwalten
                                     </div>
 
                                     <x-jet-dropdown-link href="/user/profile">
-                                        Profile
+                                        Profil
                                     </x-jet-dropdown-link>
 
 

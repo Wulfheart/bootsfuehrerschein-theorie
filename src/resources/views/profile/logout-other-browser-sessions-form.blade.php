@@ -4,12 +4,12 @@
     </x-slot>
 
     <x-slot name="description">
-        Manage and logout your active sessions on other browsers and devices.
+        Verwalte und melde dich von aktiven Sessions auf anderen Browsern und Geräten ab.
     </x-slot>
 
     <x-slot name="content">
         <div class="max-w-xl text-sm text-gray-600">
-            If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password.
+            Wenn gewünscht kannst du dich aus allen anderen Browser Session auf allen anderen Geräten abmelden. Wenn du denkst, dass dein Account von anderen Leuten verwendet wird, solltest du auch dein Passwort ändern.
         </div>
 
         @if (count($this->sessions) > 0)
@@ -39,9 +39,9 @@
                                     {{ $session->ip_address }},
 
                                     @if ($session->is_current_device)
-                                        <span class="text-green-500 font-semibold">This device</span>
+                                        <span class="font-semibold text-green-500">Dieses Gerät</span>
                                     @else
-                                        Last active {{ $session->last_active }}
+                                        Zuletzt aktiv {{ $session->last_active }}
                                     @endif
                                 </div>
                             </div>
@@ -53,25 +53,26 @@
 
         <div class="flex items-center mt-5">
             <x-jet-button wire:click="confirmLogout" wire:loading.attr="disabled">
-                Logout Other Browser Sessions
+                Andere Browser Sessions abmelden
             </x-jet-button>
 
             <x-jet-action-message class="ml-3" on="loggedOut">
-                Done.
+                Erledigt.
             </x-jet-action-message>
         </div>
 
         <!-- Logout Other Devices Confirmation Modal -->
         <x-jet-dialog-modal wire:model="confirmingLogout">
             <x-slot name="title">
-                Logout Other Browser Sessions
+                Andere Browser Sessions abmelden
             </x-slot>
 
             <x-slot name="content">
-                Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
+                Bitte gib dein Passwort an, um zu bestätigen, dass du deine 
+                Browser Sessions auf allen anderen Geräten abmelden möchtest.
 
                 <div class="mt-4" x-data="{}" x-on:confirming-logout-other-browser-sessions.window="setTimeout(() => $refs.password.focus(), 250)">
-                    <x-jet-input type="password" class="mt-1 block w-3/4" placeholder="Password"
+                    <x-jet-input type="password" class="block w-3/4 mt-1" placeholder="Passwort"
                                 x-ref="password"
                                 wire:model.defer="password"
                                 wire:keydown.enter="logoutOtherBrowserSessions" />
@@ -82,11 +83,11 @@
 
             <x-slot name="footer">
                 <x-jet-secondary-button wire:click="$toggle('confirmingLogout')" wire:loading.attr="disabled">
-                    Nevermind
+                    Doch nicht
                 </x-jet-secondary-button>
 
                 <x-jet-button class="ml-2" wire:click="logoutOtherBrowserSessions" wire:loading.attr="disabled">
-                    Logout Other Browser Sessions
+                    Andere Browser Sessions abmelden
                 </x-jet-button>
             </x-slot>
         </x-jet-dialog-modal>
