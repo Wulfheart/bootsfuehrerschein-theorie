@@ -1,8 +1,7 @@
 const defaultTheme = require('tailwindcss/defaultTheme');
-
 module.exports = {
     purge: ['./storage/framework/views/*.php', './resources/views/**/*.blade.php'],
-
+    
     theme: {
         extend: {
             fontFamily: {
@@ -10,7 +9,8 @@ module.exports = {
             },
             animation: {
                 'spin-reverse': 'spin 1s linear infinite reverse',
-            }
+            },
+            minHeight:    defaultTheme.height
         },
     },
 

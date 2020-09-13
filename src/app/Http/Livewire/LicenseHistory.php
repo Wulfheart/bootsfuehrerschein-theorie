@@ -3,14 +3,16 @@
 namespace App\Http\Livewire;
 
 use App\Models\License;
+use App\Traits\Livewire\WithPaginationExtended;
 use DB;
 use Livewire\Component;
 use Livewire\WithPagination;
 
 class LicenseHistory extends Component
 {
-    use WithPagination;
+    use WithPaginationExtended;
     public License $license;
+    protected $paginationQueryStringEnabled = false;
     public function mount(){
         // $this->data = DB::table('answered_tasks')
         // ->selectRaw('DATE(answered_at) as date, count(*) as total, sum(answered_correctly) as correct, (count(*)-sum(answered_correctly)) as wrong')

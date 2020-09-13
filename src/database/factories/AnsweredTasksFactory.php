@@ -23,7 +23,7 @@ class AnsweredTasksFactory extends Factory
     public function definition()
     {
         return [
-            'user_id' => 1,
+            'user_id' => \App\Models\User::inRandomOrder()->first()->id,
             'task_id' => \App\Models\Task::inRandomOrder()->first()->id,
             'answered_at' => $this->faker->dateTimeBetween('-15 days'),
             'answered_correctly' => $this->faker->boolean(),

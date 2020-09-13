@@ -12,8 +12,8 @@
                         <div class="flex items-center ml-6">
                             <x-jet-dropdown align="right" width="48">
                                 <x-slot name="trigger">
-                                    <button class="flex w-8 h-8 text-sm transition duration-150 ease-in-out border-2 border-transparent rounded-full focus:outline-none focus:border-gray-300">
-                                        <x-heroicon-o-user-circle class=""/>
+                                    <button class="flex text-sm transition duration-150 ease-in-out border-2 border-transparent rounded-full focus:outline-none focus:border-gray-300">
+                                      <x-heroicon-o-user-circle class="w-8 h-8"/>
                                     </button>
                                 </x-slot>
 

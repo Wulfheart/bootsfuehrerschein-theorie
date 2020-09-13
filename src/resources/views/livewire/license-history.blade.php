@@ -4,7 +4,7 @@
             <div>
                 Dein Lernfortschritt
             </div>
-          <div class="flex flex-row justify-center ml-2">
+          <div class="flex flex-row justify-center ml-2 sapce-x-1">
               <button wire:click="previousPage" wire:loading.attr="disabled" class="{{ $data->onFirstPage() ? 'invisible' : '' }}">
                   <x-heroicon-o-arrow-narrow-left class="w-4 h-4"/>
               </button>
