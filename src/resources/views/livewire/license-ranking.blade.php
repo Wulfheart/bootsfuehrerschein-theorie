@@ -1,7 +1,7 @@
 <dl>
     <dt class="flex flex-row items-center text-sm font-medium leading-5 text-gray-500 truncate">
         <div>
-            Meiste Fragen 30 Tagen
+            Meiste Fragen 30 Tage
         </div>
       <div class="flex flex-row justify-center ml-2 space-x-1">
           <button wire:click="previousPage" wire:loading.attr="disabled" class="{{ $data->onFirstPage() ? 'invisible' : '' }}">
