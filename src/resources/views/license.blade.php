@@ -65,12 +65,13 @@
       </div>
     </div>
 
-    <div class="grid grid-cols-1 gap-5 mt-5 sm:grid-cols-5">
-        <div class="col-span-2 px-4 py-5 bg-white rounded-lg shadow sm:p-6 min-h-64">
+    <div class="grid grid-cols-1 gap-5 mt-5 md:grid-cols-2">
+        <div class="col-span-1 px-4 py-5 bg-white rounded-lg shadow sm:p-6 min-h-64">
           <livewire:license-history :license="$license"/>
         </div>
-        <div class="col-span-2 px-4 py-5 bg-white rounded-lg shadow sm:p-6 min-h-64">
+        <div class="col-span-1 px-4 py-5 bg-white rounded-lg shadow sm:p-6 min-h-64">
           <livewire:license-ranking :license="$license"/>
+          {{-- <livewire:license-answer-history :license="$license"/> --}}
         </div>
         {{-- <div class="flex flex-col rounded-lg">
           <div class="relative flex items-center justify-center h-full overflow-hidden rounded-lg">
