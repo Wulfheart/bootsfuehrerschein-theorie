@@ -84,7 +84,7 @@
     </div>
 
     <div class="pt-5 text-sm text-center text-gray-500">
-        Du hast heute schon {{ $answered }} Fragen beantwortet. Davon hast du {{ $answered_correctly }} richtig beantwortet.
+        Du hast heute schon <b>{{ $answered }}</b> Fragen in der Kategorie <em>{{ $license->name }}</em> beantwortet. <br>Davon hast du <b>{{ $answered_correctly }}</b> richtig beantwortet.
     </div>
     
 

@@ -64,8 +64,19 @@ class Question extends Component
     }
 
     private function calculateStats(): void{
-        $this->answered = auth()->user()->answeredTasks()->whereRAW('DATE(answered_at) = CURDATE()')->count();
-        $this->answered_correctly = auth()->user()->answeredTasks()->whereRAW('DATE(answered_at) = CURDATE()')->where('answered_correctly', true)->count();
+        $this->answered = auth()->user()
+        ->answeredTasks()
+        ->whereRAW('DATE(answered_at) = CURDATE()')
+        ->join('tasks', 'answered_tasks.task_id', 'tasks.id')
+        ->where('license_id', $this->license->id)
+        ->count();
+        $this->answered_correctly = auth()->user()
+        ->answeredTasks()
+        ->whereRAW('DATE(answered_at) = CURDATE()')
+        ->join('tasks', 'answered_tasks.task_id', 'tasks.id')
+        ->where('license_id', $this->license->id)
+        ->where('answered_correctly', true)
+        ->count();
     }
 
     private function assignTask(): void
