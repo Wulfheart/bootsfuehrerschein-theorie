@@ -15,18 +15,20 @@ class TaskSeeder extends Seeder
      */
     public function run()
     {
-        $binnen = License::create([
-            "name" => "SBF Binnen"
+        $basis = License::create([
+            "name" => "SBF Basisfragen"
         ]);
         $see = License::create([
             "name" => "SBF See"
-        ]);
-
+            ]);
+            $binnen = License::create([
+                "name" => "SBF Binnen"
+            ]);
+            
         $todos = [
-            ['path' => 'tasks/SBF_Binnen/Basis.json', 'license' => $binnen],
+            ['path' => 'tasks/SBF_Binnen/Basis.json', 'license' => $basis],
             ['path' => 'tasks/SBF_Binnen/Spezifisch.json', 'license' => $binnen],
-            ['path' => 'tasks/SBF_Binnen/SpezifischSegel.json', 'license' => $binnen],
-            ['path' => 'tasks/SBF_See/Basis.json', 'license' => $see],
+            // ['path' => 'tasks/SBF_Binnen/SpezifischSegel.json', 'license' => $binnen],
             ['path' => 'tasks/SBF_See/Spezifisch.json', 'license' => $see],
         ];
         foreach ($todos as $t) {
